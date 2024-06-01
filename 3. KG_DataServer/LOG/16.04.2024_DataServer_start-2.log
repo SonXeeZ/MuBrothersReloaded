@@ -1,8 +1,0 @@
-[12:45:48] Initializing...
-[12:45:48] Data Server version: DS Compiled at: Mar  8 2024 13:59:14
-[12:45:48] DataServer Login Free: KG_Free
-[12:45:52] [SocketManager] Server started at port [55960]
-[12:46:04] [ServerManager][0] AddServer (127.0.0.1)
-[12:46:04] [ServerManager][0] ServerInfo (MuEMU) (55901) (0)
-[12:46:15] [ServerManager][1] AddServer (127.0.0.1)
-[12:46:15] [ServerManager][1] ServerInfo (MuEMU_CS) (55919) (19)
