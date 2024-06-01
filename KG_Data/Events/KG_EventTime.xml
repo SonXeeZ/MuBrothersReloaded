@@ -1,0 +1,17 @@
+<Events>
+    <Event Index="0" Name="Blood Castle" />
+    <Event Index="1" Name="Devil Square" />
+    <!-- Agregar más eventos aquí -->
+</Events>
+
+<Invasions>
+    <Invasion Index="0" Name="Skeleton King" />
+    <Invasion Index="1" Name="Goblin Invasion" />
+    <!-- Agregar más invasiones aquí -->
+</Invasions>
+
+<Arenas>
+    <Arena Index="0" Name="PvP Battle Arena" />
+    <Arena Index="1" Name="Chaos Castle" />
+    <!-- Agregar más arenas aquí -->
+</Arenas>

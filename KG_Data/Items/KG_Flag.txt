@@ -1,0 +1,10 @@
+0
+// Start Index 8852
+//Index	Item	Coin1	Coin2	Coin3	AddHP	AddMP	DamageRate	DecDamageRate	AttackSpeed	DoubleDmgRate	TripleDmgRate 	AddExperience	ResistDoubleDamage	ResistIgnoreDefense	ResistIgnoreSD	ResistCriticalDamage	ResisteExcellentDamage	ReflectRate
+1	8852	650	450	80	1000	2000	20		20		50		0		0		100		5			6			0		0			0			0
+2	8853	650	450	80	1100	2100	30		30		60		1		1		200		6			7			1		2			3			4
+3	8854	650	450	80	1100	2100	30		30		60		1		1		200		6			7			1		2			3			4
+4	8855	650	450	80	1100	2100	30		30		60		1		1		200		6			7			1		2			3			4
+5	8856	650	450	80	1100	2100	30		30		60		1		1		200		6			7			1		2			3			4
+6	8857	650	450	80	1100	2100	30		30		60		1		1		200		6			7			1		2			3			4
+end

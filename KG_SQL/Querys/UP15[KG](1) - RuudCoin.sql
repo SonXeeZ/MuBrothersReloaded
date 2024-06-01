@@ -1,0 +1,1 @@
+ALTER TABLE [MuOnline].[dbo].[CashShopData] ADD Ruud int NOT NULL DEFAULT (0)

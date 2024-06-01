@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!--
+=================================================================
+						VIDEO GUIA
+=================================================================
+			https://youtu.be/oo3pHlx3M6o
+=================================================================
+NPC [236] Golden Archer
+=================================================================
+Cat = Categoria del item
+Item = Index del item
+Coin1 = Premiacion en WCoin
+Coin2 = Premiacion en WcoinP
+Coin3 = Premiacion en GoblinPoint
+=================================================================
+Necesario juntar 64 unidades(inventario completo) de alguna 
+de las joyas abajo y cliquear en el NPC. 
+Puedes adicionar otras joyas si asi lo deseas.
+=================================================================
+-->
+
+<NpcCollector>
+	<Npc Cat="12" Item="15" Coin1="6" Coin2="0" Coin3="0" Name="Jewel of Chaos" />
+	<Npc Cat="14" Item="13" Coin1="2" Coin2="0" Coin3="0" Name="Jewel of Bless" />
+	<Npc Cat="14" Item="14" Coin1="2" Coin2="0" Coin3="0" Name="Jewel of Soul" />
+	<Npc Cat="14" Item="16" Coin1="2" Coin2="0" Coin3="0" Name="Jewel of Life" />
+	<Npc Cat="14" Item="22" Coin1="2" Coin2="0" Coin3="0" Name="Jewel of Creation" />
+	<Npc Cat="14" Item="41" Coin1="2" Coin2="0" Coin3="0" Name="Gemstone" />
+	<Npc Cat="14" Item="42" Coin1="6" Coin2="0" Coin3="0" Name="Jewel of Harmony" />
+	<Npc Cat="14" Item="21" Coin1="2" Coin2="2" Coin3="2" Name="Rena" />
+</NpcCollector>

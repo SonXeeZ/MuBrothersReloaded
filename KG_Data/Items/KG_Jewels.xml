@@ -1,0 +1,48 @@
+<CustomJewels>
+    <JewelInfo>
+	<!--
+	    <Jewel Index="0" ItemIndex="7568" MinItemLevel="0" MaxItemLevel="12" MaxItemOption1="-1" MaxItemOption2="-1" MinItemOption3="-1" MaxItemOption3="-1" MinItemNewOption="-1" MaxItemNewOption="-1" MaxItemSetOption="-1" MinItemSocketOption="-1" MaxItemSocketOption="-1" EnableSlotWeapon="-1" EnableSlotArmor="-1" EnableSlotWing="-1" SuccessRate_AL0="100" SuccessRate_AL1="100" SuccessRate_AL2="100" SuccessRate_AL3="100" SalePrice="20" ModelName="Jewel180" /> 
+		<Jewel Index="1" ItemIndex="7569" MinItemLevel="0" MaxItemLevel="15" MaxItemOption1="0"  MaxItemOption2="-1" MinItemOption3="-1" MaxItemOption3="-1" MinItemNewOption="-1" MaxItemNewOption="-1" MaxItemSetOption="-1" MinItemSocketOption="-1" MaxItemSocketOption="-1" EnableSlotWeapon="-1" EnableSlotArmor="-1" EnableSlotWing="-1" SuccessRate_AL0="100" SuccessRate_AL1="100" SuccessRate_AL2="100" SuccessRate_AL3="100" SalePrice="20" ModelName="Jewel181" /> 
+		<Jewel Index="2" ItemIndex="7570" MinItemLevel="0" MaxItemLevel="15" MaxItemOption1="-1" MaxItemOption2="0"  MinItemOption3="-1" MaxItemOption3="-1" MinItemNewOption="-1" MaxItemNewOption="-1" MaxItemSetOption="-1" MinItemSocketOption="-1" MaxItemSocketOption="-1" EnableSlotWeapon="-1" EnableSlotArmor="-1" EnableSlotWing="-1" SuccessRate_AL0="100" SuccessRate_AL1="100" SuccessRate_AL2="100" SuccessRate_AL3="100" SalePrice="20" ModelName="Jewel182" />
+		<Jewel Index="3" ItemIndex="7571" MinItemLevel="0" MaxItemLevel="15" MaxItemOption1="-1" MaxItemOption2="-1" MinItemOption3="0"  MaxItemOption3="6"  MinItemNewOption="-1" MaxItemNewOption="-1" MaxItemSetOption="-1" MinItemSocketOption="-1" MaxItemSocketOption="-1" EnableSlotWeapon="-1" EnableSlotArmor="-1" EnableSlotWing="-1" SuccessRate_AL0="100" SuccessRate_AL1="100" SuccessRate_AL2="100" SuccessRate_AL3="100" SalePrice="20" ModelName="Jewel183" />
+		<Jewel Index="4" ItemIndex="7572" MinItemLevel="0" MaxItemLevel="15" MaxItemOption1="-1" MaxItemOption2="-1" MinItemOption3="-1" MaxItemOption3="-1" MinItemNewOption="0"  MaxItemNewOption="5"  MaxItemSetOption="-1" MinItemSocketOption="-1" MaxItemSocketOption="-1" EnableSlotWeapon="-1" EnableSlotArmor="-1" EnableSlotWing="-1" SuccessRate_AL0="100" SuccessRate_AL1="100" SuccessRate_AL2="100" SuccessRate_AL3="100" SalePrice="20" ModelName="Jewel184" /> 
+		<Jewel Index="5" ItemIndex="7573" MinItemLevel="0" MaxItemLevel="15" MaxItemOption1="-1" MaxItemOption2="-1" MinItemOption3="-1" MaxItemOption3="-1" MinItemNewOption="-1" MaxItemNewOption="-1" MaxItemSetOption="-1" MinItemSocketOption="0"  MaxItemSocketOption="0"  EnableSlotWeapon="-1" EnableSlotArmor="-1" EnableSlotWing="-1" SuccessRate_AL0="100" SuccessRate_AL1="100" SuccessRate_AL2="100" SuccessRate_AL3="100" SalePrice="20" ModelName="Jewel185" /> 
+		<Jewel Index="6" ItemIndex="7574" MinItemLevel="0" MaxItemLevel="15" MaxItemOption1="-1" MaxItemOption2="-1" MinItemOption3="-1" MaxItemOption3="-1" MinItemNewOption="-1" MaxItemNewOption="-1" MaxItemSetOption="1"  MinItemSocketOption="-1" MaxItemSocketOption="-1" EnableSlotWeapon="-1" EnableSlotArmor="-1" EnableSlotWing="-1" SuccessRate_AL0="100" SuccessRate_AL1="100" SuccessRate_AL2="100" SuccessRate_AL3="100" SalePrice="20" ModelName="Jewel187" /> 
+		<Jewel Index="7" ItemIndex="7575" MinItemLevel="0" MaxItemLevel="15" MaxItemOption1="-1" MaxItemOption2="-1" MinItemOption3="-1" MaxItemOption3="-1" MinItemNewOption="-1" MaxItemNewOption="-1" MaxItemSetOption="2"  MinItemSocketOption="-1" MaxItemSocketOption="-1" EnableSlotWeapon="-1" EnableSlotArmor="-1" EnableSlotWing="-1" SuccessRate_AL0="100" SuccessRate_AL1="100" SuccessRate_AL2="100" SuccessRate_AL3="100" SalePrice="20" ModelName="Jewel188" /> 
+		<Jewel Index="8" ItemIndex="7576" MinItemLevel="0" MaxItemLevel="15" MaxItemOption1="-1" MaxItemOption2="-1" MinItemOption3="-1" MaxItemOption3="-1" MinItemNewOption="-1" MaxItemNewOption="-1" MaxItemSetOption="-1" MinItemSocketOption="-1" MaxItemSocketOption="-1" EnableSlotWeapon="-1" EnableSlotArmor="-1" EnableSlotWing="-1" SuccessRate_AL0="100" SuccessRate_AL1="100" SuccessRate_AL2="100" SuccessRate_AL3="100" SalePrice="20" ModelName="Jewel186" /> 
+		<Jewel Index="9" ItemIndex="7428" MinItemLevel="-1" MaxItemLevel="-1" MaxItemOption1="-1" MaxItemOption2="-1" MinItemOption3="-1" MaxItemOption3="-1" MinItemNewOption="-1" MaxItemNewOption="-1" MaxItemSetOption="-1" MinItemSocketOption="-1" MaxItemSocketOption="-1" EnableSlotWeapon="-1" EnableSlotArmor="-1" EnableSlotWing="-1" SuccessRate_AL0="100" SuccessRate_AL1="100" SuccessRate_AL2="100" SuccessRate_AL3="100" SalePrice="20" ModelName="evolutionstone" />
+	-->
+	</JewelInfo>
+	
+	<JewelSuccess>
+	<!--
+	    <Jewel Index="0" Level="15" Option1="0" Option2="0" Option3="0" NewOption="0" SetOption="0" SocketOption="0" />
+		<Jewel Index="1" Level="0"  Option1="1" Option2="0" Option3="0" NewOption="0" SetOption="0" SocketOption="0" />
+		<Jewel Index="2" Level="0"  Option1="0" Option2="1" Option3="0" NewOption="0" SetOption="0" SocketOption="0" />
+		<Jewel Index="3" Level="0"  Option1="0" Option2="0" Option3="7" NewOption="0" SetOption="0" SocketOption="0" />
+		<Jewel Index="4" Level="0"  Option1="0" Option2="0" Option3="0" NewOption="1" SetOption="0" SocketOption="0" />
+		<Jewel Index="5" Level="0"  Option1="0" Option2="0" Option3="0" NewOption="0" SetOption="0" SocketOption="1" />
+		<Jewel Index="6" Level="0"  Option1="0" Option2="0" Option3="0" NewOption="0" SetOption="5" SocketOption="0" />
+		<Jewel Index="7" Level="15"  Option1="0" Option2="0" Option3="0" NewOption="0" SetOption="6" SocketOption="0" />
+		<Jewel Index="8" Level="15" Option1="1" Option2="1" Option3="7" NewOption="63" SetOption="0" SocketOption="0" />
+		<Jewel Index="9" Level="0" Option1="0" Option2="0" Option3="0" NewOption="0" SetOption="0" SocketOption="0" />
+	-->
+	</JewelSuccess>
+	
+	<JewelFail>
+	<!--
+	    <Jewel Index="" Level="" Option1="" Option2="" Option3="" NewOption="" SetOption="" SocketOption="" />
+	-->
+	</JewelFail>
+	
+	<JewelUpgrade>
+	    <!-- 
+		Index: From <JewelSuccess>
+		ItemIndexOld: ItemIndex of the item to which we will apply the jewel.
+		ItemIndexNew: ItemIndex of the item that we will obtain.
+		-->
+		<!-- 
+		<Jewel Index="9" ItemIndexOld="6856" ItemIndexNew="6857" />
+		-->
+	</JewelUpgrade>
+</CustomJewels>

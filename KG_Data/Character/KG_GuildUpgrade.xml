@@ -1,0 +1,29 @@
+<GuildUpgrade>
+    <GuildLevel>
+	    <Load Level="1" Devote="1000000" ST="2500" PT="2500" />
+		<Load Level="2" Devote="3000000" ST="3000" PT="3000" />
+		<Load Level="3" Devote="6000000" ST="3500" PT="3500" />
+		<Load Level="4" Devote="9000000" ST="4000" PT="4000" />
+		<Load Level="5" Devote="12000000" ST="5500" PT="5500" />
+		<Load Level="6" Devote="15000000" ST="7000" PT="7000" />
+		<Load Level="7" Devote="18000000" ST="9500" PT="9500" />
+		<Load Level="8" Devote="23000000" ST="11000" PT="11000" />
+		<Load Level="9" Devote="27000000" ST="15000" PT="15000" />
+		<Load Level="10" Devote="32000000" ST="17000" PT="17000" />
+		<Load Level="11" Devote="35000000" ST="19000" PT="19000" />
+		<Load Level="12" Devote="42000000" ST="22000" PT="22000" />
+		<Load Level="13" Devote="50000000" ST="25000" PT="25000" />
+		<Load Level="14" Devote="65000000" ST="28000" PT="28000" />
+		<Load Level="15" Devote="90000000" ST="31000" PT="31000" />
+	</GuildLevel>
+	
+	<GuildDedication>
+	    <Load Type="14" Index="13" Level="0" Devote="50" />
+		<Load Type="14" Index="14" Level="0" Devote="70" />
+	</GuildDedication>
+	
+	<GuildShop>
+     	<Load Type="12" Index="125" Level="0" GuildLevel="0" Devote="500" Zen="50000000" />
+	    <Load Type="12" Index="126" Level="0" GuildLevel="0" Devote="500" Zen="50000000" />
+	</GuildShop>
+</GuildUpgrade>

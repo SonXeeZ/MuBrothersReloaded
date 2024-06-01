@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<NpcQuest>
+    <Npc>
+	<!--
+        <Load Quest="1" NpcID="380" NpcMap="2" NpcX="210" NpcY="40" MaxQuest="10" OpenNpc="0" />
+	-->
+	</Npc>
+	
+	<NpcReqStats>
+	    <Load Quest="1" Level="20" Reset="-1" MReset="-1" Zen="1000" Coin1="0" Coin2="0" Coin3="0" VipLevel="-1" RankUser="-1" Kills="-1" />
+		<Load Quest="2" Level="200" Reset="-1" MReset="-1" Zen="1000" Coin1="0" Coin2="0" Coin3="0" VipLevel="-1" RankUser="-1" Kills="-1" />
+	</NpcReqStats>
+	
+	<NpcReqItem>
+	    <Load Quest="1" ItemCat="15" ItemIndex="42" ItemLevel="-1" ItemLuck="-1" ItemSkill="-1" ItemQnt="1" />
+	    <Load Quest="1" ItemCat="15" ItemIndex="43" ItemLevel="-1" ItemLuck="-1" ItemSkill="-1" ItemQnt="1" />
+	    <Load Quest="1" ItemCat="15" ItemIndex="44" ItemLevel="-1" ItemLuck="-1" ItemSkill="-1" ItemQnt="1" />
+	    <Load Quest="1" ItemCat="15" ItemIndex="45" ItemLevel="-1" ItemLuck="-1" ItemSkill="-1" ItemQnt="1" />
+	    <Load Quest="1" ItemCat="15" ItemIndex="46" ItemLevel="-1" ItemLuck="-1" ItemSkill="-1" ItemQnt="1" />
+	    <Load Quest="1" ItemCat="15" ItemIndex="47" ItemLevel="-1" ItemLuck="-1" ItemSkill="-1" ItemQnt="1" />
+	    <Load Quest="1" ItemCat="15" ItemIndex="48" ItemLevel="-1" ItemLuck="-1" ItemSkill="-1" ItemQnt="1" />
+	    <Load Quest="1" ItemCat="15" ItemIndex="49" ItemLevel="-1" ItemLuck="-1" ItemSkill="-1" ItemQnt="1" />
+	    <Load Quest="1" ItemCat="15" ItemIndex="50" ItemLevel="-1" ItemLuck="-1" ItemSkill="-1" ItemQnt="1" />
+	    <Load Quest="1" ItemCat="15" ItemIndex="51" ItemLevel="-1" ItemLuck="-1" ItemSkill="-1" ItemQnt="1" />
+	    <Load Quest="1" ItemCat="15" ItemIndex="52" ItemLevel="-1" ItemLuck="-1" ItemSkill="-1" ItemQnt="1" />
+	    <Load Quest="1" ItemCat="15" ItemIndex="53" ItemLevel="-1" ItemLuck="-1" ItemSkill="-1" ItemQnt="1" />
+	</NpcReqItem>
+	
+	<NpcMonsterKill>
+		<Load Quest="2" MonsterID="4" Qnt="12" />
+	</NpcMonsterKill>
+	
+	<RewardCoin>
+		<Load Quest="2" Cash="0" Gold="0" PcPoint="15" />
+	</RewardCoin>
+	
+	<RewardItem>
+	    <Load Quest="1" ItemCat="14" ItemIndex="276" ItemLevel="0" ItemDur="0" ItemSkill="0" ItemLuck="0" ItemOption="0" ItemExcOption="0" ItemSetOp="0" JoH="0" OEx="0" Socket1="255" Socket2="255" Socket3="255" Socket4="255" Socket5="255" Time="0" Class="-1" />
+	</RewardItem>
+	
+	<RewardBuff>
+	    <Load Quest="1" EffectID="39" Power1="30" Power2="0" Time="2" />
+	</RewardBuff>
+	
+	<RewardExp>
+	    <Load Quest="1" Experience="10000" />
+	</RewardExp>
+</NpcQuest>

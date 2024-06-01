@@ -1,0 +1,663 @@
+02:58:40 [ServerInfo] License loaded successfully
+02:58:40 [ServerInfo] Script Performance loaded successfully
+02:58:40 [ServerInfo] CashShop loaded successfully
+02:58:40 [ServerInfo] ChaosMix loaded successfully
+02:58:40 [ServerInfo] Character loaded successfully
+02:58:40 [ServerInfo] Custom loaded successfully
+02:58:40 [ServerInfo] Command loaded successfully
+02:58:40 [ServerInfo] Common loaded successfully
+02:58:40 [ Crywolf ] State (0) -> NONE
+02:58:40 [ Crywolf ] SetState - StateInfo : Occupation/0, State/0
+02:58:40 [ServerInfo] Event loaded successfully
+02:58:40 [ServerInfo] EventItemBag loaded successfully
+02:58:40 [ServerInfo] Hack loaded successfully
+02:58:40 [ServerInfo] Item loaded successfully
+02:58:40 [ServerInfo] Monster loaded successfully
+02:58:40 [ServerInfo] Move loaded successfully
+02:58:40 [ServerInfo] Quest loaded successfully
+02:58:41 [ServerInfo] Shop loaded successfully
+02:58:41 [ServerInfo] Skill loaded successfully
+02:58:41 [ServerInfo] Util loaded successfully
+02:58:41 [ServerInfo] Bots loaded successfully
+02:58:41 [ServerInfo] BlackList loaded successfully
+02:58:41 [ServerInfo] SwampEvent Event loaded successfully
+02:58:41 [Swamp Event] Sync Start Time. [871] min remain
+02:58:41 [Swamp Event] SetState EMPTY
+02:58:41 [SkyEvent] SetState_BLANK
+02:58:41 Lua loaded successfully!
+02:58:42 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA FIRST
+02:58:46 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+02:58:50 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+02:58:54 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+02:58:58 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+02:59:02 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+02:59:06 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+02:59:10 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+02:59:13 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+02:59:17 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+02:59:21 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+02:59:24 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+02:59:28 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+02:59:32 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+02:59:36 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+02:59:40 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+02:59:44 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+02:59:48 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+02:59:51 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+02:59:55 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+02:59:59 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+03:00:03 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+03:00:06 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+03:00:10 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+03:00:14 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+03:00:18 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+03:00:22 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+03:00:26 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+03:00:30 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+03:00:34 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+03:00:38 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+03:00:42 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+03:00:46 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+03:00:49 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+03:00:53 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+03:00:57 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+03:01:00 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+03:01:04 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+03:01:08 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+03:01:12 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+03:01:16 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+03:01:20 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+03:01:23 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+03:01:27 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+03:01:31 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+03:01:34 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+03:01:38 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+03:01:41 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+03:01:45 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+03:01:49 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+03:01:52 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+03:01:56 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+03:02:00 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+03:02:04 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+03:02:08 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+03:02:12 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+03:02:16 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+03:02:20 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+03:02:24 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+03:02:28 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+03:02:32 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+03:02:36 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+03:02:39 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+03:02:43 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+03:02:47 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+03:02:51 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+03:02:54 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+03:02:58 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+03:03:02 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+03:03:06 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+03:03:09 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+03:03:13 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+03:03:17 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+03:03:21 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+03:03:25 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+03:03:28 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+03:03:32 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+03:03:36 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+03:03:40 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+03:03:44 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+03:03:48 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+03:03:52 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+03:03:56 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+03:04:04 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+03:04:07 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+03:04:11 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+03:04:15 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+03:04:19 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+03:04:23 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+03:04:27 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+03:07:19 [ServerInfo] License loaded successfully
+03:07:19 [ServerInfo] Script Performance loaded successfully
+03:07:19 [ServerInfo] CashShop loaded successfully
+03:07:19 [ServerInfo] ChaosMix loaded successfully
+03:07:19 [ServerInfo] Character loaded successfully
+03:07:19 [ServerInfo] Custom loaded successfully
+03:07:19 [ServerInfo] Command loaded successfully
+03:07:19 [ServerInfo] Common loaded successfully
+03:07:19 [ Crywolf ] State (0) -> NONE
+03:07:19 [ Crywolf ] SetState - StateInfo : Occupation/0, State/0
+03:07:19 [ServerInfo] Event loaded successfully
+03:07:19 [ServerInfo] EventItemBag loaded successfully
+03:07:19 [ServerInfo] Hack loaded successfully
+03:07:19 [ServerInfo] Item loaded successfully
+03:07:19 [ServerInfo] Monster loaded successfully
+03:07:19 [ServerInfo] Move loaded successfully
+03:07:19 [ServerInfo] Quest loaded successfully
+03:07:19 [ServerInfo] Shop loaded successfully
+03:07:19 [ServerInfo] Skill loaded successfully
+03:07:19 [ServerInfo] Util loaded successfully
+03:07:19 [ServerInfo] Bots loaded successfully
+03:07:19 [ServerInfo] BlackList loaded successfully
+03:07:19 [ServerInfo] SwampEvent Event loaded successfully
+03:07:19 [Swamp Event] Sync Start Time. [862] min remain
+03:07:19 [Swamp Event] SetState EMPTY
+03:07:19 [SkyEvent] SetState_BLANK
+03:07:19 Lua loaded successfully!
+03:07:20 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA FIRST
+03:07:24 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+03:07:28 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+03:07:32 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+03:07:36 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+03:07:40 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+03:07:44 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+03:07:48 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+03:07:51 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+03:07:55 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+03:07:59 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+03:08:03 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+03:08:07 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+03:08:11 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+03:08:15 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+03:08:18 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+03:08:22 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+03:08:26 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+03:08:30 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+03:08:34 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+03:08:38 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+03:08:42 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+03:08:45 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+03:08:49 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+03:08:53 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+03:08:57 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+03:09:01 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+12:49:04 [ServerInfo] License loaded successfully
+12:49:04 [ServerInfo] Script Performance loaded successfully
+12:49:04 [ServerInfo] CashShop loaded successfully
+12:49:04 [ServerInfo] ChaosMix loaded successfully
+12:49:04 [ServerInfo] Character loaded successfully
+12:49:04 [ServerInfo] Custom loaded successfully
+12:49:04 [ServerInfo] Command loaded successfully
+12:49:04 [ServerInfo] Common loaded successfully
+12:49:04 [ Crywolf ] State (0) -> NONE
+12:49:04 [ Crywolf ] SetState - StateInfo : Occupation/0, State/0
+12:49:04 [ServerInfo] Event loaded successfully
+12:49:04 [ServerInfo] EventItemBag loaded successfully
+12:49:04 [ServerInfo] Hack loaded successfully
+12:49:04 [ServerInfo] Item loaded successfully
+12:49:04 [ServerInfo] Monster loaded successfully
+12:49:04 [ServerInfo] Move loaded successfully
+12:49:04 [ServerInfo] Quest loaded successfully
+12:49:04 [ServerInfo] Shop loaded successfully
+12:49:04 [ServerInfo] Skill loaded successfully
+12:49:04 [ServerInfo] Util loaded successfully
+12:49:04 [ServerInfo] Bots loaded successfully
+12:49:04 [ServerInfo] BlackList loaded successfully
+12:49:04 [ServerInfo] SwampEvent Event loaded successfully
+12:49:04 [Swamp Event] Sync Start Time. [280] min remain
+12:49:04 [Swamp Event] SetState EMPTY
+12:49:04 [SkyEvent] SetState_BLANK
+12:49:04 Lua loaded successfully!
+12:49:05 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA FIRST
+12:49:09 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+12:49:13 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+12:49:17 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+12:49:21 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+12:49:25 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+12:49:29 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+12:49:33 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+12:49:37 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+12:49:41 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+12:49:45 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+12:49:49 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+12:49:53 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+12:49:57 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+12:50:00 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+12:50:04 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+12:50:08 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+12:50:12 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+12:50:16 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+12:50:20 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+12:50:24 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+12:50:28 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+12:50:32 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+12:50:36 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+12:50:40 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+12:50:44 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+12:50:48 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+12:50:52 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+12:50:56 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+12:51:00 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+12:51:04 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+12:51:08 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+12:51:12 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+12:51:16 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+12:51:20 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+12:51:24 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+12:51:28 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+12:51:32 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+12:51:36 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+12:51:40 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+12:51:44 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+12:51:48 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+12:51:52 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+12:51:56 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+12:52:00 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+12:52:04 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+12:52:08 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+12:52:12 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+12:52:15 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+12:52:19 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+12:52:23 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+12:52:26 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+12:52:30 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+12:52:34 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+12:52:37 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+12:52:41 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+12:52:44 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+12:52:48 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+12:52:52 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+12:52:56 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+12:52:59 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+12:53:03 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+12:53:07 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+12:53:10 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+12:53:14 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+12:53:18 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+12:53:22 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+12:53:25 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+12:53:29 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+12:53:33 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+12:53:37 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+12:53:41 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+12:53:45 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+12:53:48 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+12:53:52 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+12:53:56 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+12:53:59 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+12:54:03 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+12:54:07 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+12:54:11 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+12:54:15 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+12:54:19 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+12:54:23 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+12:54:27 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+12:54:31 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+12:54:35 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+12:54:39 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+12:54:43 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+12:54:47 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+12:54:50 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+12:54:54 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+12:54:57 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+12:55:01 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+12:55:05 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+12:55:09 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+12:55:13 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+12:55:17 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+12:55:21 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+12:55:25 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+12:55:29 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+12:55:33 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+12:55:37 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+12:55:41 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+12:55:44 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+12:55:48 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+12:55:52 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+12:55:56 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+12:55:59 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+12:56:11 [ServerInfo] License loaded successfully
+12:56:11 [ServerInfo] Script Performance loaded successfully
+12:56:11 [ServerInfo] CashShop loaded successfully
+12:56:11 [ServerInfo] ChaosMix loaded successfully
+12:56:11 [ServerInfo] Character loaded successfully
+12:56:11 [ServerInfo] Custom loaded successfully
+12:56:11 [ServerInfo] Command loaded successfully
+12:56:11 [ServerInfo] Common loaded successfully
+12:56:12 [ Crywolf ] State (0) -> NONE
+12:56:12 [ Crywolf ] SetState - StateInfo : Occupation/0, State/0
+12:56:12 [ServerInfo] Event loaded successfully
+12:56:12 [ServerInfo] EventItemBag loaded successfully
+12:56:12 [ServerInfo] Hack loaded successfully
+12:56:12 [ServerInfo] Item loaded successfully
+12:56:12 [ServerInfo] Monster loaded successfully
+12:56:12 [ServerInfo] Move loaded successfully
+12:56:12 [ServerInfo] Quest loaded successfully
+12:56:12 [ServerInfo] Shop loaded successfully
+12:56:12 [ServerInfo] Skill loaded successfully
+12:56:12 [ServerInfo] Util loaded successfully
+12:56:12 [ServerInfo] Bots loaded successfully
+12:56:12 [ServerInfo] BlackList loaded successfully
+12:56:12 [ServerInfo] SwampEvent Event loaded successfully
+12:56:12 [Swamp Event] Sync Start Time. [273] min remain
+12:56:12 [Swamp Event] SetState EMPTY
+12:56:12 [SkyEvent] SetState_BLANK
+12:56:12 Lua loaded successfully!
+12:56:13 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA FIRST
+12:56:16 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+12:56:20 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+12:56:23 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+12:56:27 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+12:56:30 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+12:56:34 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+12:56:38 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+12:56:41 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+12:56:45 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+12:56:49 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+12:56:53 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+12:56:57 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+12:57:01 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+12:57:05 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+12:57:09 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+12:57:12 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+12:57:16 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+12:57:20 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+12:57:24 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+12:57:28 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+12:57:32 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+12:57:35 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+12:57:39 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+12:57:53 [ServerInfo] License loaded successfully
+12:57:53 [ServerInfo] Script Performance loaded successfully
+12:57:53 [ServerInfo] CashShop loaded successfully
+12:57:53 [ServerInfo] ChaosMix loaded successfully
+12:57:53 [ServerInfo] Character loaded successfully
+12:57:53 [ServerInfo] Custom loaded successfully
+12:57:54 [ServerInfo] Command loaded successfully
+12:57:54 [ServerInfo] Common loaded successfully
+12:57:54 [ Crywolf ] State (0) -> NONE
+12:57:54 [ Crywolf ] SetState - StateInfo : Occupation/0, State/0
+12:57:54 [ServerInfo] Event loaded successfully
+12:57:54 [ServerInfo] EventItemBag loaded successfully
+12:57:54 [ServerInfo] Hack loaded successfully
+12:57:54 [ServerInfo] Item loaded successfully
+12:57:54 [ServerInfo] Monster loaded successfully
+12:57:54 [ServerInfo] Move loaded successfully
+12:57:54 [ServerInfo] Quest loaded successfully
+12:57:54 [ServerInfo] Shop loaded successfully
+12:57:54 [ServerInfo] Skill loaded successfully
+12:57:54 [ServerInfo] Util loaded successfully
+12:57:54 [ServerInfo] Bots loaded successfully
+12:57:54 [ServerInfo] BlackList loaded successfully
+12:57:54 [ServerInfo] SwampEvent Event loaded successfully
+12:57:54 [Swamp Event] Sync Start Time. [272] min remain
+12:57:54 [Swamp Event] SetState EMPTY
+12:57:54 [SkyEvent] SetState_BLANK
+12:57:54 Lua loaded successfully!
+12:57:55 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA FIRST
+12:57:59 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+12:58:03 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+12:58:07 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+12:58:10 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+12:58:14 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+12:58:18 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+12:58:22 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+12:58:26 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+12:58:30 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+12:58:34 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+12:58:38 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+12:58:42 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+12:58:45 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+13:00:38 [ServerInfo] License loaded successfully
+13:00:38 [ServerInfo] Script Performance loaded successfully
+13:00:38 [ServerInfo] CashShop loaded successfully
+13:00:38 [ServerInfo] ChaosMix loaded successfully
+13:00:38 [ServerInfo] Character loaded successfully
+13:00:38 [ServerInfo] Custom loaded successfully
+13:00:38 [ServerInfo] Command loaded successfully
+13:00:38 [ServerInfo] Common loaded successfully
+13:00:38 [ Crywolf ] State (0) -> NONE
+13:00:38 [ Crywolf ] SetState - StateInfo : Occupation/0, State/0
+13:00:38 [ServerInfo] Event loaded successfully
+13:00:38 [ServerInfo] EventItemBag loaded successfully
+13:00:38 [ServerInfo] Hack loaded successfully
+13:00:38 [ServerInfo] Item loaded successfully
+13:00:38 [ServerInfo] Monster loaded successfully
+13:00:38 [ServerInfo] Move loaded successfully
+13:00:38 [ServerInfo] Quest loaded successfully
+13:00:38 [ServerInfo] Shop loaded successfully
+13:00:38 [ServerInfo] Skill loaded successfully
+13:00:38 [ServerInfo] Util loaded successfully
+13:00:38 [ServerInfo] Bots loaded successfully
+13:00:38 [ServerInfo] BlackList loaded successfully
+13:00:38 [ServerInfo] SwampEvent Event loaded successfully
+13:00:38 [Swamp Event] Sync Start Time. [269] min remain
+13:00:38 [Swamp Event] SetState EMPTY
+13:00:38 [SkyEvent] SetState_BLANK
+13:00:38 Lua loaded successfully!
+13:00:39 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA FIRST
+13:00:42 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+13:00:46 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+13:00:50 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+13:00:54 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+13:12:09 [ServerInfo] License loaded successfully
+13:12:09 [ServerInfo] Script Performance loaded successfully
+13:12:09 [ServerInfo] CashShop loaded successfully
+13:12:09 [ServerInfo] ChaosMix loaded successfully
+13:12:09 [ServerInfo] Character loaded successfully
+13:12:09 [ServerInfo] Custom loaded successfully
+13:12:09 [ServerInfo] Command loaded successfully
+13:12:09 [ServerInfo] Common loaded successfully
+13:12:09 [ Crywolf ] State (0) -> NONE
+13:12:09 [ Crywolf ] SetState - StateInfo : Occupation/0, State/0
+13:12:09 [ServerInfo] Event loaded successfully
+13:12:10 [ServerInfo] EventItemBag loaded successfully
+13:12:10 [ServerInfo] Hack loaded successfully
+13:12:10 [ServerInfo] Item loaded successfully
+13:12:10 [ServerInfo] Monster loaded successfully
+13:12:10 [ServerInfo] Move loaded successfully
+13:12:10 [ServerInfo] Quest loaded successfully
+13:12:10 [ServerInfo] Shop loaded successfully
+13:12:10 [ServerInfo] Skill loaded successfully
+13:12:10 [ServerInfo] Util loaded successfully
+13:12:10 [ServerInfo] Bots loaded successfully
+13:12:10 [ServerInfo] BlackList loaded successfully
+13:12:10 [ServerInfo] SwampEvent Event loaded successfully
+13:12:10 [Swamp Event] Sync Start Time. [257] min remain
+13:12:10 [Swamp Event] SetState EMPTY
+13:12:10 [SkyEvent] SetState_BLANK
+13:12:10 Lua loaded successfully!
+13:12:11 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA FIRST
+13:12:14 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+13:12:18 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+13:12:22 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+13:12:25 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+13:12:29 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+13:12:33 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+13:12:37 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+13:12:41 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+13:12:45 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+13:12:49 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+13:12:52 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+13:12:56 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+13:13:00 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+13:13:04 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+13:13:07 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+13:13:11 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+13:13:15 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+13:13:19 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+13:13:23 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+13:13:27 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+13:13:31 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+13:13:35 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+13:13:39 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+13:13:43 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+13:13:47 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+13:13:51 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+13:13:54 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+13:13:58 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+13:14:02 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+13:14:06 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+13:16:32 [ServerInfo] License loaded successfully
+13:16:32 [ServerInfo] Script Performance loaded successfully
+13:16:32 [ServerInfo] CashShop loaded successfully
+13:16:32 [ServerInfo] ChaosMix loaded successfully
+13:16:32 [ServerInfo] Character loaded successfully
+13:16:32 [ServerInfo] Custom loaded successfully
+13:16:32 [ServerInfo] Command loaded successfully
+13:16:32 [ServerInfo] Common loaded successfully
+13:16:32 [ Crywolf ] State (0) -> NONE
+13:16:32 [ Crywolf ] SetState - StateInfo : Occupation/0, State/0
+13:16:32 [ServerInfo] Event loaded successfully
+13:16:32 [ServerInfo] EventItemBag loaded successfully
+13:16:32 [ServerInfo] Hack loaded successfully
+13:16:32 [ServerInfo] Item loaded successfully
+13:16:32 [ServerInfo] Monster loaded successfully
+13:16:32 [ServerInfo] Move loaded successfully
+13:16:32 [ServerInfo] Quest loaded successfully
+13:16:32 [ServerInfo] Shop loaded successfully
+13:16:32 [ServerInfo] Skill loaded successfully
+13:16:32 [ServerInfo] Util loaded successfully
+13:16:32 [ServerInfo] Bots loaded successfully
+13:16:32 [ServerInfo] BlackList loaded successfully
+13:16:32 [ServerInfo] SwampEvent Event loaded successfully
+13:16:32 [Swamp Event] Sync Start Time. [253] min remain
+13:16:32 [Swamp Event] SetState EMPTY
+13:16:32 [SkyEvent] SetState_BLANK
+13:16:33 Lua loaded successfully!
+13:16:34 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA FIRST
+13:16:38 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+13:16:42 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+13:16:45 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+13:16:49 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+13:16:52 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+13:16:56 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+13:17:00 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+13:17:04 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+13:17:08 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+13:17:12 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+13:17:16 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+13:17:20 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+13:17:24 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+13:17:27 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+13:17:31 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+13:17:35 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+13:17:39 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+13:17:43 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+13:17:46 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+13:17:50 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+13:17:54 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+13:17:58 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+13:18:02 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+13:18:05 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+13:18:58 [ServerInfo] License loaded successfully
+13:18:58 [ServerInfo] Script Performance loaded successfully
+13:18:58 [ServerInfo] CashShop loaded successfully
+13:18:58 [ServerInfo] ChaosMix loaded successfully
+13:18:58 [ServerInfo] Character loaded successfully
+13:18:58 [ServerInfo] Custom loaded successfully
+13:18:58 [ServerInfo] Command loaded successfully
+13:18:58 [ServerInfo] Common loaded successfully
+13:18:58 [ Crywolf ] State (0) -> NONE
+13:18:58 [ Crywolf ] SetState - StateInfo : Occupation/0, State/0
+13:18:58 [ServerInfo] Event loaded successfully
+13:18:58 [ServerInfo] EventItemBag loaded successfully
+13:18:58 [ServerInfo] Hack loaded successfully
+13:18:58 [ServerInfo] Item loaded successfully
+13:18:58 [ServerInfo] Monster loaded successfully
+13:18:58 [ServerInfo] Move loaded successfully
+13:18:58 [ServerInfo] Quest loaded successfully
+13:18:58 [ServerInfo] Shop loaded successfully
+13:18:58 [ServerInfo] Skill loaded successfully
+13:18:58 [ServerInfo] Util loaded successfully
+13:18:58 [ServerInfo] Bots loaded successfully
+13:18:58 [ServerInfo] BlackList loaded successfully
+13:18:58 [ServerInfo] SwampEvent Event loaded successfully
+13:18:58 [Swamp Event] Sync Start Time. [251] min remain
+13:18:58 [Swamp Event] SetState EMPTY
+13:18:58 [SkyEvent] SetState_BLANK
+13:18:58 Lua loaded successfully!
+13:18:59 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA FIRST
+13:19:03 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+13:19:07 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+13:19:11 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+13:19:49 [ServerInfo] License loaded successfully
+13:19:49 [ServerInfo] Script Performance loaded successfully
+13:19:49 [ServerInfo] CashShop loaded successfully
+13:19:49 [ServerInfo] ChaosMix loaded successfully
+13:19:50 [ServerInfo] Character loaded successfully
+13:19:50 [ServerInfo] Custom loaded successfully
+13:19:50 [ServerInfo] Command loaded successfully
+13:19:50 [ServerInfo] Common loaded successfully
+13:19:50 [ Crywolf ] State (0) -> NONE
+13:19:50 [ Crywolf ] SetState - StateInfo : Occupation/0, State/0
+13:19:50 [ServerInfo] Event loaded successfully
+13:19:50 [ServerInfo] EventItemBag loaded successfully
+13:19:50 [ServerInfo] Hack loaded successfully
+13:19:50 [ServerInfo] Item loaded successfully
+13:19:50 [ServerInfo] Monster loaded successfully
+13:19:50 [ServerInfo] Move loaded successfully
+13:19:50 [ServerInfo] Quest loaded successfully
+13:19:50 [ServerInfo] Shop loaded successfully
+13:19:50 [ServerInfo] Skill loaded successfully
+13:19:50 [ServerInfo] Util loaded successfully
+13:19:50 [ServerInfo] Bots loaded successfully
+13:19:50 [ServerInfo] BlackList loaded successfully
+13:19:50 [ServerInfo] SwampEvent Event loaded successfully
+13:19:50 [Swamp Event] Sync Start Time. [250] min remain
+13:19:50 [Swamp Event] SetState EMPTY
+13:19:50 [SkyEvent] SetState_BLANK
+13:19:50 Lua loaded successfully!
+13:19:51 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA FIRST
+13:19:55 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+13:19:59 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+13:20:03 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+13:20:07 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+13:20:11 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+13:20:15 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+13:20:19 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+13:21:11 [ServerInfo] License loaded successfully
+13:21:11 [ServerInfo] Script Performance loaded successfully
+13:21:11 [ServerInfo] CashShop loaded successfully
+13:21:11 [ServerInfo] ChaosMix loaded successfully
+13:21:11 [ServerInfo] Character loaded successfully
+13:21:11 [ServerInfo] Custom loaded successfully
+13:21:11 [ServerInfo] Command loaded successfully
+13:21:11 [ServerInfo] Common loaded successfully
+13:21:11 [ Crywolf ] State (0) -> NONE
+13:21:11 [ Crywolf ] SetState - StateInfo : Occupation/0, State/0
+13:21:11 [ServerInfo] Event loaded successfully
+13:21:11 [ServerInfo] EventItemBag loaded successfully
+13:21:11 [ServerInfo] Hack loaded successfully
+13:21:11 [ServerInfo] Item loaded successfully
+13:21:11 [ServerInfo] Monster loaded successfully
+13:21:11 [ServerInfo] Move loaded successfully
+13:21:11 [ServerInfo] Quest loaded successfully
+13:21:11 [ServerInfo] Shop loaded successfully
+13:21:11 [ServerInfo] Skill loaded successfully
+13:21:11 [ServerInfo] Util loaded successfully
+13:21:11 [ServerInfo] Bots loaded successfully
+13:21:11 [ServerInfo] BlackList loaded successfully
+13:21:11 [ServerInfo] SwampEvent Event loaded successfully
+13:21:11 [Swamp Event] Sync Start Time. [248] min remain
+13:21:11 [Swamp Event] SetState EMPTY
+13:21:11 [SkyEvent] SetState_BLANK
+13:21:11 Lua loaded successfully!
+13:21:12 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA FIRST
+13:21:16 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+13:21:20 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+13:21:23 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+13:21:27 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+13:21:31 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+13:21:35 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+13:21:39 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+13:21:43 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+13:21:47 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+13:21:51 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+13:21:55 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+13:21:59 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+13:22:03 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+13:22:06 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+13:22:10 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+13:22:14 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+13:22:18 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+13:22:22 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+13:22:26 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+13:22:30 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+13:22:34 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+13:22:38 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+13:22:42 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+13:22:46 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+13:22:50 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+13:22:54 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+13:22:58 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+13:23:02 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+13:23:06 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN

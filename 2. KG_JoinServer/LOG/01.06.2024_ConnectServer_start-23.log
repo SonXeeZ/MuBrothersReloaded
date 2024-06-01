@@ -1,0 +1,7 @@
+[13:18:49] Initializing...
+[13:18:49] Join Server version: JS Compiled at: Nov  3 2023 14:53:54
+[13:18:49] [SocketManager] Server started at port [55970]
+[13:18:55] [SocketManager] WSAAccept() failed with error: 10061
+[13:18:58] [SocketManager] WSAAccept() failed with error: 10061
+[13:19:05] [SocketManager] WSAAccept() failed with error: 10061
+[13:19:08] [SocketManager] WSAAccept() failed with error: 10061

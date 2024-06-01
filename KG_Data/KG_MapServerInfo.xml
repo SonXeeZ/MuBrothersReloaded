@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<MapServer>
+ <ServerInfo Version="1.04.05" Serial="TbYehR2hFUPBKgZj" />
+	<ServerList>
+		<Server Code="0"  Group="0" Initiation="1" IP="185.65.68.126" Port="55901" Name="GameServer1" />
+		<Server Code="5"  Group="0" Initiation="1" IP="185.65.68.126" Port="55902" Name="GameServer2" />
+		<Server Code="19" Group="0" Initiation="0" IP="185.65.68.126" Port="55919" Name="GameServerCS" />
+	</ServerList>
+	
+	<ServerMapping>
+		<Server Code="0"  MoveAble="0" MapNumber="30" DestServerCode="19" Name="GameServer1"/>
+		<Server Code="0"  MoveAble="0" MapNumber="31" DestServerCode="19" Name="GameServer1"/>
+		<Server Code="0"  MoveAble="0" MapNumber="34" DestServerCode="19" Name="GameServer1"/>
+		<Server Code="0"  MoveAble="0" MapNumber="41" DestServerCode="19" Name="GameServer1"/>
+		<Server Code="0"  MoveAble="0" MapNumber="42" DestServerCode="19" Name="GameServer1"/>
+		<Server Code="0"  MoveAble="0" MapNumber="79" DestServerCode="19" Name="GameServer1"/>
+		
+		<Server Code="5"  MoveAble="0" MapNumber="30" DestServerCode="19" Name="GameServer2"/>
+		<Server Code="5"  MoveAble="0" MapNumber="31" DestServerCode="19" Name="GameServer2"/>
+		<Server Code="5"  MoveAble="0" MapNumber="34" DestServerCode="19" Name="GameServer2"/>
+		<Server Code="5"  MoveAble="0" MapNumber="41" DestServerCode="19" Name="GameServer2"/>
+		<Server Code="5"  MoveAble="0" MapNumber="42" DestServerCode="19" Name="GameServer2"/>
+		<Server Code="5"  MoveAble="0" MapNumber="79" DestServerCode="19" Name="GameServer2"/>
+		
+		<Server Code="19" MoveAble="1" MapNumber="30" DestServerCode="14" Name="GameServerCS"/>
+		<Server Code="19" MoveAble="1" MapNumber="31" DestServerCode="14" Name="GameServerCS"/>
+		<Server Code="19" MoveAble="1" MapNumber="34" DestServerCode="14" Name="GameServerCS"/>
+		<Server Code="19" MoveAble="1" MapNumber="41" DestServerCode="14" Name="GameServerCS"/>
+		<Server Code="19" MoveAble="1" MapNumber="42" DestServerCode="14" Name="GameServerCS"/>
+		<Server Code="19" MoveAble="1" MapNumber="79" DestServerCode="0" Name="GameServerCS"/>
+	</ServerMapping>
+</MapServer>

@@ -1,0 +1,156 @@
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+; Language file                   ;
+; ';' for comment                 ;
+; '|' for line change             ;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+[language]
+title=English
+author=
+version=1.001
+
+;main window
+[1000]
+1001=Add Image(s)...
+1002=Add Folder...
+1003=Remove
+1004=Clear
+1005=Process...
+1006=Resize...
+1007=Change Format...
+1008=Create Watermark...
+1009=Adjust Rotation...
+1010=Help
+1011=Install/Uninstall shortcut menu...
+1012=Help Online
+1013=About...
+;file list
+1014=File Name
+1015=Resolution
+1016=File Size
+1017=Date
+1018=Full Path
+1019=Image Type
+1020=Language
+
+;batch rotate dialog
+[2000]
+2001=Batch Rotate
+2002=Apply these settings to all pictures
+2003=Corrected Position
+2004=Current Position
+2005=90 CW
+2006=180 CW
+2007=90 CCW
+2008=180 CCW
+2009=Arbitary Angle
+2010=Keep original size
+2011=Background Color
+
+
+;files
+[3000]
+3001=Files to be processed
+
+;output size dialog
+[4000]
+4001=Output Format Options
+4002=Output File Format
+4003=Output Format
+4004=Config...
+4005=Interpolation Method
+4006=Output Image Size
+4007=Resize Images?
+4008=Use color for blank area
+4009=Width
+4010=Height
+4011=By Width
+4012=By Height
+4013=Keep Aspect Ratio
+
+;gif,jpeg,png,tiff.. option dialog
+[5000]
+5001=Jpeg Option
+5002=GIF Option
+5003=Png Option
+5004=Tiff Option
+5005=OK
+5006=Cancel
+5007=Codec Option
+; jpeg
+5011=Baseline (Defualt)
+5012=Progressive
+5013=Optimize
+5014=Image Quality
+;gif
+5021=LZW(Default)
+5022=None
+5023=RLE
+;png
+5031=Not Interlace
+5032=Interlace
+;tiff
+5041=Auto(Default)
+5042=None
+5043=RLE
+5044=Fax
+5045=Pack Bits
+5046=JPEG
+5047=LZW
+
+;watermark dialog
+[6000]
+6001=Watermark
+6002=Text Option
+6003=Use background color
+6004=Opacity
+6005=Shadow
+6006=Color
+6007=XOffset
+6008=YOffset
+6009=Use image(smaller than 200 x 200)
+6010=Watermark image file
+6011=Show sample image?
+;new features
+6012=Image Width
+6013=Image Height
+6014=Date
+6015=Camera
+6016=Model
+6017=Aperture
+6018=ISO
+6019=Exposure Time
+6020=Focal Length
+
+;output dialog
+[7000]
+7001=Output Option
+7002=Overwrite original file
+7003=Output Path:
+7004=Browse...
+7005=Output file name
+7006=Use original file title as new file title,Example:example.jpg
+7007=Use original file name as new file title, Example:example.bmp.jpg
+7008=Generate sequence file name(s)
+7009=Prefix
+7010=digits
+7011=Sample
+7012=Notice:this option will overwrite original file(s), it can not be recovered!!
+7013=The folder [ %s ] does not exist!||Do you want create it?
+
+
+;overwrite prompt dialog
+[8000]
+8001=Overwrite Options...
+8002=The file [ %s ] already exists!||Do you want to overwrite it?
+8003=Yes
+8004=Yes for All
+8005=Skip
+8006=Skip for All
+
+;misc strings
+[9000]
+9001=Install successfully!
+9002=Uninstall successfully!
+9003=Resize Image(&Z)...
+9004=Do you really want to remove all the images?
+9005=Do you really want to remove selected image(s)?

@@ -1,0 +1,41 @@
+//===============================================================================================================
+//ItemIndex ModelName R G B -> Use Category 15 -> EX: 15 * 512 + Index
+//===============================================================================================================
+7720       "flag_vietnam"   -1 -1 -1
+7721       "flag_thailand"  -1 -1 -1
+7722       "flag_taiwan"  -1 -1 -1
+7723       "flag_spain"  -1 -1 -1
+7724       "flag_singapore"  -1 -1 -1
+7725       "flag_russia"  -1 -1 -1
+7726       "flag_portugal"  -1 -1 -1
+7727       "flag_philippines"  -1 -1 -1
+7728       "flag_mexico"  -1 -1 -1
+7729       "flag_malaysia"  -1 -1 -1
+7730       "flag_korea"  -1 -1 -1
+7731       "flag_japan"  -1 -1 -1
+7732       "flag_indonesia"  -1 -1 -1
+7733       "flag_india"  -1 -1 -1
+7734       "flag_greece"  -1 -1 -1
+7735       "flag_germany"  -1 -1 -1
+7736       "flag_france"  -1 -1 -1
+7737       "flag_eu"  -1 -1 -1
+7738       "flag_england"  -1 -1 -1
+7739       "flag_china"  -1 -1 -1
+7740       "flag_canada"  -1 -1 -1
+7741       "flag_brazil"  -1 -1 -1
+7742       "flag_argentina"  -1 -1 -1
+7743       "flag_america"  -1 -1 -1
+7744       "flag_uruguay"  -1 -1 -1
+7745       "flag_class_inven"  -1 -1 -1
+7746       "flag_nation_inven"  -1 -1 -1
+7747       "flag_class09"  -1 -1 -1
+7748       "flag_class08"  -1 -1 -1
+7749       "flag_class07"  -1 -1 -1
+7750       "flag_class06"  -1 -1 -1
+7751       "flag_class05"  -1 -1 -1
+7752       "flag_class04"  -1 -1 -1
+7753       "flag_class03"  -1 -1 -1
+7754       "flag_class02"  -1 -1 -1
+7755       "flag_class01"  -1 -1 -1
+7756       "flag_class00"  -1 -1 -1
+end

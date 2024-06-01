@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<NpcCommand>
+<!--
+	<Command Index="0" NpcID="235" NpcMap="0" NpcX="130" NpcY="129" NpcTalk="1" Command="/readd" Name="Command Reset" />
+-->
+</NpcCommand>

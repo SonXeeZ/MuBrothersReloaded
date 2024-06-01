@@ -1,0 +1,156 @@
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+; Language file                   ;
+; ';' for comment                 ;
+; '|' for line change             ;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+[language]
+title=German
+author=mutschy
+version=1.001
+
+;main window
+[1000]
+1001=Bild(er) hinzuf¨¹gen...
+1002=Ordner hinzuf¨¹gen...
+1003=Entfernen
+1004=Alles l?schen
+1005=Bearbeiten...
+1006=Gr??e ?ndern...
+1007=Format ?ndern...
+1008=Wasserzeichen erstellen...
+1009=Rotation einstellen...
+1010=Hilfe
+1011=Installieren/Deinstalliere Shortcut-Men¨¹...
+1012=Onlinehilfe
+1013=¨¹ber...
+;file list
+1014=Datei
+1015=Aufl?sung
+1016=Gr??e
+1017=Datum
+1018=Pfad (kpl)
+1019=Bildtyp
+1020=Sprache
+
+;batch rotate dialog
+[2000]
+2001=Batch Rotation
+2002=Einstellungen f¨¹r alle Bilder ¨¹bernehmen
+2003=Korrigierte Position
+2004=Aktuelle Position
+2005=90¡ã rechts
+2006=180¡ã rechts
+2007=90¡ã links
+2008=180¡ã links
+2009=freier Winkel
+2010=Original-Gr??e beibehalten
+2011=Hintergrundfarbe
+
+
+;files
+[3000]
+3001=zu verarbeitende Dateien
+
+;output size dialog
+[4000]
+4001=Ausgabeformat-Optionen
+4002=Ausgabe-Dateiformat
+4003=Ausgabeformat
+4004=Konfigurieren...
+4005=Interpolations-Methode
+4006=Ausgabe-Bildgr??e
+4007=Ausgabegr??e der Bilder anpassen?
+4008=Benutze Farbe f¨¹r leere Stellen
+4009=Breite
+4010=h?he
+4011=nach Breite
+4012=nach H?he
+4013=Seitenverh?ltnis beibehalten?
+
+;gif,jpeg,png,tiff.. option dialog
+[5000]
+5001=JPEG-Optionen
+5002=GIF-Optionen
+5003=PNG-Optionen
+5004=TIFF-Optionen
+5005=OK
+5006=Abbruch
+5007=Codec-Optionen
+; jpeg
+5011=Baseline (Default)
+5012=Progressiv
+5013=Optimieren
+5014=Bildqualit?t
+;gif
+5021=LZW(Default)
+5022=Nichts
+5023=RLE
+;png
+5031=kein Interlace
+5032=Interlace
+;tiff
+5041=Auto(Default)
+5042=kein
+5043=RLE
+5044=Fax
+5045=Bits packen
+5046=JPEG
+5047=LZW
+
+;watermark dialog
+[6000]
+6001=Wasserzeichen
+6002=Text-Option
+6003=Benutze Hintergrundfarbe
+6004=Transparenz
+6005=Schatten
+6006=Farbe
+6007=X-Abstand
+6008=Y-Abstand
+6009=benutze Bild (< 200 x 200 px)
+6010=Wasserzeichen-Bild
+6011=Beispielbild zeigen?
+;new features
+6012=Bildbreite
+6013=Bildh?he
+6014=Datum
+6015=Kamera
+6016=Modell
+6017=Blende
+6018=ISO
+6019=Aufnahmezeit
+6020=Brennweite
+
+;output dialog
+[7000]
+7001=Ausgabe-Optionen
+7002=Original ¨¹berschreiben
+7003=AusgabePfad:
+7004=Suchen...
+7005=Name der Ausgabe-Datei
+7006=Originaltitel als Dateinamen benutzen, zB beispiel.jpg
+7007=Originalnamen als Dateinamen benutzen, zB beispiel.bmp.jpg
+7008=Generiere Sequenz-Dateiname(n)
+7009=Pr?fix
+7010=Summe
+7011=Auswahl
+7012=ACHTUNG! Original wird unwiderruflich ¨¹berschrieben!!!
+7013=Der Ordner [ %s ] existiert nicht!||Erstellen?
+
+
+;overwrite prompt dialog
+[8000]
+8001=¨¹berschreib-Optionen...
+8002=Die Datei [ %s ] existiert beereits!||¨¹berschreiben?
+8003=Ja
+8004=Ja, alle
+8005=¨¹berspringen
+8006=Alle ¨¹berspringen
+
+;misc strings
+[9000]
+9001=Installation erfolgreich!
+9002=Deinstallatin erfolgreich!
+9003=Bildgr??e ?ndern(&Z)...
+9004=Wirklich alle Bilder entfernen?
+9005=Wirklich die gew?hlten Bilder entfernen?

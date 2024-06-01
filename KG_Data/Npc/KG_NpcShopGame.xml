@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!--
+<ShopGame>
+To enable the system, Enable "1" to disable, Enable "0".
+
+<LoadNpc>
+LoadNpc, load new NPCs for the use of the GameShop system in different positions.
+The maximum of npc that can be added is 10, Modify the index starting with 0, adding +1.
+These NPCs must be added to the monstersetbase.
+
+<System>;<Item_All>
+System information, here you can modify the prices that will be added by options, 
+as well as the maximum level that the items to buy will have and the maximum days that the items may have.
+
+<System>;<Item_Fenrir>
+For the original fenrir (13,37). You can modify the price that will be added according to the type of fenrir that they will buy.
+
+<DarkWizard><DarkKnight><FairyElf><MagicGladiator><DarkLord><Summoner><RageFighter>
+The system is differentiated by classes, you can add as many armor, wings, weapon, pets, jewelry, etc. According to the class.
+
+-Add + Class:
+Item_Type = item category. <0 - 15>
+Item_Index = item index. <0 - 512>
+Item_Price = Entrance price to buy the item.
+Item_Time = If the item will have time, we put 1.
+Coin_Type = Type of currency that will be used for your purchase. {0: Zen, 1: WcoinC, 2: WcoinP, 3: GlobinPoint}
+-->
+
+<ShopGame Enable="1">
+    <LoadNpc>
+        <AddNpc Index="0" NpcID="900" NpcMap="00" NpcX="147" NpcY="118" />
+		<!-- <AddNpc Index="1" NpcID="234" NpcMap="02" NpcX="195" NpcY="43" /> -->
+    </LoadNpc>
+	
+	<System>
+	    <Item_All>
+            <Info Max_Level="15" Level_Price="30" Max_Days="30" Days_Price="1000" Luck_Price="200" Add_Price="300" Opt1_Price="100" Opt2_Price="100" Opt3_Price="100" Opt4_Price="100" Opt5_Price="100" Opt6_Price="100" />
+		</Item_All>
+		
+		<Item_Fenrir>
+		    <Fenrir Fenrir_Red_Price="150" Fenrir_Blue_Price="300" Fenrir_Black_Price="500" Fenrir_Gold_Price="800" />
+		</Item_Fenrir>
+	</System>
+	
+	<DarkWizard>
+	    <!-- Staff -->
+	    <Add Item_Type="5" Item_Index="0" Item_Price="100000000" Item_Time="-1" Coin_Type="0" />
+		<Add Item_Type="5" Item_Index="1" Item_Price="5000" Item_Time="-1" Coin_Type="3" />
+		<Add Item_Type="5" Item_Index="2" Item_Price="5000" Item_Time="-1" Coin_Type="3" />
+		<Add Item_Type="5" Item_Index="3" Item_Price="5000" Item_Time="-1" Coin_Type="3" />
+		<Add Item_Type="5" Item_Index="4" Item_Price="5000" Item_Time="-1" Coin_Type="3" />
+		<Add Item_Type="5" Item_Index="5" Item_Price="5000" Item_Time="-1" Coin_Type="3" />
+		<Add Item_Type="5" Item_Index="6" Item_Price="5000" Item_Time="-1" Coin_Type="3" />
+		<Add Item_Type="5" Item_Index="7" Item_Price="5000" Item_Time="-1" Coin_Type="3" />
+		<Add Item_Type="5" Item_Index="8" Item_Price="5000" Item_Time="-1" Coin_Type="3" />
+		<Add Item_Type="5" Item_Index="9" Item_Price="5000" Item_Time="-1" Coin_Type="3" />
+		<Add Item_Type="5" Item_Index="10" Item_Price="5000" Item_Time="-1" Coin_Type="3" />
+		<Add Item_Type="5" Item_Index="11" Item_Price="5000" Item_Time="-1" Coin_Type="3" />
+		<Add Item_Type="5" Item_Index="12" Item_Price="5000" Item_Time="-1" Coin_Type="3" />
+		<Add Item_Type="5" Item_Index="13" Item_Price="5000" Item_Time="-1" Coin_Type="3" />
+	</DarkWizard>
+	
+	<DarkKnight>
+	    <!-- Sword -->
+	    <Add Item_Type="0" Item_Index="0" Item_Price="2000" Item_Time="-1" Coin_Type="1" />
+		<Add Item_Type="0" Item_Index="1" Item_Price="2000" Item_Time="-1" Coin_Type="1" />
+		<Add Item_Type="0" Item_Index="2" Item_Price="2000" Item_Time="-1" Coin_Type="1" />
+		<Add Item_Type="0" Item_Index="3" Item_Price="2000" Item_Time="-1" Coin_Type="1" />
+		<Add Item_Type="0" Item_Index="4" Item_Price="2000" Item_Time="-1" Coin_Type="1" />
+		<Add Item_Type="0" Item_Index="5" Item_Price="2000" Item_Time="-1" Coin_Type="1" />
+		<Add Item_Type="0" Item_Index="6" Item_Price="2000" Item_Time="-1" Coin_Type="1" />
+		<Add Item_Type="0" Item_Index="7" Item_Price="2000" Item_Time="-1" Coin_Type="1" />
+		<Add Item_Type="0" Item_Index="8" Item_Price="2000" Item_Time="-1" Coin_Type="1" />
+		<Add Item_Type="0" Item_Index="9" Item_Price="2000" Item_Time="-1" Coin_Type="1" />
+		<Add Item_Type="0" Item_Index="10" Item_Price="2000" Item_Time="-1" Coin_Type="1" />
+		<Add Item_Type="0" Item_Index="11" Item_Price="2000" Item_Time="-1" Coin_Type="1" />
+		<Add Item_Type="0" Item_Index="12" Item_Price="2000" Item_Time="-1" Coin_Type="1" />
+		<Add Item_Type="0" Item_Index="13" Item_Price="2000" Item_Time="-1" Coin_Type="1" />
+		<Add Item_Type="0" Item_Index="14" Item_Price="2000" Item_Time="-1" Coin_Type="1" />
+		<Add Item_Type="0" Item_Index="15" Item_Price="2000" Item_Time="-1" Coin_Type="1" />
+		<Add Item_Type="0" Item_Index="16" Item_Price="2000" Item_Time="-1" Coin_Type="1" />
+		<Add Item_Type="0" Item_Index="17" Item_Price="2000" Item_Time="-1" Coin_Type="1" />
+		<Add Item_Type="0" Item_Index="19" Item_Price="2000" Item_Time="-1" Coin_Type="1" />
+		<Add Item_Type="0" Item_Index="20" Item_Price="2000" Item_Time="-1" Coin_Type="1" />
+		<Add Item_Type="0" Item_Index="22" Item_Price="2000" Item_Time="-1" Coin_Type="1" />
+		<Add Item_Type="0" Item_Index="24" Item_Price="2000" Item_Time="-1" Coin_Type="1" />
+		<Add Item_Type="0" Item_Index="26" Item_Price="2000" Item_Time="-1" Coin_Type="1" />
+		<Add Item_Type="0" Item_Index="27" Item_Price="2000" Item_Time="-1" Coin_Type="1" />
+		<!-- Shield -->
+		<Add Item_Type="6" Item_Index="13" Item_Price="5000" Item_Time="1" Coin_Type="2" />
+		<!-- Helm -->
+		<Add Item_Type="7" Item_Index="1" Item_Price="5000" Item_Time="-1" Coin_Type="1" />
+		<Add Item_Type="7" Item_Index="46" Item_Price="5000" Item_Time="-1" Coin_Type="1" />
+		<!-- Armor -->
+		<Add Item_Type="8" Item_Index="1" Item_Price="5000" Item_Time="-1" Coin_Type="1" />
+		<Add Item_Type="8" Item_Index="46" Item_Price="5000" Item_Time="-1" Coin_Type="1" />
+		<!-- Pants -->
+		<Add Item_Type="9" Item_Index="1" Item_Price="5000" Item_Time="-1" Coin_Type="1" />
+		<Add Item_Type="9" Item_Index="46" Item_Price="5000" Item_Time="-1" Coin_Type="1" />
+		<!-- Gloves -->
+		<Add Item_Type="10" Item_Index="1" Item_Price="5000" Item_Time="-1" Coin_Type="1" />
+		<Add Item_Type="10" Item_Index="46" Item_Price="5000" Item_Time="-1" Coin_Type="1" />
+		<!-- Boots -->
+		<Add Item_Type="11" Item_Index="1" Item_Price="5000" Item_Time="-1" Coin_Type="1" />
+		<Add Item_Type="11" Item_Index="46" Item_Price="5000" Item_Time="-1" Coin_Type="1" />
+		<!-- Wings -->
+		<Add Item_Type="12" Item_Index="2" Item_Price="5000" Item_Time="-1" Coin_Type="1" />
+		<Add Item_Type="12" Item_Index="5" Item_Price="5000" Item_Time="-1" Coin_Type="1" />
+		<Add Item_Type="12" Item_Index="36" Item_Price="5000" Item_Time="-1" Coin_Type="1" />
+		<!-- Pets -->
+		<Add Item_Type="13" Item_Index="600" Item_Price="5000" Item_Time="-1" Coin_Type="1" />
+		<Add Item_Type="13" Item_Index="37" Item_Price="5000" Item_Time="-1" Coin_Type="1" />
+		<!-- Ring -->
+		<Add Item_Type="13" Item_Index="8" Item_Price="5000" Item_Time="-1" Coin_Type="1" />
+		<!-- Pendant -->
+		<Add Item_Type="13" Item_Index="12" Item_Price="5000" Item_Time="-1" Coin_Type="1" />
+	</DarkKnight>
+	
+	<FairyElf>
+	    <!-- Bow -->
+	    <Add Item_Type="4" Item_Index="0" Item_Price="5000" Item_Time="-1" Coin_Type="1" />
+		<Add Item_Type="4" Item_Index="1" Item_Price="5000" Item_Time="-1" Coin_Type="1" />
+		<Add Item_Type="4" Item_Index="2" Item_Price="5000" Item_Time="-1" Coin_Type="1" />
+		<Add Item_Type="4" Item_Index="3" Item_Price="5000" Item_Time="-1" Coin_Type="1" />
+		<Add Item_Type="4" Item_Index="4" Item_Price="5000" Item_Time="-1" Coin_Type="1" />
+		<Add Item_Type="4" Item_Index="5" Item_Price="5000" Item_Time="-1" Coin_Type="1" />
+		<Add Item_Type="4" Item_Index="6" Item_Price="5000" Item_Time="-1" Coin_Type="1" />
+		<Add Item_Type="4" Item_Index="17" Item_Price="5000" Item_Time="-1" Coin_Type="1" />
+		<Add Item_Type="4" Item_Index="20" Item_Price="5000" Item_Time="-1" Coin_Type="1" />
+		<Add Item_Type="4" Item_Index="21" Item_Price="5000" Item_Time="-1" Coin_Type="1" />
+		<Add Item_Type="4" Item_Index="22" Item_Price="5000" Item_Time="-1" Coin_Type="1" />
+		<Add Item_Type="4" Item_Index="24" Item_Price="5000" Item_Time="-1" Coin_Type="1" />
+		<!-- CrossBow -->
+		<Add Item_Type="4" Item_Index="8" Item_Price="5000" Item_Time="-1" Coin_Type="1" />
+		<Add Item_Type="4" Item_Index="9" Item_Price="5000" Item_Time="-1" Coin_Type="1" />
+		<Add Item_Type="4" Item_Index="11" Item_Price="5000" Item_Time="-1" Coin_Type="1" />
+		<Add Item_Type="4" Item_Index="12" Item_Price="5000" Item_Time="-1" Coin_Type="1" />
+		<Add Item_Type="4" Item_Index="13" Item_Price="5000" Item_Time="-1" Coin_Type="1" />
+		<Add Item_Type="4" Item_Index="14" Item_Price="5000" Item_Time="-1" Coin_Type="1" />
+		<Add Item_Type="4" Item_Index="16" Item_Price="5000" Item_Time="-1" Coin_Type="1" />
+		<Add Item_Type="4" Item_Index="18" Item_Price="5000" Item_Time="-1" Coin_Type="1" />
+		<Add Item_Type="4" Item_Index="19" Item_Price="5000" Item_Time="-1" Coin_Type="1" />
+	</FairyElf>
+	
+	<MagicGladiator>
+	    <!-- Sword -->
+		<Add Item_Type="0" Item_Index="18" Item_Price="2000" Item_Time="-1" Coin_Type="1" />
+		<Add Item_Type="0" Item_Index="21" Item_Price="2000" Item_Time="-1" Coin_Type="1" />
+		<Add Item_Type="0" Item_Index="23" Item_Price="2000" Item_Time="-1" Coin_Type="1" />
+		<Add Item_Type="0" Item_Index="25" Item_Price="2000" Item_Time="-1" Coin_Type="1" />
+		<Add Item_Type="0" Item_Index="28" Item_Price="2000" Item_Time="-1" Coin_Type="1" />
+		<Add Item_Type="0" Item_Index="31" Item_Price="2000" Item_Time="-1" Coin_Type="1" />
+	</MagicGladiator>
+	
+	<DarkLord>
+	    <Add Item_Type="13" Item_Index="4" Item_Price="10000" Item_Time="-1" Coin_Type="1" />
+	    <Add Item_Type="13" Item_Index="5" Item_Price="10000" Item_Time="-1" Coin_Type="1" />
+	</DarkLord>
+	
+	<Summoner>
+	    <!-- Weapon -->
+		<Add Item_Type="5" Item_Index="16" Item_Price="3000000" Item_Time="-1" Coin_Type="0" />
+		
+	    <!-- Helm -->
+	    <Add Item_Type="7" Item_Index="40" Item_Price="3000" Item_Time="1" Coin_Type="1" />
+		<Add Item_Type="7" Item_Index="41" Item_Price="5000" Item_Time="-1" Coin_Type="2" />
+		<Add Item_Type="7" Item_Index="42" Item_Price="10000" Item_Time="-1" Coin_Type="3" />
+		
+		<!-- Armor -->
+	    <Add Item_Type="8" Item_Index="40" Item_Price="3000" Item_Time="1" Coin_Type="1" />
+		<Add Item_Type="8" Item_Index="41" Item_Price="5000" Item_Time="-1" Coin_Type="2" />
+		<Add Item_Type="8" Item_Index="42" Item_Price="10000" Item_Time="-1" Coin_Type="3" />
+		
+		<!-- Pants -->
+	    <Add Item_Type="9" Item_Index="40" Item_Price="3000" Item_Time="1" Coin_Type="1" />
+		<Add Item_Type="9" Item_Index="41" Item_Price="5000" Item_Time="-1" Coin_Type="2" />
+		<Add Item_Type="9" Item_Index="42" Item_Price="10000" Item_Time="-1" Coin_Type="3" />
+		
+		<!-- Gloves -->
+	    <Add Item_Type="10" Item_Index="40" Item_Price="3000" Item_Time="1" Coin_Type="1" />
+		<Add Item_Type="10" Item_Index="41" Item_Price="5000" Item_Time="-1" Coin_Type="2" />
+		<Add Item_Type="10" Item_Index="42" Item_Price="10000" Item_Time="-1" Coin_Type="3" />
+		
+		<!-- Boots -->
+	    <Add Item_Type="11" Item_Index="40" Item_Price="3000" Item_Time="1" Coin_Type="1" />
+		<Add Item_Type="11" Item_Index="41" Item_Price="5000" Item_Time="-1" Coin_Type="2" />
+		<Add Item_Type="11" Item_Index="42" Item_Price="10000" Item_Time="-1" Coin_Type="3" />
+	</Summoner>
+	
+	<RageFighter>
+	    <!-- Sword -->
+	    <Add Item_Type="0" Item_Index="32" Item_Price="2000" Item_Time="-1" Coin_Type="1" />
+		<Add Item_Type="0" Item_Index="33" Item_Price="2000" Item_Time="-1" Coin_Type="1" />
+		<Add Item_Type="0" Item_Index="34" Item_Price="2000" Item_Time="-1" Coin_Type="1" />
+		
+		<!-- Armor -->
+	    <Add Item_Type="7" Item_Index="60" Item_Price="10000" Item_Time="1" Coin_Type="1" /> <!-- CoinType = 0> Zen , 1> WcoinC, 2> WcoinP, 3> Globin Point -->
+		<Add Item_Type="8" Item_Index="60" Item_Price="10000" Item_Time="1" Coin_Type="1" />
+		<Add Item_Type="9" Item_Index="60" Item_Price="10000" Item_Time="-1" Coin_Type="1" />
+		<Add Item_Type="11" Item_Index="60" Item_Price="10000" Item_Time="-1" Coin_Type="1" />
+	</RageFighter>
+</ShopGame>

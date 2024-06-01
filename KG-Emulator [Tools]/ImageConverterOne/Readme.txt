@@ -1,0 +1,2 @@
+Image Converter One is freeware, you can use it personally without any cost. 
+with Image Converter One you can convert you photos and images , also resize photos very easily, and Image Converter One support EXIF information of digital photos which are in JPEG format.

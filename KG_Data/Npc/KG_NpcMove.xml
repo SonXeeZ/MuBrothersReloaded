@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<NpcMove>
+<!--
+    <Npc Index="0" NpcID="383" NpcMap="40" NpcX="220" NpcY="37" MoveMap="40" MoveX="205" MoveY="58" MinLevel="50" MaxLevel="-1" MinReset="-1" MaxReset="-1" MinMasterReset="-1" MaxMasterReset="-1" AccountLevel="-1" PkMove="-1" Name="Move to Devias" />
+	-->
+</NpcMove>

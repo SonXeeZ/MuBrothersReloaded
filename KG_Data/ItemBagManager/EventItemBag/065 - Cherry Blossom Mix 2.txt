@@ -1,0 +1,14 @@
+0
+//EventName              DropZen   ItemDropRate   ItemDropCount   SetItemDropRate   ItemDropType   Fireworks	
+"Cherry Blossom Mix 2"	 1000	   100		  1		  0		    0		   0
+end
+
+1
+//Section   Type   MinLevel   MaxLevel   Skill   Luck   Option   Excellent
+14          123     0          0          0       0      0        0			//Golden Box
+14          401     0          0          0       0      0        0			//Jewel of Skill
+14          405     0          0          0       0      0        0			//Jewel of Socket
+12          136     2          2          0       0      0        0			//Jewel of Life Bundle +3
+12          30      2          2          0       0      0        0			//Bundle of Jewel of Bless +3
+12          31      2          2          0       0      0        0			//Bundle of Jewel of Soul +3
+end

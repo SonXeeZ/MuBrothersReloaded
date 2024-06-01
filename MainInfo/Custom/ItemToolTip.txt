@@ -1,0 +1,13 @@
+//_COLOR{Blue(1),Red(2),Gold(3),Gren(4),WhiteRed(5),Pink(6),WhiteBlue(7),WhiteYellow(8),GrenBlue(9),Gray(10),Pink2(11),Purple(12),Orange(13),White(14)};
+//_Background_DeepPink1      (15) ={255, 20, 147}
+//_Background_RoyalBlue1     (16) ={72, 118, 255}
+//_Background_SlateBlue      (17) ={131, 111, 255}
+//_Background_Azure2         (18) ={224, 238, 238}
+//_Background_DarkSlateGray1 (19) ={151, 255, 255}
+//_Background_SlateGray1     (20) ={198, 226, 255}
+//_Background_MistyRose1     (21) ={255, 228, 225}
+//_Background_LightSlateBlue (22) ={132, 112, 255}
+//_Background_DeepSkyBlue1   (23) ={0, 191, 255}
+//_Background_Turquoise1     (24) ={0, 245, 255}
+//#Item- 	#Name     			- TColor -	#Index1#Color1 - #Index2#Color2 - #Index3#Color3" - #Index4#Color4 - #Index5#Color5 - #Index6#Color6 - #Index7#Color7 - #Index8#Color8 - #Index9#Color9 - #Index10#Color10 - #Index11#Color11 - #Index12#Color12 - #Index13#Color13 - #Index14#Color14 - #Index15#Color15
+end

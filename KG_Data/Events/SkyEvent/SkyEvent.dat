@@ -1,0 +1,22 @@
+//------------------------------------------------------------------------------
+// -    Year	Month	Day	DatWeek		Hour	Minutes	Seconds
+0
+		*		*		*		*		20		  30		*
+end
+
+
+// - Enabled	   MinStage[1]	   MinStage[2]	   MinStage[3]
+1
+		1				3				4				5
+end
+
+
+
+// -  Level   MinLvlReq  MaxLvlReq  ExpStage[1]	ExpStage[2]   ExpStage[3]      Type    Index	Level	Opt  Luck  Skill Durability  Exc  WCoinC  WCoinP   GoblinCoin
+2
+		0		50	   		180		5	   		6  				7				12     	15	 	0		0		0	 0		0		  0   	15	    15		15
+		1		181	   		221		6	   		7  				8				12     	15	 	0		0		0	 0		0		  0   	15	    15		15
+		2		222	   		290		9	   		10  			11				12     	15	 	0		0		0	 0		0		  0   	15	    15		15
+		3		291	   		350		11	   		12  			13				12     	15	 	0		0		0	 0		0		  0   	15	    15		15
+		4		350	   		400		25	   		36  			47				12     	30	 	0		0		0	 0		0		  0   	15	    15		15
+end

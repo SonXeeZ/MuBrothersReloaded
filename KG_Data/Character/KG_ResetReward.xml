@@ -1,0 +1,45 @@
+<!-- 
+<WinCoin>
+Enable: [1](Enable), [0](Disable)
+AccountLevel: Minimum account level to get the prize, 0-3
+MinReset: Minimum Reset to get the prize.
+MaxReset: Maximum Reset to get the prize.
+MinMasterReset: Minimum Master Reset to get the prize.
+MaxMasterReset: Maximum Master Reset to get the prize.
+WcoinC: Wcoins to get
+WcoinP: Wcoins to get
+GlobinPoints: GlobinPoints to get
+</WinCoin>
+
+<WinItem>
+Enable: [1](Enable), [0](Disable)
+AccountLevel: Minimum account level to get the prize, 0-3
+Class (SM: 0), (BK: 1), (ELF: 2), (MG: 3), (DL: 4), (SUM: 5), (RF: 6) 
+InReset: Reset to which the player will pass to obtain the prize.
+InMasterReset: Master Reset to which the player will pass to obtain the prize.
+</WinItem>
+-->
+<ResetReward>
+    <WinCoin>
+	    <Add Enable="0" AccountLevel="-1" MinReset="2" MaxReset="5" MinMasterReset="0" MaxMasterReset="0" WCoinC="100" WCoinP="50" GoblinPoint="100" />
+	</WinCoin>
+	<WinItem>
+	    <!--SM-->
+	    <Add Enable="0" AccountLevel="-1" Class="0" InReset="1" InMasterReset="0" ItemType="7" ItemIndex="3" ItemLevel="15" ItemDur="255" ItemSkill="1" ItemLuck="1" ItemOpt="7" ItemExc="63" ItemAcc="0" ItemSocket="0" />
+		<Add Enable="0" AccountLevel="-1" Class="0" InReset="1" InMasterReset="0" ItemType="8" ItemIndex="3" ItemLevel="15" ItemDur="255" ItemSkill="1" ItemLuck="1" ItemOpt="7" ItemExc="63" ItemAcc="0" ItemSocket="0" />
+        <Add Enable="0" AccountLevel="-1" Class="0" InReset="1" InMasterReset="0" ItemType="9" ItemIndex="3" ItemLevel="15" ItemDur="255" ItemSkill="1" ItemLuck="1" ItemOpt="7" ItemExc="63" ItemAcc="0" ItemSocket="0" />
+        <Add Enable="0" AccountLevel="-1" Class="0" InReset="1" InMasterReset="0" ItemType="10" ItemIndex="3" ItemLevel="15" ItemDur="255" ItemSkill="1" ItemLuck="1" ItemOpt="7" ItemExc="63" ItemAcc="0" ItemSocket="0" />
+        <Add Enable="0" AccountLevel="-1" Class="0" InReset="1" InMasterReset="0" ItemType="11" ItemIndex="3" ItemLevel="15" ItemDur="255" ItemSkill="1" ItemLuck="1" ItemOpt="7" ItemExc="63" ItemAcc="0" ItemSocket="0" />
+        <Add Enable="0" AccountLevel="-1" Class="0" InReset="2" InMasterReset="0" ItemType="5" ItemIndex="5" ItemLevel="15" ItemDur="255" ItemSkill="1" ItemLuck="1" ItemOpt="7" ItemExc="63" ItemAcc="0" ItemSocket="0" />
+        <Add Enable="0" AccountLevel="-1" Class="0" InReset="3" InMasterReset="0" ItemType="12" ItemIndex="37" ItemLevel="15" ItemDur="255" ItemSkill="1" ItemLuck="1" ItemOpt="7" ItemExc="63" ItemAcc="0" ItemSocket="0" />
+		<!--BK-->
+	    <Add Enable="0" AccountLevel="-1" Class="1" InReset="1" InMasterReset="0" ItemType="7" ItemIndex="46" ItemLevel="15" ItemDur="255" ItemSkill="1" ItemLuck="1" ItemOpt="7" ItemExc="63" ItemAcc="0" ItemSocket="5" />
+		<Add Enable="0" AccountLevel="-1" Class="1" InReset="1" InMasterReset="0" ItemType="8" ItemIndex="46" ItemLevel="15" ItemDur="255" ItemSkill="1" ItemLuck="1" ItemOpt="7" ItemExc="63" ItemAcc="0" ItemSocket="5" />
+        <Add Enable="0" AccountLevel="-1" Class="1" InReset="1" InMasterReset="0" ItemType="9" ItemIndex="46" ItemLevel="15" ItemDur="255" ItemSkill="1" ItemLuck="1" ItemOpt="7" ItemExc="63" ItemAcc="0" ItemSocket="5" />
+        <Add Enable="0" AccountLevel="-1" Class="1" InReset="1" InMasterReset="0" ItemType="10" ItemIndex="46" ItemLevel="15" ItemDur="255" ItemSkill="1" ItemLuck="1" ItemOpt="7" ItemExc="63" ItemAcc="0" ItemSocket="5" />
+        <Add Enable="0" AccountLevel="-1" Class="1" InReset="1" InMasterReset="0" ItemType="11" ItemIndex="46" ItemLevel="15" ItemDur="255" ItemSkill="1" ItemLuck="1" ItemOpt="7" ItemExc="63" ItemAcc="0" ItemSocket="5" />
+        <Add Enable="0" AccountLevel="-1" Class="1" InReset="2" InMasterReset="0" ItemType="0" ItemIndex="26" ItemLevel="15" ItemDur="255" ItemSkill="1" ItemLuck="1" ItemOpt="7" ItemExc="63" ItemAcc="0" ItemSocket="5" />
+        <Add Enable="0" AccountLevel="-1" Class="1" InReset="2" InMasterReset="0" ItemType="0" ItemIndex="26" ItemLevel="15" ItemDur="255" ItemSkill="1" ItemLuck="1" ItemOpt="7" ItemExc="63" ItemAcc="0" ItemSocket="5" />
+        <Add Enable="0" AccountLevel="-1" Class="1" InReset="3" InMasterReset="0" ItemType="12" ItemIndex="36" ItemLevel="15" ItemDur="255" ItemSkill="1" ItemLuck="1" ItemOpt="7" ItemExc="63" ItemAcc="0" ItemSocket="0" />
+	</WinItem>
+</ResetReward>

@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Processes>
+  <Process Run="True" Delay="1000" Path="C:\MuOnlineS6\1. KG_ConnectServer\ConnectServer.exe" Parameters="" />
+  <Process Run="True" Delay="1000" Path="C:\MuOnlineS6\2. KG_JoinServer\JoinServer.exe" Parameters="" />
+  <Process Run="True" Delay="1000" Path="C:\MuOnlineS6\3. KG_DataServer\DataServer.exe" Parameters="" />
+  <Process Run="True" Delay="1000" Path="C:\MuOnlineS6\4. KG_GameServer\GameServer_Normal.exe" Parameters="" />
+  <Process Run="False" Delay="1000" Path="C:\MuOnlineS6\5. KG_GameServerCS\GameServer_CastleSiege.exe" Parameters="" />
+</Processes>

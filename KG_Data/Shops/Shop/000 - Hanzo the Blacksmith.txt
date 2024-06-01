@@ -1,0 +1,32 @@
+/////////////////////////////////////////////////////////////////////////////
+//Shop Editor cortesia de www.fb.com/igkgamers
+//Group Type    Level   Dur     Skill   Luck    Option  ExcOp	SetOp	JoH	OEx	Socket1	Socket2	Socket3	Socket4	Socket5 Info
+0	2	7	100	1	0	0	0	0	0	0	255	255	255	255	255	//Rapier
+0	3	7	100	1	0	0	0	0	0	0	255	255	255	255	255	//Katana
+0	4	7	100	1	0	0	0	0	0	0	255	255	255	255	255	//Sword of Assassin
+0	5	7	100	1	0	0	0	0	0	0	255	255	255	255	255	//Blade
+0	6	7	100	1	0	0	0	0	0	0	255	255	255	255	255	//Gladius
+0	7	7	100	1	0	0	0	0	0	0	255	255	255	255	255	//Falchion
+0	32	7	100	1	0	0	0	0	0	0	255	255	255	255	255	//Falchion
+0	33	7	100	1	0	0	0	0	0	0	255	255	255	255	255	//Falchion
+
+1	1	7	100	0	0	0	0	0	0	0	255	255	255	255	255	//Hand Axe
+1	2	7	100	0	0	0	0	0	0	0	255	255	255	255	255	//Double Axe
+1	3	7	100	0	0	0	0	0	0	0	255	255	255	255	255	//Tomahawk
+1	5	7	100	0	0	0	0	0	0	0	255	255	255	255	255	//Battle Axe
+2	4	7	100	0	0	0	0	0	0	0	255	255	255	255	255	//Crystal Morning Star
+//0	22	7	100	0	0	0	0	0	0	0	255	255	255	255	255	//Explosion Blade
+2	7	7	100	0	0	0	0	0	0	0	255	255	255	255	255	//Elemental Mace
+2	11	7	100	0	0	0	0	0	0	0	255	255	255	255	255	//Lord Scepter
+//2	13	7	100	0	0	0	0	0	0	0	255	255	255	255	255	//Divine Scepter
+12	12	0	1	0	0	0	0	0	0	0	255	255	255	255	255	//Orb of Rageful Blow
+12	14	0	1	0	0	0	0	0	0	0	255	255	255	255	255	//Orb of Greater Fortitude
+12	47	0	1	0	0	0	0	0	0	0	255	255	255	255	255	//Crystal of Flame Strike
+12	19	0	1	0	0	0	0	0	0	0	255	255	255	255	255	//Orb of Death Stab
+12	7	0	1	0	0	0	0	0	0	0	255	255	255	255	255	//Orb of Twisting Slash
+12	44	0	1	0	0	0	0	0	0	0	255	255	255	255	255	//Crystal of Destruction
+12	46	0	1	0	0	0	0	0	0	0	255	255	255	255	255	//Crystal of Recovery
+12	45	0	1	0	0	0	0	0	0	0	255	255	255	255	255	//Crystal of Multi-Shot
+12	16	0	0	0	0	0	0	0	0	0	255	255	255	255	255	//Orb of Fire Slash
+14	0	0	3	0	0	0	0	0	0	0	255	255	255	255	255	//Apple
+end

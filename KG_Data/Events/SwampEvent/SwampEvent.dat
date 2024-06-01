@@ -1,0 +1,27 @@
+//------------------------------------------------------------------------------
+// Developer: Melo920
+// Facebook: https://www.facebook.com/OficialMelo920
+//------------------------------------------------------------------------------
+// - Year	Month	Day	DatWeek	Hour	Minutes	Seconds
+0
+	*		*		*		*	17		30		0
+end
+
+// - Swamp     MapEnter     MapEnter    KeepOpen
+// - Enabled  OnlyMasters  WhenStarted  MapMinutes
+1
+	1	  		0	       		0	  		0
+end
+
+// - NOT CHANGE!
+// - Gate[1]	Gate[2]	 Gate[3]
+2
+	   22		273	 	 285
+end
+
+3
+// - Group	Minute(s)
+	1	12
+	2	10
+	3	4
+end

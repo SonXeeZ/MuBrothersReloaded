@@ -1,0 +1,86 @@
+<SummonScroll>
+    <ScrollInfo>
+		<!-- Summon Demons Golden -->
+	    <!-- <Item Index="0" ItemIndex="7394" /> -->
+	    <!-- <Item Index="1" ItemIndex="7395" /> -->
+	    <!-- <Item Index="2" ItemIndex="7396" /> -->
+	    <!-- <Item Index="3" ItemIndex="7397" /> -->
+	    <!-- <Item Index="4" ItemIndex="7398" /> -->
+		<!-- <!-- Summon Scroll Evomon --> 
+	    <!-- <Item Index="5" ItemIndex="7400" /> -->
+		<!-- <!-- Summon Note Snake --> 
+	    <!-- <Item Index="6" ItemIndex="7401" /> -->
+	    <!-- <Item Index="7" ItemIndex="7402" /> -->
+	    <!-- <Item Index="8" ItemIndex="7403" /> -->
+	    <!-- <Item Index="9" ItemIndex="7404" /> -->
+		<!-- <!-- Summon Note Horse --> 
+	    <!-- <Item Index="10" ItemIndex="7405" /> -->
+	    <!-- <Item Index="11" ItemIndex="7406" /> -->
+	    <!-- <Item Index="12" ItemIndex="7407" /> -->
+	    <!-- <Item Index="13" ItemIndex="7408" /> -->
+		<!-- <!-- Summon Note Goat --> 
+	    <!-- <Item Index="14" ItemIndex="7409" /> -->
+	    <!-- <Item Index="15" ItemIndex="7410" /> -->
+	    <!-- <Item Index="16" ItemIndex="7411" /> -->
+	    <!-- <Item Index="17" ItemIndex="7412" /> -->
+		<!-- <!-- Summon Note Monckey --> 
+	    <!-- <Item Index="18" ItemIndex="7413" /> -->
+	    <!-- <Item Index="19" ItemIndex="7414" /> -->
+	    <!-- <Item Index="20" ItemIndex="7415" /> -->
+	    <!-- <Item Index="21" ItemIndex="7416" /> -->
+		<!-- <!-- Summon Note Chicken --> 
+	    <!-- <Item Index="22" ItemIndex="7417" /> -->
+	    <!-- <Item Index="23" ItemIndex="7418" /> -->
+	    <!-- <Item Index="24" ItemIndex="7419" /> -->
+	    <!-- <Item Index="25" ItemIndex="7420" /> -->
+		<!-- <!-- Summon Note Rabbit --> 
+	    <!-- <Item Index="26" ItemIndex="7734" /> -->
+	    <!-- <Item Index="27" ItemIndex="7735" /> -->
+	    <!-- <Item Index="28" ItemIndex="7736" /> -->
+	    <!-- <Item Index="29" ItemIndex="7737" /> -->
+	</ScrollInfo>
+	<ScrollMonsterInfo>
+		<!-- Summon Demons Golden -->
+	    <!-- <Add Index="0" Group="0" MonsterClass="673" CreateRate="10000" /> -->
+	    <!-- <Add Index="1" Group="0" MonsterClass="674" CreateRate="10000" /> -->
+	    <!-- <Add Index="2" Group="0" MonsterClass="675" CreateRate="10000" /> -->
+	    <!-- <Add Index="3" Group="0" MonsterClass="676" CreateRate="10000" /> -->
+	    <!-- <Add Index="4" Group="0" MonsterClass="681" CreateRate="10000" /> -->
+	    <!-- <Add Index="4" Group="1" MonsterClass="82" CreateRate="10000" /> -->
+	    <!-- <Add Index="4" Group="2" MonsterClass="82" CreateRate="10000" /> -->
+	    <!-- <Add Index="4" Group="3" MonsterClass="82" CreateRate="10000" /> -->
+	    <!-- <Add Index="4" Group="4" MonsterClass="82" CreateRate="10000" /> -->
+		<!-- <!-- Summon Scroll Evomon --> 
+	    <!-- <Add Index="5" Group="0" MonsterClass="690" CreateRate="10000" /> -->
+		<!-- <!-- Summon Note Snake --> 
+	    <!-- <Add Index="6" Group="0" MonsterClass="707" CreateRate="10000" /> -->
+	    <!-- <Add Index="7" Group="0" MonsterClass="708" CreateRate="10000" /> -->
+	    <!-- <Add Index="8" Group="0" MonsterClass="709" CreateRate="10000" /> -->
+	    <!-- <Add Index="9" Group="0" MonsterClass="710" CreateRate="10000" /> -->
+		<!-- <!-- Summon Note Horse --> 
+	    <!-- <Add Index="10" Group="0" MonsterClass="711" CreateRate="10000" /> -->
+	    <!-- <Add Index="11" Group="0" MonsterClass="712" CreateRate="10000" /> -->
+	    <!-- <Add Index="12" Group="0" MonsterClass="713" CreateRate="10000" /> -->
+	    <!-- <Add Index="13" Group="0" MonsterClass="714" CreateRate="10000" /> -->
+		<!-- <!-- Summon Note Goat --> 
+	    <!-- <Add Index="14" Group="0" MonsterClass="715" CreateRate="10000" /> -->
+	    <!-- <Add Index="15" Group="0" MonsterClass="716" CreateRate="10000" /> -->
+	    <!-- <Add Index="16" Group="0" MonsterClass="717" CreateRate="10000" /> -->
+	    <!-- <Add Index="17" Group="0" MonsterClass="718" CreateRate="10000" /> -->
+		<!-- <!-- Summon Note Monckey --> 
+	    <!-- <Add Index="18" Group="0" MonsterClass="719" CreateRate="10000" /> -->
+	    <!-- <Add Index="19" Group="0" MonsterClass="720" CreateRate="10000" /> -->
+	    <!-- <Add Index="20" Group="0" MonsterClass="721" CreateRate="10000" /> -->
+	    <!-- <Add Index="21" Group="0" MonsterClass="722" CreateRate="10000" /> -->
+		<!-- <!-- Summon Note Chicken --> 
+	    <!-- <Add Index="22" Group="0" MonsterClass="724" CreateRate="10000" /> -->
+	    <!-- <Add Index="23" Group="0" MonsterClass="725" CreateRate="10000" /> -->
+	    <!-- <Add Index="24" Group="0" MonsterClass="726" CreateRate="10000" /> -->
+	    <!-- <Add Index="25" Group="0" MonsterClass="800" CreateRate="10000" /> -->
+		<!-- <!-- Summon Note Rabbit --> 
+	    <!-- <Add Index="26" Group="0" MonsterClass="808" CreateRate="10000" /> -->
+	    <!-- <Add Index="27" Group="0" MonsterClass="809" CreateRate="10000" /> -->
+	    <!-- <Add Index="28" Group="0" MonsterClass="810" CreateRate="10000" /> -->
+	    <!-- <Add Index="29" Group="0" MonsterClass="811" CreateRate="10000" /> -->
+	</ScrollMonsterInfo>
+</SummonScroll>

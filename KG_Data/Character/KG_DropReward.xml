@@ -1,0 +1,13 @@
+<DropReward>
+	<Item>
+	<Load Index="0" ItemType="14" ItemIndex="286" DropZen="0" DropRate="10000" Message="2050" Fireworks="1" />
+	<Load Index="1" ItemType="14" ItemIndex="287" DropZen="0" DropRate="10000" Message="2050" Fireworks="1" />
+	<Load Index="2" ItemType="14" ItemIndex="288" DropZen="0" DropRate="10000" Message="2050" Fireworks="1" />
+	</Item>
+	
+	<Coin>
+	<Load Index="0" RuudMin="1000" RuudMax="2000" WCoinCMin="0" WCoinCMax="0" WCoinPMin="0" WCoinPMax="0" GlobinPointMin="0" GlobinPointMax="0" />
+	<Load Index="1" RuudMin="5000" RuudMax="6000" WCoinCMin="0" WCoinCMax="0" WCoinPMin="0" WCoinPMax="0" GlobinPointMin="0" GlobinPointMax="0" />
+	<Load Index="2" RuudMin="10000" RuudMax="12000" WCoinCMin="0" WCoinCMax="0" WCoinPMin="0" WCoinPMax="0" GlobinPointMin="0" GlobinPointMax="0" />
+ 	</Coin>
+</DropReward>

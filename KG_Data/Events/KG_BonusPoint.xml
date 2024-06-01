@@ -1,0 +1,15 @@
+<BonusPoint>
+    <EventPoint Enable="0">
+	    <Load Slot="0" WcoinC="0" WcoinP="20" GlobinPoint="0" RuudCoin="0" DevoteGuild="10" DevoteMember="2" />
+		<Load Slot="1" WcoinC="0" WcoinP="20" GlobinPoint="0" RuudCoin="0" DevoteGuild="10" DevoteMember="2" />
+		<Load Slot="2" WcoinC="0" WcoinP="20" GlobinPoint="0" RuudCoin="0" DevoteGuild="10" DevoteMember="2" />
+		<Load Slot="3" WcoinC="0" WcoinP="20" GlobinPoint="0" RuudCoin="0" DevoteGuild="10" DevoteMember="2" />
+		<Load Slot="4" WcoinC="0" WcoinP="20" GlobinPoint="0" RuudCoin="0" DevoteGuild="20" DevoteMember="2" />
+		<Load Slot="5" WcoinC="0" WcoinP="20" GlobinPoint="0" RuudCoin="0" DevoteGuild="10" DevoteMember="2" />
+		<Load Slot="6" WcoinC="0" WcoinP="20" GlobinPoint="0" RuudCoin="0" DevoteGuild="10" DevoteMember="2" />
+	</EventPoint>
+	
+	<MonsterPoint Enable="0">
+	    <Load MonsterID="1" MapID="-1" WcoinC="3" WcoinP="5" GlobinPoint="8" RuudCoin="2" GuildScore="5" DevoteGuild="10" DevoteMember="1" />
+	</MonsterPoint>
+</BonusPoint>

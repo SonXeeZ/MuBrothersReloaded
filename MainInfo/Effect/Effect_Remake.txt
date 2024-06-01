@@ -1,0 +1,74 @@
+//------------------------------------------------------------------------------//
+//EffectIndex:                                                                  //
+//0  -> Blessed Divine Staff      (absolute02_staff.bmd)                        //
+//1  -> Blessed Divine Sword      (absolute02_sword.bmd)                        //
+//2  -> Blessed Divine CrossBow   (absolute_gunbow.bmd)                         //
+//3  -> Blessed Divine Scepter    (absolute_septer.bmd)                         //
+//4  -> Blessed Divine Stick      (absolute_stick.bmd)                          //
+//5  -> Blessed Divine Claw       (Sword42.bmd,Sword42_L.bmd,Sword42_R.bmd)     //
+//6  -> Blessed Divine Lancer     (blessedabsolute_lance.bmd)                   //
+//7  -> Blessed Divine Mace       (Bless_Absolute_Mace.bmd)                     //
+//8  -> Blessed Divine ShortSword (BlessedAbsoluteShortSword.bmd)               //
+//---------------------------------------------------------------------------------
+//9  -> Heavenly Wings            (Wing401.bmd)                                 //
+//10 -> Avatar Wings              (Wing402.bmd)                                 //
+//11 -> Orb Wings                 (Wing403.bmd)                                 //
+//12 -> Fall Wings                (Wing404.bmd)                                 //
+//13 -> Control Cloak             (Wing405.bmd)                                 //
+//14 -> The Wings                 (Wing406.bmd)                                 //
+//15 -> Referre Cloak             (Wing407.bmd)                                 //
+//---------------------------------------------------------------------------------
+//16 -> Holyangel Sword           (HolyAngelSword.bmd)                          //
+//17 -> Holyangel Magic Sword     (HolyAngelMagicSword.bmd)                     //
+//18 -> Holyangel Scepter         (HolyAngelSepter.bmd)                         //
+//19 -> Holyangel Staff           (HolyAngelStaff.bmd)                          //
+//20 -> Holyangel Stick           (HolyAngelStick.bmd)                          //
+//21 -> Holyangel Claw            (Sword40.bmd,Sword40_L.bmd,Sword40_R.bmd)     //
+//---------------------------------------------------------------------------------
+//22 -> Awakening Sword           (soulknightsword.bmd)                         //
+//23 -> Awakening Magic Sword     (SoulmagicSword.bmd)                          //
+//24 -> Awakening Bow             (hs_soularcherbow_s.bmd)                      //
+//25 -> Awakening Staff           (sd_SoulWizardStaff01_max7.bmd)               //
+//26 -> Awakening Stick           (sd_soulsummoner.bmd)                         //
+//27 -> Awakening Claw            (Sword43.bmd,Sword43_L.bmd,Sword43_R.bmd)     //
+//---------------------------------------------------------------------------------
+//28 -> Blue Eye Sword            (hs_blueeyeknightA.bmd)                       //
+//29 -> Blue Eye Magic Sword      (blue_eye_magicsword01.bmd)                   //
+//30 -> Blue Eye Scepter          (Blue_eye_road_secpter.bmd)                   //
+//31 -> Blue Eye Bow              (blue_eyebow_stand.bmd)                       //
+//32 -> Blue Eye Staff            (blue_eye_ws.bmd)                             //
+//33 -> Blue Eye Stick            (blueeye_summoner.bmd)                       //
+//34 -> Blue Eye Claw             (Sword44.bmd,Sword44_L.bmd,Sword44_R.bmd)     //
+//---------------------------------------------------------------------------------
+//35 -> Darkangel Bow             (Darkangel_Bow.bmd)                           //
+//36 -> Darkangel Lance           (Darkangel_Lance.bmd)                         //
+//37 -> Darkangel Mace            (DarkAngel_Mace.bmd)                          //
+//38 -> Darkangel Staff           (Darkangel_Staff.bmd)                         //
+//39 -> Darkangel Magic Sword     (DarkangelMagicsword.bmd)                     //
+//40 -> Darkangel ShortSword      (DarkAngelShortSword.bmd)                     //
+//41 -> Darkangel Sword           (DarkangelSword.bmd)                          //
+//---------------------------------------------------------------------------------
+//42 -> Holyangel Mace            (HolyAngel_Mace.bmd)                          //
+//43 -> Holyangel Lance           (HolyAngelLance.bmd)                          //
+//44 -> Holyangel ShortSword      (HolyAngelShortSword.bmd)                     //
+//---------------------------------------------------------------------------------
+//45 -> Awakening Lance           (sd_soullance01_final.bmd)                    //
+//46 -> Awakening Mace            (Soul_Mace.bmd)                               //
+//47 -> Awakening ShortSword      (SoulShortSword.bmd)                          //
+//---------------------------------------------------------------------------------
+//48 -> Blue Eye ShortSword       (Blue_eyeShortSword.bmd)                      //
+//49 -> Blue Eye Lance            (hs_blueeyelance.bmd)                         //
+//50 -> Blue Eye Mace             (mace5masterf.bmd)                            //
+//---------------------------------------------------------------------------------
+//51 -> Wings of Disillusionment  (Wing52.bmd)                                  //
+//52 -> Wings of Fate             (Wing53.bmd)                                  //
+//53 -> Wings of Silence          (Wing54.bmd)                                  //
+//54 -> Wings of Condemnation     (Wing55.bmd)                                  //
+//55 -> Wings of Power            (WingsOfPower.bmd)                            //
+//56 -> Control Cloak             (Utilizar para Custom Cloak Animation)        //
+//57 -> Referre Cloak             (Utilizar para Custom Cloak Animation)        //
+//58 -> Wings of Power            (Utilizar para Custom Cloak Animation)        //
+//------------------------------------------------------------------------------//             
+//Type	Index	EffectIndex				name					//
+//------------------------------------------------------------------------------//
+end

@@ -1,0 +1,85 @@
+[GameServerHack]
+;==================================================
+; Anti-Flood
+;==================================================
+AntiFlood_Enabled = 0
+AntiFlood_MaxIpConnection = 20
+AntiFlood_IpLimitConnectionTime = 1
+AntiFlood_IpConnectionBlockedTime = 600
+AntiFlood_IpMaxAttemptsConnectionTime = 60000
+
+;==================================================
+; Login Protection -> (MiliSeconds) default: 30000
+;==================================================
+KG_ProtectLogin_AfterConnection = 60000
+
+;==================================================
+; KGProtect -> Serial Item 0
+;==================================================
+KG_KGProtect_CheckSerial0 = 1
+KG_KGProtect_RemoveDuplicateItem = 1
+
+;==================================================
+; Hack Settings
+;==================================================
+CheckSpeedHack = 0
+CheckSpeedHackTolerance = 0
+CheckLatencyHack = 0
+CheckLatencyHackTolerance = 0
+
+;==================================================
+; Check AutoPotion Hack
+;==================================================
+CheckAutoPotionHack = 1
+CheckAutoPotionHackTolerance = 1000
+CheckAutoPotionDebug = 0
+CheckAutoPotionDisconnect = 1
+
+;==================================================
+CheckAutoComboHack = 0
+CheckAutoComboHackTolerance = 0
+
+;==================================================
+; Hack Speed Skill Settings (HackSkillCheck.txt)
+; Types:
+; 0: Show message in log only
+; 1: Disconnect User
+; 2: Disable Attack
+; 3: Disable attack by x miliseconds
+;==================================================
+SpeedHackSkillEnable = 0
+SpeedHackSkillType = 0
+SpeedHackSkillPenalty = 5000
+SpeedHackSkillDialog = 0
+SpeedHackSkillDebug = 0
+
+;==================================================
+; Security Main
+;==================================================
+KG_SecurityMainEnable = 0
+KG_SecurityMainMaxHardwareID = 10
+KG_SecurityMainAntiHackDllCRC = 0
+KG_SecurityMainDllCRC = 0
+KG_SecurityMainExeCRC = 0
+KG_SecurityMainPlayerBMDCRC = 0
+
+;==================================================
+; Security GameServer
+;==================================================
+KG_SecurityGSCodeEnable = 0
+KG_SecurityGSAddHWIDEnable = 0
+KG_CheckPacketHackLimit = 180
+
+;==================================================
+; Security AntiHack
+;==================================================
+KG_SecurityGSMoveHackEnable = 1
+KG_SecurityGSVietnamHackEnable = 1
+
+;==================================================
+; Security BlackList
+;==================================================
+KG_SecurityGSBlackListEnable = 0
+KG_SecurityGSBlackListIpAddr = 0
+KG_SecurityGSBlackListHardwareID = 0
+KG_SecurityGSBlackListMacAddr = 0

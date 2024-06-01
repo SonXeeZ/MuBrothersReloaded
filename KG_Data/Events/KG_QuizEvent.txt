@@ -1,0 +1,56 @@
+//=================================================================================================================
+// Custom Auto Quiz System
+//=================================================================================================================
+0
+//Index   Year   Month   Day   DoW   Hour   Minute   Second
+0         *      *       *     *     00     30       0
+0         *      *       *     *     03     30       0
+0         *      *       *     *     06     30       0
+0         *      *       *     *     09     30       0
+0         *      *       *     *     12     30       0
+0         *      *       *     *     15     30       0
+0         *      *       *     *     18     30       0
+0         *      *       *     *     21     30       0
+end
+
+1
+//Index   Name                       AlarmTime   EventTime
+0         "Quiz"                        1           5
+end
+
+
+//=================================================================================================================
+// Questions
+//=================================================================================================================
+//  ID  	->  Question ID
+//  WC 		->  Premiação em WCoinC
+//  WP      	->  Premiação em WCoinP
+//  GP      	->  Premiação em Goblin Point
+//  Question   	->  Pergunta
+//  Answer   	->  Resposta
+//=================================================================================================================
+// Obs: Evite usar respostas que possuem acentos. 
+//=================================================================================================================
+//=================================================================================================================
+//       #ID     #WC     #WP	 #GP         #Question				      		        #Answer		 
+//=================================================================================================================
+2
+	  0      0       0       50	     "Qual o site do jogo?"					"www.muonline.com.br"
+	  1      0       0       50	     "Qual o nick exato do ADM do jogo?"			"Admin"
+	  2      0       0       50	     "Qual o nome exato do servidor?"				"Mu Online"
+	  3      0       0       50	     "Bless é usada para subir item ate +?"		        "6"
+	  4      0       0       50	     "Em que ano a Season 8 foi lançada?"		        "2013"
+	  5      0       0       50	     "Qual season atual do Mu na Koreia?"		        "19"
+	  6      0       0       50	     "A classe Grow Lancer chegou em qual Season?"              "10"
+	  7      0       0       50	     "Pet Rudolf da Bonus de Exp verdadeiro ou falso?"          "falso"
+	  8      0       0       50	     "Como chama o Mini-Boss de Dungeon?"		        "Gorgon"
+	  9      0       0       50	     "Qual limite de resets no servidor?"		        "300"
+	  10     0       0       50	     "Em que cidade fica a primeira Continent Quest?"		"Devias"
+	  11     0       0       50	     "Qual porcentagem o pet Imp da de Ataque?"	                "30"
+	  12     0       0       50	     "No evento de Kanturu quem controla Maya?"		        "nightmare"
+	  13     0       0       50	     "Qual nome da skil que o DL já começa?"	                "force"
+	  14     0       0       50	     "Elbland chegou em qual season?"		                "3"
+	  15     0       0       50	     "Complete - Gr__ __nce_"		                        "grow lancer"
+	  16     0       0       50	     "Qual personagem chegou na season 6?"		        "rage fighter"
+	  17     0       0       50	     "A classe Dark Lord chegou em qual versão?"                "99"
+end

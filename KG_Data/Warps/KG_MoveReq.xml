@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<MoveList>
+	<Move Index="1"  Name="Arena" MinLevel="50"  MaxLevel="400" MinReset="-1" MaxReset="-1" ReqMoney="2000"  AccountLevel="0" GateTarget="50" />
+	<Move Index="2"  Name="Lorencia" MinLevel="10"  MaxLevel="400" MinReset="-1" MaxReset="-1" ReqMoney="2000"  AccountLevel="0" GateTarget="17" />
+	<Move Index="3"  Name="Noria" MinLevel="10"  MaxLevel="400" MinReset="-1" MaxReset="-1" ReqMoney="2000"  AccountLevel="0" GateTarget="27" />
+	<Move Index="31" Name="Elbeland" MinLevel="10"  MaxLevel="400" MinReset="-1" MaxReset="-1" ReqMoney="2000"  AccountLevel="0" GateTarget="267" />
+	<Move Index="32" Name="Elbeland2" MinLevel="10"  MaxLevel="400" MinReset="-1" MaxReset="-1" ReqMoney="2500"  AccountLevel="0" GateTarget="268" />
+	<Move Index="43" Name="Elbeland3" MinLevel="10"  MaxLevel="400" MinReset="-1" MaxReset="-1" ReqMoney="3000"  AccountLevel="0" GateTarget="269" />
+	<Move Index="4"  Name="Devias" MinLevel="20"  MaxLevel="400" MinReset="-1" MaxReset="-1" ReqMoney="2000"  AccountLevel="0" GateTarget="22" />
+	<Move Index="5"  Name="Devias2" MinLevel="20"  MaxLevel="400" MinReset="-1" MaxReset="-1" ReqMoney="2500"  AccountLevel="0" GateTarget="72" />
+	<Move Index="6"  Name="Devias3" MinLevel="20"  MaxLevel="400" MinReset="-1" MaxReset="-1" ReqMoney="3000"  AccountLevel="0" GateTarget="73" />
+	<Move Index="7"  Name="Devias4" MinLevel="20"  MaxLevel="400" MinReset="-1" MaxReset="-1" ReqMoney="3500"  AccountLevel="0" GateTarget="74" />
+	<Move Index="8"  Name="Dungeon" MinLevel="30"  MaxLevel="400" MinReset="-1" MaxReset="-1" ReqMoney="3000"  AccountLevel="0" GateTarget="2" />
+	<Move Index="9"  Name="Dungeon2" MinLevel="40"  MaxLevel="400" MinReset="-1" MaxReset="-1" ReqMoney="3500"  AccountLevel="0" GateTarget="6" />
+	<Move Index="10" Name="Dungeon3" MinLevel="50"  MaxLevel="400" MinReset="-1" MaxReset="-1" ReqMoney="4000"  AccountLevel="0" GateTarget="10" />
+	<Move Index="11" Name="Atlans" MinLevel="70"  MaxLevel="400" MinReset="-1" MaxReset="-1" ReqMoney="4000"  AccountLevel="0" GateTarget="49" />
+	<Move Index="12" Name="Atlans2" MinLevel="80"  MaxLevel="400" MinReset="-1" MaxReset="-1" ReqMoney="4500"  AccountLevel="0" GateTarget="75" />
+	<Move Index="13" Name="Atlans3" MinLevel="90"  MaxLevel="400" MinReset="-1" MaxReset="-1" ReqMoney="5000"  AccountLevel="0" GateTarget="76" />
+	<Move Index="14" Name="LostTower" MinLevel="50"  MaxLevel="400" MinReset="-1" MaxReset="-1" ReqMoney="5000"  AccountLevel="0" GateTarget="42" />
+	<Move Index="15" Name="LostTower2" MinLevel="50"  MaxLevel="400" MinReset="-1" MaxReset="-1" ReqMoney="5500"  AccountLevel="0" GateTarget="31" />
+	<Move Index="16" Name="LostTower3" MinLevel="50"  MaxLevel="400" MinReset="-1" MaxReset="-1" ReqMoney="6000"  AccountLevel="0" GateTarget="33" />
+	<Move Index="17" Name="LostTower4" MinLevel="60"  MaxLevel="400" MinReset="-1" MaxReset="-1" ReqMoney="6500"  AccountLevel="0" GateTarget="35" />
+	<Move Index="18" Name="LostTower5" MinLevel="60"  MaxLevel="400" MinReset="-1" MaxReset="-1" ReqMoney="7000"  AccountLevel="0" GateTarget="37" />
+	<Move Index="19" Name="LostTower6" MinLevel="70"  MaxLevel="400" MinReset="-1" MaxReset="-1" ReqMoney="7500"  AccountLevel="0" GateTarget="39" />
+	<Move Index="20" Name="LostTower7" MinLevel="70"  MaxLevel="400" MinReset="-1" MaxReset="-1" ReqMoney="8000"  AccountLevel="0" GateTarget="41" />
+	<Move Index="21" Name="Tarkan" MinLevel="140" MaxLevel="400" MinReset="-1" MaxReset="-1" ReqMoney="8000"  AccountLevel="0" GateTarget="57" />
+	<Move Index="22" Name="Tarkan2" MinLevel="140" MaxLevel="400" MinReset="-1" MaxReset="-1" ReqMoney="8500"  AccountLevel="0" GateTarget="77" />
+	<Move Index="24" Name="LorenDeep" MinLevel="10" MaxLevel="400" MinReset="-1" MaxReset="-1" ReqMoney="8500"  AccountLevel="0" GateTarget="104" />
+	<Move Index="25" Name="Aida1" MinLevel="150" MaxLevel="400" MinReset="-1" MaxReset="-1" ReqMoney="8500"  AccountLevel="0" GateTarget="119" />
+	<Move Index="27" Name="Aida2" MinLevel="150" MaxLevel="400" MinReset="-1" MaxReset="-1" ReqMoney="8500"  AccountLevel="0" GateTarget="140" />
+	<Move Index="23" Name="Icarus" MinLevel="170" MaxLevel="400" MinReset="-1" MaxReset="-1" ReqMoney="10000" AccountLevel="0" GateTarget="63" />
+	<Move Index="28" Name="Kanturu_ruin1" MinLevel="160" MaxLevel="400" MinReset="-1" MaxReset="-1" ReqMoney="9000"  AccountLevel="0" GateTarget="138" />
+	<Move Index="29" Name="Kanturu_ruin2" MinLevel="160" MaxLevel="400" MinReset="-1" MaxReset="-1" ReqMoney="9000"  AccountLevel="0" GateTarget="141" />
+	<Move Index="45" Name="Kanturu_ruin_island" MinLevel="160" MaxLevel="400" MinReset="-1" MaxReset="-1" ReqMoney="15000" AccountLevel="0" GateTarget="334" />
+	<Move Index="30" Name="Kanturu_Remain" MinLevel="230" MaxLevel="400" MinReset="-1" MaxReset="-1" ReqMoney="12000" AccountLevel="0" GateTarget="139" />
+	<Move Index="46" Name="Karutan1" MinLevel="170"	MaxLevel="400" MinReset="-1" MaxReset="-1" ReqMoney="13000" AccountLevel="0" GateTarget="335" />
+	<Move Index="47" Name="Karutan2" MinLevel="170" MaxLevel="400" MinReset="-1" MaxReset="-1" ReqMoney="14000" AccountLevel="0" GateTarget="344" />
+	<Move Index="34" Name="Raklion" MinLevel="280" MaxLevel="400" MinReset="-1" MaxReset="-1" ReqMoney="15000" AccountLevel="0" GateTarget="287" />
+	<Move Index="35" Name="Crywolf" MinLevel="280" MaxLevel="400" MinReset="-1" MaxReset="-1" ReqMoney="15000" AccountLevel="0" GateTarget="114" />
+	<Move Index="33" Name="Swamp_of_Calmness" MinLevel="400" MaxLevel="400" MinReset="-1" MaxReset="-1" ReqMoney="15000" AccountLevel="0" GateTarget="273" />
+	<Move Index="42" Name="Vulcanus" MinLevel="30"  MaxLevel="400" MinReset="-1" MaxReset="-1" ReqMoney="15000" AccountLevel="0" GateTarget="294" />
+	<Move Index="79" Name="Market" MinLevel="30"  MaxLevel="400" MinReset="-1" MaxReset="-1" ReqMoney="15000" AccountLevel="0" GateTarget="333" />
+	<Move Index="49" Name="SURVIVAL" MinLevel="300"  MaxLevel="400" MinReset="-1" MaxReset="-1" ReqMoney="15000" AccountLevel="0" GateTarget="450" />
+</MoveList>

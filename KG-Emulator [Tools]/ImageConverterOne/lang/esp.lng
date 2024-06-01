@@ -1,0 +1,156 @@
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+; Language file                   ;
+; ';' for comment                 ;
+; '|' for line change             ;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+[language]
+title=Español
+author=Jaime H Duarte
+version=1.001
+
+;main window
+[1000]
+1001=Agregar Imágen(es)...
+1002=Agregar Carpeta...
+1003=Borrar
+1004=Limpiar
+1005=Procesar >>
+1006=Redimensionar...
+1007=Cambiar Formato...
+1008=Marca de Agua...
+1009=Adjustar Rotación...
+1010=Ayuda
+1011=Instalar/Desinstalar atajo en menu...
+1012=Ayuda en línea
+1013=Acerca de...
+;file list
+1014=Nombre
+1015=Resolución
+1016=Tamaño
+1017=Fecha
+1018=Ruta
+1019=Tipo
+1020=Lenguaje
+
+;batch rotate dialog
+[2000]
+2001=Rotación por lotes
+2002=Aplicar configuración a todas las imágenes
+2003=Posición Corregida
+2004=Posición Actual
+2005=90º Der 
+2006=180º Der
+2007=90º Izq
+2008=180º Izq
+2009=Ángulo
+2010=No cambiar tamaño
+2011=Color de fondo
+
+
+;files
+[3000]
+3001=Archivos a procesar
+
+;output size dialog
+[4000]
+4001=Opciones Formato de Salida
+4002=Formato Arhivo Salida
+4003=Extensión Tipo
+4004=Configurar...
+4005=Interpolación
+4006=Tamaño
+4007=¿Redimensionar?
+4008=Usar color en áreas en blanco
+4009=Ancho
+4010=Alto
+4011=De Ancho
+4012=De Alto
+4013=Mantener Relación Aspecto
+
+;gif,jpeg,png,tiff.. option dialog
+[5000]
+5001=Option Jpeg
+5002=Option GIF
+5003=Option Png
+5004=Option Tiff
+5005=OK
+5006=Cancelar
+5007=Option de Codec
+; jpeg
+5011=Línea Base (predeterminada)
+5012=Progresiva
+5013=Optimizar
+5014=Calidad
+;gif
+5021=LZW (Predeterminada)
+5022=Ninguna
+5023=RLE
+;png
+5031=Not Interlace
+5032=Interlace
+;tiff
+5041=Auto (predeterminada)
+5042=Ninguna
+5043=RLE
+5044=Fax
+5045=Pack Bits
+5046=JPEG
+5047=LZW
+
+;watermark dialog
+[6000]
+6001=Marca de Agua
+6002=Texto
+6003=Usar color de fondo
+6004=Opacidad
+6005=Sombra
+6006=Color
+6007=XOffset
+6008=YOffset
+6009=Usar imagen (< 200 x 200)
+6010=Archivo de imagen
+6011=Vista previa
+;new features
+6012=Ancho
+6013=Alto
+6014=Fecha
+6015=Cámara
+6016=Modelo
+6017=Apertura
+6018=ISO
+6019=Exposición
+6020=Longitud Focal
+
+;output dialog
+[7000]
+7001=Opciones
+7002=Sobreescribir original
+7003=Ruta de Salida:
+7004=Explorar...
+7005=Nombre Archivo de Salida
+7006=Use encabezado original, Ejemplo: example.jpg
+7007=Use el nombre original de encabezado, Ejemplo: example.bmp.jpg
+7008=Generar nombre(s) de archivo en secuencia
+7009=Prefijo
+7010=dígitos
+7011=Ejm:
+7012=Nota: esta opción sobreescribirá el (los) archivo(s) original(es) ¡no puede deshacerse!
+7013=¡La carpeta[ %s ] no existe!||¿Desea crearla?
+
+
+;overwrite prompt dialog
+[8000]
+8001=Optiones.
+8002=El archivo [ %s ] ya existe!||¿En verdad desea sobreescribirlo?
+8003=Si
+8004=Si a todo
+8005=Omitir
+8006=Omitir todo
+
+;misc strings
+[9000]
+9001=¡Instación efectuada!
+9002=¡Desinstalación efectuada!
+9003=Redimensionar imagen(&Z)...
+9004=¿En verdad desea remover todas las imágenes?
+9005=¿En verdad desea remover la(s) imagen(es) selecionada(s)?

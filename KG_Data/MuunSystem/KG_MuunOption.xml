@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<MuunOption EvolutionStoneIndex="7405" MuunEnergyConverterIndex="7406" WizardryStoneIndex="7407" >
+    <!-- Client (EvolutionStoneIndex = 14,237) -->
+	<!-- Client (MuunEnergyConverterIndex = 14,238) -->
+	<!-- Client (WizardryStoneIndex = 14,239) -->
+    <MuunInfo>
+	    <!--
+		Index = (category * 512 + index) - item.txt
+		OptionIndex = MuunOptionInfo(Index line)
+		-->
+	    <Add Index="7168" Type="2" Rank="0" OptionIndex="1" EvolutionItemIndex="-1" />
+	</MuunInfo>
+	
+	<MuunOptionInfo>
+	    <!--
+		Example MuunPet original options
+		-->
+	    <Add Index="1" Option1="500" Option2="500" Option3="5" Option4="150" Option5="25" MaxOp="7" SpecialOp="1" SpecialVal="10" MapZone="1" PlayTime="-1" DayOfWeek="-1" MinHour="-1" MaxHour="-1" MinLevel="-1" MaxLevel="-1" MinMasterLevel="-1" MinMasterLevel="-1" />
+	</MuunOptionInfo>
+	
+	<MuunNewOptions>
+		<!--
+		Example news custom options
+		-->
+		<PetInfo ItemIndex="7168" AddHP="5000" AddMP="5000" DamageRate="50" AttackSpeed="150" DoubleDmgRate="35" TripleDmgRate="15" AddExp="70" ResistDoubleDmg="30" ResistIgnoreDefense="10" ResistIgnoreSD="100" ResistCriticalDmg="20" ResistExceDamage="15" BlockStuck="10" ReflectRate="20" />
+	</MuunNewOptions>
+</MuunOption>

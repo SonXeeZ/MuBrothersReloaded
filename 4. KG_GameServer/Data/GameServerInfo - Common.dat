@@ -1,0 +1,595 @@
+[GameServerInfo]
+;==================================================
+; Customer Settings
+;==================================================
+CustomerName = David
+CustomerHardwareId = 3E41B366-91E22DFD-F45B3580-FA43D8E7
+	
+;==================================================
+; Server Settings
+;==================================================
+ServerName = FlyMu
+ServerCode = 0
+ServerLock = 0
+ServerPort = 55901
+ServerVersion = 1.04.05
+ServerSerial = TbYehR2hFUPBKgZj
+ServerMaxUserNumber = 100
+ServerMinLevel = 0
+ServerMaxLevel = 0
+ServerMinReset = 0
+ServerMaxReset = 0
+ServerMinMasterReset = 0
+ServerMaxMasterReset = 0
+GameServer_MuEmu_PacketEncrypt = 1
+
+;==================================================
+; CloseServerTime (1 = 5.4.3.2.1, 0 = 1)
+;==================================================
+NewCloseServer = 1
+
+;==================================================
+; LangServer (0: Eng.txt - 1: Spn.txt - 2: Por.txt)
+; LangServer (3: Heb.txt - 4: Tha.txt - 5: Chn.txt)
+; LangServer (6: Kor.txt (MuServer/KG_Data/Langs))
+;==================================================
+ServerLanguage = 0
+
+;==================================================
+; Connection Settings
+;==================================================
+DataServerAddress = 127.0.0.1
+DataServerPort = 55960
+JoinServerAddress = 127.0.0.1
+JoinServerPort = 55970
+ConnectServerAddress = 185.65.68.126
+ConnectServerPort = 55557
+ 
+;==================================================
+; Log Settings
+;==================================================
+WriteChatLog = 1
+WriteCommandLog = 1
+WriteTradeLog = 1
+WriteConnectLog = 1
+WriteHackLog = 1
+WriteCashShopLog = 1
+WriteChaosMixLog = 1
+
+;==================================================
+; Common Settings
+;==================================================
+MaxItemOption = 7
+MaxIpConnection = 10
+PersonalCodeCheck = 0
+SetItemAcceptHarmonySwitch = 0
+
+;==================================================
+; Monster Settings
+;==================================================
+MonsterLifeRate = 100
+
+;==================================================
+; Health Bar
+;==================================================
+MonsterHealthBarSwitch = 1
+UserHealthBarSwitch = 1
+
+;==================================================
+; PK Settings
+;==================================================
+NonPK = 0
+PKLimitFree = 0
+PKDownTime1 = 3600
+PKDownTime2 = 3600
+PKDisableShop = 1
+
+;==================================================
+; Trade Settings
+;==================================================
+TradeSwitch = 1
+
+;==================================================
+; Personal Shop Settings
+;==================================================
+PersonalShopSwitch = 1
+
+;==================================================
+; Duel Settings
+;==================================================
+DuelSwitch = 1
+DuelArenaAnnounceSwitch = 1
+DuelArenaDisableRestoreHP = 0
+DuelArenaDisableRestoreSD = 0
+DuelMaxScore = 10
+DuelBet = 0
+
+;==================================================
+; Guild Settings
+;==================================================
+GuildCreateSwitch = 1	
+GuildDeleteSwitch = 1
+GuildCreateMinLevel = 100
+GuildInsertMaxUser1 = 40
+GuildInsertMaxUser2 = 80
+GuildAllianceMinUser = 1
+GuildAllianceMaxCount = 5
+GuildOwnerDestroyLimit = 1
+GuildAssistantRequest = 1
+
+;==================================================
+; Elf Buffer Settings
+;==================================================
+ElfBufferMaxLevel_AL0 = 200
+ElfBufferMaxLevel_AL1 = 220
+ElfBufferMaxLevel_AL2 = 220
+ElfBufferMaxLevel_AL3 = 220
+ElfBufferMaxReset_AL0 = 10000
+ElfBufferMaxReset_AL1 = 10000
+ElfBufferMaxReset_AL2 = 10000
+ElfBufferMaxReset_AL3 = 10000
+ElfBufferDamageConstA = 50
+ElfBufferDamageConstB = 5
+ElfBufferDefenseConstA = 45
+ElfBufferDefenseConstB = 3
+
+;==================================================
+; Experience Settings
+;==================================================
+AddExperienceRate_AL0 = 100
+AddExperienceRate_AL1 = 100
+AddExperienceRate_AL2 = 100
+AddExperienceRate_AL3 = 100
+AddMasterExperienceRate_AL0 = 100
+AddMasterExperienceRate_AL1 = 100
+AddMasterExperienceRate_AL2 = 100
+AddMasterExperienceRate_AL3 = 100
+MinMasterExperienceMonsterLevel_AL0 = 80
+MinMasterExperienceMonsterLevel_AL1 = 80
+MinMasterExperienceMonsterLevel_AL2 = 80
+MinMasterExperienceMonsterLevel_AL3 = 80
+AddEventExperienceRate_AL0 = 1
+AddEventExperienceRate_AL1 = 1
+AddEventExperienceRate_AL2 = 1
+AddEventExperienceRate_AL3 = 1
+AddQuestExperienceRate_AL0 = 1
+AddQuestExperienceRate_AL1 = 1
+AddQuestExperienceRate_AL2 = 1
+AddQuestExperienceRate_AL3 = 1
+OffAttackExperienceRate_AL0 = 10
+OffAttackExperienceRate_AL1 = 12
+OffAttackExperienceRate_AL2 = 12
+OffAttackExperienceRate_AL3 = 12
+AutoResetExperienceRate_AL0 = 10
+AutoResetExperienceRate_AL1 = 12
+AutoResetExperienceRate_AL2 = 12
+AutoResetExperienceRate_AL3 = 12
+
+;==================================================
+; Item Drop Settings
+;==================================================
+ItemDropTime = 20
+ItemDropRate_AL0 = 30
+ItemDropRate_AL1 = 40
+ItemDropRate_AL2 = 40
+ItemDropRate_AL3 = 40
+
+;==================================================
+; Money Drop Settings
+;==================================================
+MoneyDropTime = 20
+MoneyAmountDropRate_AL0 = 30
+MoneyAmountDropRate_AL1 = 40
+MoneyAmountDropRate_AL2 = 50
+MoneyAmountDropRate_AL3 = 60
+
+;==================================================
+; Advanced Money Drop Settings
+; If > 0 enable the system
+; Money Drop = (MoneyValue*MonterLevel) + % ItemBonus
+;==================================================
+MoneyValue_AL0 = 200
+MoneyValue_AL1 = 200
+MoneyValue_AL2 = 200
+MoneyValue_AL3 = 200
+
+;==================================================
+; Item Durability Settings
+;==================================================
+WeaponDurabilityRate = 100
+ArmorDurabilityRate = 100
+WingDurabilityRate = 100
+PendantDurabilityRate = 100
+RingDurabilityRate = 100
+
+;==================================================
+; Pet Durability Settings
+;==================================================
+AngelDurabilityRate = 100
+SatanDurabilityRate = 100
+UniriaDurabilityRate = 100
+DinorantDurabilityRate = 100
+DemonDurabilityRate = 100
+MariaDurabilityRate = 100
+RudolfDurabilityRate = 100
+PandaDurabilityRate = 100
+UnicornDurabilityRate = 100
+SkeletonDurabilityRate = 100
+DarkHorseDurabilityRate = 100
+DarkRavenDurabilityRate = 100
+FenrirDurabilityRate = 100
+MuunDurabilityRate = 100
+
+
+;==================================================
+; Trade Item Block Settings
+;==================================================
+TradeItemBlock = 0
+TradeItemBlockExc = 0
+TradeItemBlockSet = 0
+TradeItemBlockHarmony = 0
+TradeItemBlockSell = 0
+TradeItemBlockLucky = 0
+
+;==================================================
+; Level Up Settings
+;==================================================
+MaxLevel = 400
+MaxLevelUp = 1
+MaxLevelUpEvent = 1
+MaxLevelUpQuest = 1
+MaxStatPoint_AL0 = 65000
+MaxStatPoint_AL1 = 65000
+MaxStatPoint_AL2 = 65000
+MaxStatPoint_AL3 = 65000
+DWLevelUpPoint = 5
+DKLevelUpPoint = 5
+FELevelUpPoint = 5
+MGLevelUpPoint = 7
+DLLevelUpPoint = 7
+SULevelUpPoint = 5
+RFLevelUpPoint = 7
+PlusStatPoint = 1
+
+;==================================================
+; Create Character Settings
+;==================================================
+CharacterCreateSwitch = 1
+MGCreateType = 0				
+DLCreateType = 0		
+SUCreateType = 0
+RFCreateType = 0
+MGCreateLevel_AL0 = 220
+MGCreateLevel_AL1 = 220
+MGCreateLevel_AL2 = 220
+MGCreateLevel_AL3 = 220
+MGCreateReset_AL0 = 0
+MGCreateReset_AL1 = 0
+MGCreateReset_AL2 = 0
+MGCreateReset_AL3 = 0
+MGCreateMasterReset_AL0 = 0
+MGCreateMasterReset_AL1 = 0
+MGCreateMasterReset_AL2 = 0
+MGCreateMasterReset_AL3 = 0
+DLCreateLevel_AL0 = 250
+DLCreateLevel_AL1 = 250
+DLCreateLevel_AL2 = 250
+DLCreateLevel_AL3 = 250
+DLCreateReset_AL0 = 0
+DLCreateReset_AL1 = 0
+DLCreateReset_AL2 = 0
+DLCreateReset_AL3 = 0
+DLCreateMasterReset_AL0 = 0
+DLCreateMasterReset_AL1 = 0
+DLCreateMasterReset_AL2 = 0
+DLCreateMasterReset_AL3 = 0
+SUCreateLevel_AL0 = 0
+SUCreateLevel_AL1 = 0
+SUCreateLevel_AL2 = 0
+SUCreateLevel_AL3 = 0
+SUCreateReset_AL0 = 0
+SUCreateReset_AL1 = 0
+SUCreateReset_AL2 = 0
+SUCreateReset_AL3 = 0
+SUCreateMasterReset_AL0 = 0
+SUCreateMasterReset_AL1 = 0
+SUCreateMasterReset_AL2 = 0
+SUCreateMasterReset_AL3 = 0
+RFCreateLevel_AL0 = 150
+RFCreateLevel_AL1 = 150
+RFCreateLevel_AL2 = 150
+RFCreateLevel_AL3 = 150
+RFCreateReset_AL0 = 0
+RFCreateReset_AL1 = 0
+RFCreateReset_AL2 = 0
+RFCreateReset_AL3 = 0
+RFCreateMasterReset_AL0 = 0
+RFCreateMasterReset_AL1 = 0
+RFCreateMasterReset_AL2 = 0
+RFCreateMasterReset_AL3 = 0
+
+;==================================================
+; Shield Gauge Settings
+;==================================================
+ShieldGaugeRate = 90
+ShieldGaugeConstA = 12
+ShieldGaugeConstB = 15
+ShieldGaugeAttackRate = 2
+ShieldGaugeAttackComboMiss = 0
+
+;==================================================
+; Master Skill Tree Settings
+;==================================================
+MasterSkillTree = 1
+MasterSkillTreePoint = 1
+MasterSkillTreeMaxLevel = 800
+
+;==================================================
+; Gens System Settings
+;==================================================
+GensSystemSwitch = 1
+GensSystemGuildLock = 0
+GensSystemPartyLock = 0
+GensSystemInsertMinLevel = 50
+GensSystemContributionFloodTime = 30
+GensSystemVictimContributionDecrease = 3
+GensSystemKillerContributionIncrease = 500
+GensSystemVictimMinContributionDecrease = 1
+GensSystemVictimMaxContributionDecrease = 15
+GensSystemKillerMinContributionIncrease = 1
+GensSystemKillerMaxContributionIncrease = 15
+GensSystemStartRewardDay = 1
+GensSystemFinalRewardDay = 7
+
+;==================================================
+; Helper Settings
+;==================================================
+HelperSwitch = 1
+HelperActiveLevel = 80
+HelperActiveDelay = 5
+HelperActiveMoney1 = 20
+HelperActiveMoney2 = 50
+HelperActiveMoney3 = 80
+HelperActiveMoney4 = 100
+HelperActiveMoney5 = 120
+
+;==================================================
+; Cash Shop Settings
+;==================================================
+CashShopSwitch = 1
+CashShopScriptVersion1 = 512
+CashShopScriptVersion2 = 2011
+CashShopScriptVersion3 = 6
+CashShopBannerVersion1 = 583
+CashShopBannerVersion2 = 2010
+CashShopBannerVersion3 = 5
+CashShopCoinsDelay = 0
+CashShopWCoinCValue_AL0 = 0
+CashShopWCoinCValue_AL1 = 0
+CashShopWCoinCValue_AL2 = 0
+CashShopWCoinCValue_AL3 = 0
+CashShopWCoinPValue_AL0 = 0
+CashShopWCoinPValue_AL1 = 0
+CashShopWCoinPValue_AL2 = 0
+CashShopWCoinPValue_AL3 = 0
+CashShopGPointValue_AL0 = 0
+CashShopGPointValue_AL1 = 0
+CashShopGPointValue_AL2 = 0
+CashShopGPointValue_AL3 = 0
+CashShopRuudPointValue_AL0 = 0
+CashShopRuudPointValue_AL1 = 0
+CashShopRuudPointValue_AL2 = 0
+CashShopRuudPointValue_AL3 = 0
+
+;==================================================
+; Party Settings
+;==================================================
+PartyReconnectTime = 300
+PartyGeneralExperience1 = 100
+PartyGeneralExperience2 = 90
+PartyGeneralExperience3 = 80
+PartyGeneralExperience4 = 70
+PartyGeneralExperience5 = 60
+PartyGeneralExperience6 = 50
+PartyGeneralExperience7 = 40
+PartyGeneralExperience8 = 30
+PartyGeneralExperience9 = 20
+PartyGeneralExperience10 = 10
+PartySpecialExperience1 = 100
+PartySpecialExperience2 = 90
+PartySpecialExperience3 = 80
+PartySpecialExperience4 = 70
+PartySpecialExperience5 = 60
+PartySpecialExperience6 = 50
+PartySpecialExperience7 = 40
+PartySpecialExperience8 = 30
+PartySpecialExperience9 = 20
+PartySpecialExperience10 = 10
+PartyDisablePK           = 0
+PartyMaxMembers          = 10
+
+;==================================================
+; Potion Settings
+;==================================================
+ApplePotionRate = 10
+SmallLifePotionRate = 3
+MidleLifePotionRate = 5
+LargeLifePotionRate = 60
+SmallManaPotionRate = 20
+MidleManaPotionRate = 30
+LargeManaPotionRate = 60
+SmallShieldPotionRate = 2
+MidleShieldPotionRate = 2
+LargeShieldPotionRate = 2
+SmallCompoundPotionRate1 = 10
+SmallCompoundPotionRate2 = 0
+MidleCompoundPotionRate1 = 10
+MidleCompoundPotionRate2 = 0
+LargeCompoundPotionRate1 = 10
+LargeCompoundPotionRate2 = 0
+EliteLifePotionRate = 80
+EliteManaPotionRate = 100
+EliteShieldPotionRate = 80
+
+;==================================================
+; Transformation Ring Settings
+;==================================================
+TransformationRing1 = 2
+TransformationRing2 = 7
+TransformationRing3 = 14
+TransformationRing4 = 8
+TransformationRing5 = 9
+TransformationRing6 = 41
+
+;==================================================
+; Jewel Settings
+;==================================================
+SoulSuccessRate_AL0 = 65
+SoulSuccessRate_AL1 = 65
+SoulSuccessRate_AL2 = 65
+SoulSuccessRate_AL3 = 65
+LifeSuccessRate_AL0 = 65
+LifeSuccessRate_AL1 = 65
+LifeSuccessRate_AL2 = 65
+LifeSuccessRate_AL3 = 65
+HarmonySuccessRate_AL0 = 65
+HarmonySuccessRate_AL1 = 65
+HarmonySuccessRate_AL2 = 65
+HarmonySuccessRate_AL3 = 65
+SmeltStoneSuccessRate1_AL0 = 65
+SmeltStoneSuccessRate1_AL1 = 65
+SmeltStoneSuccessRate1_AL2 = 65
+SmeltStoneSuccessRate1_AL3 = 65
+SmeltStoneSuccessRate2_AL0 = 65
+SmeltStoneSuccessRate2_AL1 = 65
+SmeltStoneSuccessRate2_AL2 = 65
+SmeltStoneSuccessRate2_AL3 = 65
+AddLuckSuccessRate1_AL0 = 25
+AddLuckSuccessRate1_AL1 = 25
+AddLuckSuccessRate1_AL2 = 25
+AddLuckSuccessRate1_AL3 = 25
+AddLuckSuccessRate2_AL0 = 25
+AddLuckSuccessRate2_AL1 = 25
+AddLuckSuccessRate2_AL2 = 25
+AddLuckSuccessRate2_AL3 = 25
+
+;==================================================
+; Fruit Settings
+;==================================================
+FruitAddPointMin = 1
+FruitAddPointMax = 3
+FruitAddPointSuccessRate_AL0 = -1
+FruitAddPointSuccessRate_AL1 = -1
+FruitAddPointSuccessRate_AL2 = -1
+FruitAddPointSuccessRate_AL3 = -1
+FruitSubPointMin = 1
+FruitSubPointMax = 9
+FruitSubPointSuccessRate_AL0 = -1
+FruitSubPointSuccessRate_AL1 = -1
+FruitSubPointSuccessRate_AL2 = -1
+FruitSubPointSuccessRate_AL3 = -1
+
+;==================================================
+; HP Bonus System
+; Aumenta a vida do personagem de acordo com a quantidade de master reset
+;==================================================
+HpBonus_AL0 = 0
+HpBonus_AL1 = 0
+HpBonus_AL2 = 0
+HpBonus_AL3 = 0
+HpBonus_MAX = 10000
+
+;==================================================
+; Die System
+; Mostra mensagem no chat quando o personagem morre.
+;==================================================
+DieUserSwitch = 0
+DieMonsterSwitch = 0
+
+;==================================================
+; Online User System
+; Exibe mensagem de conex�o Gm/Player.
+;==================================================
+OnlineGmSwitch = 1
+OnlineUserSwitch = 1
+
+;==================================================
+; Disable exp message (Premium)
+; Desabilita a mensagem de experiencia ganha ao matar um mob.
+; S� � exibida quando sobe de level.
+;==================================================
+DisableExpMessage = 0
+
+;==================================================
+; Remover Recuo (Premium)
+; Remove o recuo/empurr�o das skills
+;==================================================
+DisableLightningEffect = 0
+DisableCycloneEffect = 0
+DisableTwistEffect = 0
+DisableLungEffect = 0
+DisableFallingEffect = 0
+DisableUpperCutEffect = 0
+
+;==================================================
+; Disable Wings Class Mix
+; Desabilita cria��o de asas para classes
+;==================================================
+DisableWingMixDL = 0
+DisableWingMixSU = 0
+DisableWingMixRF = 0
+
+;==================================================
+; Pk Can Enter in events
+; Permitir Pk entrar nos eventos
+;==================================================
+PkCanEnterBC = 0
+PkCanEnterCC = 0
+PkCanEnterDS = 0
+
+;==================================================
+; Pk Item Drop
+;==================================================
+PkItemDropSwitch = 0
+PkItemDropEnable_AL0 = 1
+PkItemDropEnable_AL1 = 1
+PkItemDropEnable_AL2 = 1
+PkItemDropEnable_AL3 = 1
+PkItemDropMinLevel = 0
+PkItemDropMaxLevel = 15
+PkItemDropExecellent = 1
+PkItemDropSocketItem = 1
+PkItemDropSetItem = 1
+PkItemDropHarmony = 1
+PkItemDropRate = 100
+
+;==================================================
+; Disconnect Online Account
+; Ao logar desconecta a conta se ela estiver online
+;==================================================
+DisconnectOnlineAccount = 1
+
+;==================================================
+; Enable CS Skills in All Maps
+;==================================================
+EnableCsSkillsAllMaps = 1
+
+;==================================================
+;enable sale of items with a period of time in the
+;shop, "enable(0)" - "block(1)"
+;==================================================
+ShopItemTimePeriod = 0
+
+;==================================================
+;Enable add harmony in socket item 380
+;==================================================
+Item_Accept_Socket_JoH = 1
+
+;==================================================
+;GuildWar System -> Attack Monster (ON,OFF)
+;Value: 0 = No Attack Monster : GuildWar
+;Value: 1 = Attack Monster : GuildWar
+;==================================================
+GuildWarKillMonster = 0
+
+EnableComboToAllSwitch = 0

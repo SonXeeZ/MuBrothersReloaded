@@ -1,0 +1,24 @@
+<MoveSummon>
+   <Move Map="0" X="1" Y="1" TX="255" TY="255" MinLevel="1" MaxLevel="400" MinReset="-1" MaxReset="-1" AccountLevel="-1" PkMove="1" /> 
+   <Move Map="1" X="1" Y="1" TX="255" TY="255" MinLevel="1" MaxLevel="400" MinReset="-1" MaxReset="-1" AccountLevel="-1" PkMove="1" /> 
+   <Move Map="2" X="1" Y="1" TX="255" TY="255" MinLevel="1" MaxLevel="400" MinReset="-1" MaxReset="-1" AccountLevel="-1" PkMove="1" /> 
+   <Move Map="3" X="1" Y="1" TX="255" TY="255" MinLevel="1" MaxLevel="400" MinReset="-1" MaxReset="-1" AccountLevel="-1" PkMove="1" /> 
+   <Move Map="4" X="1" Y="1" TX="255" TY="255" MinLevel="1" MaxLevel="400" MinReset="-1" MaxReset="-1" AccountLevel="-1" PkMove="1" /> 
+   <Move Map="6" X="1" Y="1" TX="255" TY="255" MinLevel="1" MaxLevel="400" MinReset="-1" MaxReset="-1" AccountLevel="-1" PkMove="1" /> 
+   <Move Map="7" X="1" Y="1" TX="255" TY="255" MinLevel="1" MaxLevel="400" MinReset="-1" MaxReset="-1" AccountLevel="-1" PkMove="1" /> 
+   <Move Map="8" X="1" Y="1" TX="255" TY="255" MinLevel="1" MaxLevel="400" MinReset="-1" MaxReset="-1" AccountLevel="-1" PkMove="1" /> 
+   <Move Map="10" X="1" Y="1" TX="255" TY="255" MinLevel="1" MaxLevel="400" MinReset="-1" MaxReset="-1" AccountLevel="-1" PkMove="1" /> 
+   <Move Map="30" X="1" Y="1" TX="255" TY="255" MinLevel="1" MaxLevel="400" MinReset="-1" MaxReset="-1" AccountLevel="-1" PkMove="1" /> 
+   <Move Map="33" X="1" Y="1" TX="255" TY="255" MinLevel="1" MaxLevel="400" MinReset="-1" MaxReset="-1" AccountLevel="-1" PkMove="1" /> 
+   <Move Map="34" X="1" Y="1" TX="255" TY="255" MinLevel="1" MaxLevel="400" MinReset="-1" MaxReset="-1" AccountLevel="-1" PkMove="1" /> 
+   <Move Map="37" X="1" Y="1" TX="255" TY="255" MinLevel="1" MaxLevel="400" MinReset="-1" MaxReset="-1" AccountLevel="-1" PkMove="1" /> 
+   <Move Map="38" X="1" Y="1" TX="255" TY="255" MinLevel="1" MaxLevel="400" MinReset="-1" MaxReset="-1" AccountLevel="-1" PkMove="1" /> 
+   <Move Map="41" X="1" Y="1" TX="255" TY="255" MinLevel="1" MaxLevel="400" MinReset="-1" MaxReset="-1" AccountLevel="-1" PkMove="1" /> 
+   <Move Map="42" X="1" Y="1" TX="255" TY="255" MinLevel="1" MaxLevel="400" MinReset="-1" MaxReset="-1" AccountLevel="-1" PkMove="1" /> 
+   <Move Map="51" X="1" Y="1" TX="255" TY="255" MinLevel="1" MaxLevel="400" MinReset="-1" MaxReset="-1" AccountLevel="-1" PkMove="1" /> 
+   <Move Map="56" X="1" Y="1" TX="255" TY="255" MinLevel="1" MaxLevel="400" MinReset="-1" MaxReset="-1" AccountLevel="-1" PkMove="1" /> 
+   <Move Map="57" X="1" Y="1" TX="255" TY="255" MinLevel="1" MaxLevel="400" MinReset="-1" MaxReset="-1" AccountLevel="-1" PkMove="1" /> 
+   <Move Map="80" X="1" Y="1" TX="255" TY="255" MinLevel="1" MaxLevel="400" MinReset="-1" MaxReset="-1" AccountLevel="-1" PkMove="1" /> 
+   <Move Map="81" X="1" Y="1" TX="255" TY="255" MinLevel="1" MaxLevel="400" MinReset="-1" MaxReset="-1" AccountLevel="-1" PkMove="1" /> 
+   <Move Map="82" X="1" Y="1" TX="255" TY="255" MinLevel="1" MaxLevel="400" MinReset="-1" MaxReset="-1" AccountLevel="-1" PkMove="1" />  
+</MoveSummon>

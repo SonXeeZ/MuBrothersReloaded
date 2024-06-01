@@ -1,0 +1,171 @@
+<StartItem StartSwitch_AL0="0" StartSwitch_AL1="0" StartSwitch_AL2="0" StartSwitch_AL3="0">
+    <!-- Create Stats (NewChar)
+	
+ Class:
+ 
+	DW -> 0
+	DK -> 1
+	FE -> 2
+	MG -> 3
+	DL -> 4
+	SU -> 5
+	RF -> 6
+
+	-->
+	<Stat>
+	    <Char ClassChar="0" LevelUpPoints="5000" Resets="10" Zen="20000000" />
+	    <Char ClassChar="1" LevelUpPoints="5000" Resets="10" Zen="20000000" />
+	    <Char ClassChar="2" LevelUpPoints="5000" Resets="10" Zen="20000000" />
+	    <Char ClassChar="3" LevelUpPoints="5000" Resets="10" Zen="20000000" />
+	    <Char ClassChar="4" LevelUpPoints="5000" Resets="10" Zen="20000000" />
+	    <Char ClassChar="5" LevelUpPoints="5000" Resets="10" Zen="20000000" />
+	    <Char ClassChar="6" LevelUpPoints="5000" Resets="10" Zen="20000000" />
+	</Stat>
+    <!-- Create Item System (New Char)-->
+    <Item>
+	    <!-- Dark Wizard (0)-->
+		<Char ClassChar="0" ItemType="5"  ItemIndex="5" ItemLevel="10" ItemDur="255" ItemSkill="1" ItemLuck="1" ItemOpt="7" ItemExc="63" ItemAcc="0" JoH="0" OpEx="0" Socket1="255" Socket2="255" Socket3="255" Socket4="255" Socket5="255" ItemTime="0" />
+		<Char ClassChar="0" ItemType="6"  ItemIndex="14" ItemLevel="10" ItemDur="255" ItemSkill="1" ItemLuck="1" ItemOpt="7" ItemExc="63" ItemAcc="0" JoH="0" OpEx="0" Socket1="255" Socket2="255" Socket3="255" Socket4="255" Socket5="255" ItemTime="0" />
+	    <Char ClassChar="0" ItemType="7"  ItemIndex="3" ItemLevel="10" ItemDur="255" ItemSkill="1" ItemLuck="1" ItemOpt="7" ItemExc="63" ItemAcc="5" JoH="0" OpEx="0" Socket1="255" Socket2="255" Socket3="255" Socket4="255" Socket5="255" ItemTime="0" />
+		<Char ClassChar="0" ItemType="8"  ItemIndex="3" ItemLevel="10" ItemDur="255" ItemSkill="1" ItemLuck="1" ItemOpt="7" ItemExc="63" ItemAcc="5" JoH="5" OpEx="0" Socket1="255" Socket2="255" Socket3="255" Socket4="255" Socket5="255" ItemTime="0" />
+		<Char ClassChar="0" ItemType="9"  ItemIndex="3" ItemLevel="10" ItemDur="255" ItemSkill="1" ItemLuck="1" ItemOpt="7" ItemExc="63" ItemAcc="6" JoH="0" OpEx="0" Socket1="255" Socket2="255" Socket3="255" Socket4="255" Socket5="255" ItemTime="0" />
+		<Char ClassChar="0" ItemType="10" ItemIndex="3" ItemLevel="10" ItemDur="255" ItemSkill="1" ItemLuck="1" ItemOpt="7" ItemExc="63" ItemAcc="5" JoH="0" OpEx="0" Socket1="255" Socket2="255" Socket3="255" Socket4="255" Socket5="255" ItemTime="0" />
+		<Char ClassChar="0" ItemType="11" ItemIndex="3" ItemLevel="10" ItemDur="255" ItemSkill="1" ItemLuck="1" ItemOpt="7" ItemExc="63" ItemAcc="6" JoH="1" OpEx="0" Socket1="255" Socket2="255" Socket3="255" Socket4="255" Socket5="255" ItemTime="0" />
+		<Char ClassChar="0" ItemType="12" ItemIndex="35" ItemLevel="15" ItemDur="255" ItemSkill="0" ItemLuck="1" ItemOpt="7" ItemExc="63" ItemAcc="0" JoH="0" OpEx="0" Socket1="255" Socket2="255" Socket3="255" Socket4="255" Socket5="255" ItemTime="0" />
+		<Char ClassChar="0" ItemType="13" ItemIndex="67" ItemLevel="0" ItemDur="255" ItemSkill="0" ItemLuck="0" ItemOpt="0" ItemExc="0" ItemAcc="0" JoH="0" OpEx="0" Socket1="255" Socket2="255" Socket3="255" Socket4="255" Socket5="255" ItemTime="0" />
+		<!-- Dark Knight (1)-->
+	    <Char ClassChar="1" ItemType="7"  ItemIndex="46" ItemLevel="15" ItemDur="255" ItemSkill="1" ItemLuck="1" ItemOpt="7" ItemExc="63" ItemAcc="0" JoH="0" OpEx="0" Socket1="255" Socket2="255" Socket3="255" Socket4="255" Socket5="255" ItemTime="7" />
+		<Char ClassChar="1" ItemType="8"  ItemIndex="46" ItemLevel="15" ItemDur="255" ItemSkill="1" ItemLuck="1" ItemOpt="7" ItemExc="63" ItemAcc="0" JoH="0" OpEx="0" Socket1="255" Socket2="255" Socket3="255" Socket4="255" Socket5="255" ItemTime="7" />
+		<Char ClassChar="1" ItemType="9"  ItemIndex="46" ItemLevel="15" ItemDur="255" ItemSkill="1" ItemLuck="1" ItemOpt="7" ItemExc="63" ItemAcc="0" JoH="0" OpEx="0" Socket1="255" Socket2="255" Socket3="255" Socket4="255" Socket5="255" ItemTime="7" />
+		<Char ClassChar="1" ItemType="10" ItemIndex="46" ItemLevel="15" ItemDur="255" ItemSkill="1" ItemLuck="1" ItemOpt="7" ItemExc="63" ItemAcc="0" JoH="0" OpEx="0" Socket1="255" Socket2="255" Socket3="255" Socket4="255" Socket5="255" ItemTime="7" />
+		<Char ClassChar="1" ItemType="11" ItemIndex="46" ItemLevel="15" ItemDur="255" ItemSkill="1" ItemLuck="1" ItemOpt="7" ItemExc="63" ItemAcc="0" JoH="0" OpEx="0" Socket1="255" Socket2="255" Socket3="255" Socket4="255" Socket5="255" ItemTime="7" />
+		<Char ClassChar="1" ItemType="12" ItemIndex="2" ItemLevel="15" ItemDur="255" ItemSkill="0" ItemLuck="1" ItemOpt="7" ItemExc="63" ItemAcc="0" JoH="0" OpEx="0" Socket1="255" Socket2="255" Socket3="255" Socket4="255" Socket5="255" ItemTime="7" />
+		<Char ClassChar="1" ItemType="13" ItemIndex="67" ItemLevel="0" ItemDur="255" ItemSkill="0" ItemLuck="0" ItemOpt="0" ItemExc="0" ItemAcc="0" JoH="0" OpEx="0" Socket1="255" Socket2="255" Socket3="255" Socket4="255" Socket5="255" ItemTime="7" />
+		<!-- Fairy Elf (2)-->
+	    <Char ClassChar="2" ItemType="7"  ItemIndex="10" ItemLevel="9" ItemDur="255" ItemSkill="1" ItemLuck="1" ItemOpt="7" ItemExc="63" ItemAcc="0" JoH="0" OpEx="0" Socket1="255" Socket2="255" Socket3="255" Socket4="255" Socket5="255" ItemTime="7" />
+		<Char ClassChar="2" ItemType="8"  ItemIndex="10" ItemLevel="9" ItemDur="255" ItemSkill="1" ItemLuck="1" ItemOpt="7" ItemExc="63" ItemAcc="0" JoH="0" OpEx="0" Socket1="255" Socket2="255" Socket3="255" Socket4="255" Socket5="255" ItemTime="7" />
+		<Char ClassChar="2" ItemType="9"  ItemIndex="10" ItemLevel="9" ItemDur="255" ItemSkill="1" ItemLuck="1" ItemOpt="7" ItemExc="63" ItemAcc="0" JoH="0" OpEx="0" Socket1="255" Socket2="255" Socket3="255" Socket4="255" Socket5="255" ItemTime="7" />
+		<Char ClassChar="2" ItemType="10" ItemIndex="10" ItemLevel="9" ItemDur="255" ItemSkill="1" ItemLuck="1" ItemOpt="7" ItemExc="63" ItemAcc="0" JoH="0" OpEx="0" Socket1="255" Socket2="255" Socket3="255" Socket4="255" Socket5="255" ItemTime="7" />
+		<Char ClassChar="2" ItemType="11" ItemIndex="10" ItemLevel="9" ItemDur="255" ItemSkill="1" ItemLuck="1" ItemOpt="7" ItemExc="63" ItemAcc="0" JoH="0" OpEx="0" Socket1="255" Socket2="255" Socket3="255" Socket4="255" Socket5="255" ItemTime="7" />
+		<Char ClassChar="2" ItemType="12" ItemIndex="0" ItemLevel="15" ItemDur="255" ItemSkill="0" ItemLuck="1" ItemOpt="7" ItemExc="63" ItemAcc="0" JoH="0" OpEx="0" Socket1="255" Socket2="255" Socket3="255" Socket4="255" Socket5="255" ItemTime="7" />
+		<Char ClassChar="2" ItemType="13" ItemIndex="67" ItemLevel="0" ItemDur="255" ItemSkill="0" ItemLuck="0" ItemOpt="0" ItemExc="0" ItemAcc="0" JoH="0" OpEx="0" Socket1="255" Socket2="255" Socket3="255" Socket4="255" Socket5="255" ItemTime="7" />
+		<!-- Magic Gladiator (3)-->
+		<Char ClassChar="3" ItemType="0"  ItemIndex="21" ItemLevel="9" ItemDur="255" ItemSkill="1" ItemLuck="1" ItemOpt="7" ItemExc="63" ItemAcc="0" JoH="0" OpEx="0" Socket1="255" Socket2="255" Socket3="255" Socket4="255" Socket5="255" ItemTime="7" />
+		<Char ClassChar="3" ItemType="8"  ItemIndex="3" ItemLevel="9" ItemDur="255" ItemSkill="1" ItemLuck="1" ItemOpt="7" ItemExc="63" ItemAcc="0" JoH="0" OpEx="0" Socket1="255" Socket2="255" Socket3="255" Socket4="255" Socket5="255" ItemTime="7" />
+		<Char ClassChar="3" ItemType="9"  ItemIndex="3" ItemLevel="9" ItemDur="255" ItemSkill="1" ItemLuck="1" ItemOpt="7" ItemExc="63" ItemAcc="0" JoH="0" OpEx="0" Socket1="255" Socket2="255" Socket3="255" Socket4="255" Socket5="255" ItemTime="7" />
+		<Char ClassChar="3" ItemType="10" ItemIndex="3" ItemLevel="9" ItemDur="255" ItemSkill="1" ItemLuck="1" ItemOpt="7" ItemExc="63" ItemAcc="0" JoH="0" OpEx="0" Socket1="255" Socket2="255" Socket3="255" Socket4="255" Socket5="255" ItemTime="7" />
+		<Char ClassChar="3" ItemType="11" ItemIndex="3" ItemLevel="9" ItemDur="255" ItemSkill="1" ItemLuck="1" ItemOpt="7" ItemExc="63" ItemAcc="0" JoH="0" OpEx="0" Socket1="255" Socket2="255" Socket3="255" Socket4="255" Socket5="255" ItemTime="7" />
+		<Char ClassChar="3" ItemType="12" ItemIndex="6" ItemLevel="15" ItemDur="255" ItemSkill="0" ItemLuck="1" ItemOpt="7" ItemExc="63" ItemAcc="0" JoH="0" OpEx="0" Socket1="255" Socket2="255" Socket3="255" Socket4="255" Socket5="255" ItemTime="7" />
+		<Char ClassChar="3" ItemType="13" ItemIndex="201" ItemLevel="0" ItemDur="255" ItemSkill="0" ItemLuck="0" ItemOpt="0" ItemExc="0" ItemAcc="0" JoH="0" OpEx="0" Socket1="255" Socket2="255" Socket3="255" Socket4="255" Socket5="255" ItemTime="7" />
+		<!-- Dark Lord (4)-->
+	    <Char ClassChar="4" ItemType="7"  ItemIndex="6" ItemLevel="9" ItemDur="255" ItemSkill="1" ItemLuck="1" ItemOpt="7" ItemExc="63" ItemAcc="0" JoH="0" OpEx="0" Socket1="255" Socket2="255" Socket3="255" Socket4="255" Socket5="255" ItemTime="7" />
+		<Char ClassChar="4" ItemType="8"  ItemIndex="6" ItemLevel="9" ItemDur="255" ItemSkill="1" ItemLuck="1" ItemOpt="7" ItemExc="63" ItemAcc="0" JoH="0" OpEx="0" Socket1="255" Socket2="255" Socket3="255" Socket4="255" Socket5="255" ItemTime="7" />
+		<Char ClassChar="4" ItemType="9"  ItemIndex="6" ItemLevel="9" ItemDur="255" ItemSkill="1" ItemLuck="1" ItemOpt="7" ItemExc="63" ItemAcc="0" JoH="0" OpEx="0" Socket1="255" Socket2="255" Socket3="255" Socket4="255" Socket5="255" ItemTime="7" />
+		<Char ClassChar="4" ItemType="10" ItemIndex="6" ItemLevel="9" ItemDur="255" ItemSkill="1" ItemLuck="1" ItemOpt="7" ItemExc="63" ItemAcc="0" JoH="0" OpEx="0" Socket1="255" Socket2="255" Socket3="255" Socket4="255" Socket5="255" ItemTime="7" />
+		<Char ClassChar="4" ItemType="11" ItemIndex="6" ItemLevel="9" ItemDur="255" ItemSkill="1" ItemLuck="1" ItemOpt="7" ItemExc="63" ItemAcc="0" JoH="0" OpEx="0" Socket1="255" Socket2="255" Socket3="255" Socket4="255" Socket5="255" ItemTime="7" />
+		<Char ClassChar="4" ItemType="13" ItemIndex="30" ItemLevel="15" ItemDur="255" ItemSkill="0" ItemLuck="1" ItemOpt="7" ItemExc="63" ItemAcc="0" JoH="0" OpEx="0" Socket1="255" Socket2="255" Socket3="255" Socket4="255" Socket5="255" ItemTime="7" />
+		<Char ClassChar="4" ItemType="13" ItemIndex="201" ItemLevel="0" ItemDur="255" ItemSkill="0" ItemLuck="0" ItemOpt="0" ItemExc="0" ItemAcc="0" JoH="0" OpEx="0" Socket1="255" Socket2="255" Socket3="255" Socket4="255" Socket5="255" ItemTime="7" />
+		<!-- Blody Summoner (5)-->
+	    <Char ClassChar="5" ItemType="7"  ItemIndex="39" ItemLevel="9" ItemDur="255" ItemSkill="1" ItemLuck="1" ItemOpt="7" ItemExc="63" ItemAcc="0" JoH="0" OpEx="0" Socket1="255" Socket2="255" Socket3="255" Socket4="255" Socket5="255" ItemTime="7" />
+		<Char ClassChar="5" ItemType="8"  ItemIndex="39" ItemLevel="9" ItemDur="255" ItemSkill="1" ItemLuck="1" ItemOpt="7" ItemExc="63" ItemAcc="0" JoH="0" OpEx="0" Socket1="255" Socket2="255" Socket3="255" Socket4="255" Socket5="255" ItemTime="7" />
+		<Char ClassChar="5" ItemType="9"  ItemIndex="39" ItemLevel="9" ItemDur="255" ItemSkill="1" ItemLuck="1" ItemOpt="7" ItemExc="63" ItemAcc="0" JoH="0" OpEx="0" Socket1="255" Socket2="255" Socket3="255" Socket4="255" Socket5="255" ItemTime="7" />
+		<Char ClassChar="5" ItemType="10" ItemIndex="39" ItemLevel="9" ItemDur="255" ItemSkill="1" ItemLuck="1" ItemOpt="7" ItemExc="63" ItemAcc="0" JoH="0" OpEx="0" Socket1="255" Socket2="255" Socket3="255" Socket4="255" Socket5="255" ItemTime="7" />
+		<Char ClassChar="5" ItemType="11" ItemIndex="39" ItemLevel="9" ItemDur="255" ItemSkill="1" ItemLuck="1" ItemOpt="7" ItemExc="63" ItemAcc="0" JoH="0" OpEx="0" Socket1="255" Socket2="255" Socket3="255" Socket4="255" Socket5="255" ItemTime="7" />
+		<Char ClassChar="5" ItemType="12" ItemIndex="41" ItemLevel="15" ItemDur="255" ItemSkill="0" ItemLuck="1" ItemOpt="7" ItemExc="63" ItemAcc="0" JoH="0" OpEx="0" Socket1="255" Socket2="255" Socket3="255" Socket4="255" Socket5="255" ItemTime="7" />
+		<Char ClassChar="5" ItemType="13" ItemIndex="201" ItemLevel="0" ItemDur="255" ItemSkill="0" ItemLuck="0" ItemOpt="0" ItemExc="0" ItemAcc="0" JoH="0" OpEx="0" Socket1="255" Socket2="255" Socket3="255" Socket4="255" Socket5="255" ItemTime="7" />
+		<!-- Rage Fighter (6)-->
+	    <Char ClassChar="6" ItemType="7"  ItemIndex="59" ItemLevel="9" ItemDur="255" ItemSkill="1" ItemLuck="1" ItemOpt="7" ItemExc="63" ItemAcc="0" JoH="0" OpEx="0" Socket1="255" Socket2="255" Socket3="255" Socket4="255" Socket5="255" ItemTime="7" />
+		<Char ClassChar="6" ItemType="8"  ItemIndex="59" ItemLevel="9" ItemDur="255" ItemSkill="1" ItemLuck="1" ItemOpt="7" ItemExc="63" ItemAcc="0" JoH="0" OpEx="0" Socket1="255" Socket2="255" Socket3="255" Socket4="255" Socket5="255" ItemTime="7" />
+		<Char ClassChar="6" ItemType="9"  ItemIndex="59" ItemLevel="9" ItemDur="255" ItemSkill="1" ItemLuck="1" ItemOpt="7" ItemExc="63" ItemAcc="0" JoH="0" OpEx="0" Socket1="255" Socket2="255" Socket3="255" Socket4="255" Socket5="255" ItemTime="7" />
+		<Char ClassChar="6" ItemType="11" ItemIndex="59" ItemLevel="9" ItemDur="255" ItemSkill="1" ItemLuck="1" ItemOpt="7" ItemExc="63" ItemAcc="0" JoH="0" OpEx="0" Socket1="255" Socket2="255" Socket3="255" Socket4="255" Socket5="255" ItemTime="7" />
+		<Char ClassChar="6" ItemType="12" ItemIndex="49" ItemLevel="15" ItemDur="255" ItemSkill="0" ItemLuck="1" ItemOpt="7" ItemExc="63" ItemAcc="0" JoH="0" OpEx="0" Socket1="255" Socket2="255" Socket3="255" Socket4="255" Socket5="255" ItemTime="7" />
+		<Char ClassChar="6" ItemType="13" ItemIndex="201" ItemLevel="0" ItemDur="255" ItemSkill="0" ItemLuck="0" ItemOpt="0" ItemExc="0" ItemAcc="0" JoH="0" OpEx="0" Socket1="255" Socket2="255" Socket3="255" Socket4="255" Socket5="255" ItemTime="7" />
+	</Item>
+	<!-- Create Buff System (New Char)
+	   PARA MAS BUF'S PUEDES IR PROBANDO 1 X 1  , SI DESEAS LA RUTA  AQUI ABAJO
+	   
+	C:\KG_MuServer\KG_Data ====> KG_BuffEffectManager.TXT
+	
+	
+	29   "Seal of Ascension"                // +50% EXP 
+	30   "Seal of Wealth"                   // +100% EXP |  Item Drop Rate +50%
+	44   "Scroll of Quickness"              // Attack magic increase +15  | Attack Physical Increase +15             
+	45   "Scroll of Defense"                // Increase defense +60              
+	46   "Scroll of Wrath"                  // Attack power increase +30                  
+	47   "Scroll of wizardry"               // Wizardry damage increase +30               
+	48   "Scroll of Health"                 // Increase Hp +300                  
+	49   "Scroll of Mana"                   // Increase MP + 300                 
+	87   "Seal of Healing"                  // EXp again increase 50%  |  Auto recovery life %5    ||||| SON DEL MISMO GRUPO NO SE PUEDE OTORGAR LOS 2 AL MISMO TIEMPO SOLO UNO SE AGREGARA
+	88   "Seal Of Divinity"                 // Item Again Increase 50% |  Auto recovery Mana %5  ||||| SON DEL MISMO GRUPO NO SE PUEDE OTORGAR LOS 2 AL MISMO TIEMPO SOLO UNO SE AGREGARA          
+	89   "Scroll Of Battle"                 // critical gamage increase +20%
+	90   "Scroll of Strength"               // Excelent Damage +20%              
+	113  "Max AG Boost Aura"                // Increase Max AG +10 ||||| SON DEL MISMO GRUPO NO SE PUEDE OTORGAR LOS 2 AL MISMO TIEMPO SOLO UNO SE AGREGARA               
+	114  "Max SD Boost Aura"                // Increase Max SD +10 ||||| SON DEL MISMO GRUPO NO SE PUEDE OTORGAR LOS 2 AL MISMO TIEMPO SOLO UNO SE AGREGARA                 
+	121  "Scroll of Healing"		        // +3% de hp Rege  | 100 HP      
+
+	-->
+	<Buff>
+	    <!-- Dark Wizard (0) -->
+	    <Char ClassChar="0" EffectID="29" Power1="300" Power2="0" BuffTime="1" />
+		<Char ClassChar="0" EffectID="44" Power1="300" Power2="0" BuffTime="1" />
+		<Char ClassChar="0" EffectID="45" Power1="300" Power2="0" BuffTime="1" />
+		<Char ClassChar="0" EffectID="46" Power1="300" Power2="0" BuffTime="1" />
+		<Char ClassChar="0" EffectID="47" Power1="300" Power2="0" BuffTime="1" />
+		<Char ClassChar="0" EffectID="48" Power1="300" Power2="0" BuffTime="1" />
+		<Char ClassChar="0" EffectID="49" Power1="300" Power2="0" BuffTime="1" />
+	    <!-- Dark Knight (1)-1º-->
+	    <Char ClassChar="1" EffectID="29" Power1="300" Power2="0" BuffTime="1" />
+		<Char ClassChar="1" EffectID="44" Power1="300" Power2="0" BuffTime="1" />
+		<Char ClassChar="1" EffectID="45" Power1="300" Power2="0" BuffTime="1" />
+		<Char ClassChar="1" EffectID="46" Power1="300" Power2="0" BuffTime="1" />
+		<Char ClassChar="1" EffectID="47" Power1="300" Power2="0" BuffTime="1" />
+		<Char ClassChar="1" EffectID="48" Power1="300" Power2="0" BuffTime="1" />
+		<Char ClassChar="1" EffectID="49" Power1="300" Power2="0" BuffTime="1" />
+	    <!-- Fairy Elf (2)-->
+	    <Char ClassChar="2" EffectID="29" Power1="300" Power2="0" BuffTime="1" />
+		<Char ClassChar="2" EffectID="44" Power1="300" Power2="0" BuffTime="1" />
+		<Char ClassChar="2" EffectID="45" Power1="300" Power2="0" BuffTime="1" />
+		<Char ClassChar="2" EffectID="46" Power1="300" Power2="0" BuffTime="1" />
+		<Char ClassChar="2" EffectID="47" Power1="300" Power2="0" BuffTime="1" />
+		<Char ClassChar="2" EffectID="48" Power1="300" Power2="0" BuffTime="1" />
+		<Char ClassChar="2" EffectID="49" Power1="300" Power2="0" BuffTime="1" />
+	    <!-- Magic Gladiator (3)-->
+	    <Char ClassChar="3" EffectID="29" Power1="300" Power2="0" BuffTime="1" />
+		<Char ClassChar="3" EffectID="44" Power1="300" Power2="0" BuffTime="1" />
+		<Char ClassChar="3" EffectID="45" Power1="300" Power2="0" BuffTime="1" />
+		<Char ClassChar="3" EffectID="46" Power1="300" Power2="0" BuffTime="1" />
+		<Char ClassChar="3" EffectID="47" Power1="300" Power2="0" BuffTime="1" />
+		<Char ClassChar="3" EffectID="48" Power1="300" Power2="0" BuffTime="1" />
+		<Char ClassChar="3" EffectID="49" Power1="300" Power2="0" BuffTime="1" />
+	    <!-- Dark Lord (4)-->
+	    <Char ClassChar="4" EffectID="29" Power1="300" Power2="0" BuffTime="1" />
+		<Char ClassChar="4" EffectID="44" Power1="300" Power2="0" BuffTime="1" />
+		<Char ClassChar="4" EffectID="45" Power1="300" Power2="0" BuffTime="1" />
+		<Char ClassChar="4" EffectID="46" Power1="300" Power2="0" BuffTime="1" />
+		<Char ClassChar="4" EffectID="47" Power1="300" Power2="0" BuffTime="1" />
+		<Char ClassChar="4" EffectID="48" Power1="300" Power2="0" BuffTime="1" />
+		<Char ClassChar="4" EffectID="49" Power1="300" Power2="0" BuffTime="1" />
+	    <!-- Blody Summoner (5)-->
+	    <Char ClassChar="5" EffectID="29" Power1="300" Power2="0" BuffTime="1" />
+		<Char ClassChar="5" EffectID="44" Power1="300" Power2="0" BuffTime="1" />
+		<Char ClassChar="5" EffectID="45" Power1="300" Power2="0" BuffTime="1" />
+		<Char ClassChar="5" EffectID="46" Power1="300" Power2="0" BuffTime="1" />
+		<Char ClassChar="5" EffectID="47" Power1="300" Power2="0" BuffTime="1" />
+		<Char ClassChar="5" EffectID="48" Power1="300" Power2="0" BuffTime="1" />
+		<Char ClassChar="5" EffectID="49" Power1="300" Power2="0" BuffTime="1" />
+	    <!-- Rage Fighter (6)-->
+	    <Char ClassChar="6" EffectID="29" Power1="300" Power2="0" BuffTime="1" />
+		<Char ClassChar="6" EffectID="44" Power1="300" Power2="0" BuffTime="1" />
+		<Char ClassChar="6" EffectID="45" Power1="300" Power2="0" BuffTime="1" />
+		<Char ClassChar="6" EffectID="46" Power1="300" Power2="0" BuffTime="1" />
+		<Char ClassChar="6" EffectID="47" Power1="300" Power2="0" BuffTime="1" />
+		<Char ClassChar="6" EffectID="48" Power1="300" Power2="0" BuffTime="1" />
+		<Char ClassChar="6" EffectID="49" Power1="300" Power2="0" BuffTime="1" />
+	</Buff>
+	
+	<Muun>
+	    <!-- Dark Wizard (0)
+	    <Char ClassChar="0" Inventory="0" IndexMuun="0" MuunDur="0" MuunTime="0" />
+		 -->
+	</Muun>
+</StartItem>

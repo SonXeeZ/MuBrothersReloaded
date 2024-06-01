@@ -1,0 +1,418 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<SpeedCheck>
+	<!--
+	"AntiMoveSpeed":
+		Explanation of each attribute:
+
+		- AntiMoveSpeed: Enables (1) or disables (0) the movement speed control function.
+		- Debug: Enables (1) or disables (0) debug mode.
+		- GateMove: Specifies the value for gate movement. (-1) indicates no movement restriction.
+		- FreezeTime: Determines the freeze time in seconds.
+		- Disconnect: Enables (1) or disables (0) automatic disconnection function.
+		- SpeedNormal: Allowed speed for normal characters.
+		- SpeedPet: Allowed speed for add pets.
+		- SpeedWing: Allowed speed for add wings.
+	-->
+	<AntiMoveSpeed Enabled="0" Debug ="0" GateMove = "-1" FreezeTime = "3" Disconnect="0" SpeedNormal = "6.5"  SpeedPet = "10.3" SpeedWing = "10.4" />
+
+	<AntiAnimation Enabled="0" Debug ="0">
+		<!-- DK -->
+		<Config SkillIndex="42"  TypeSkill="-1"  XDameMinMS="20" AnimationSpeed="0.5"    LimitSpeed="800" MaxCount="4"/> 
+		<Config SkillIndex="331" TypeSkill="-1"  XDameMinMS="20" AnimationSpeed="0.5"    LimitSpeed="800" MaxCount="4"/>
+		<Config SkillIndex="333" TypeSkill="-1"  XDameMinMS="20" AnimationSpeed="0.5"    LimitSpeed="800" MaxCount="4"/> 
+		<Config SkillIndex="232" TypeSkill="-1"  XDameMinMS="20" AnimationSpeed="0.5"    LimitSpeed="1000" MaxCount="4"/> 
+		<Config SkillIndex="44"  TypeSkill="-1"  XDameMinMS="20" AnimationSpeed="0.8"    LimitSpeed="200" MaxCount="4"/> 
+		<Config SkillIndex="43"  TypeSkill="-1"  XDameMinMS="20" AnimationSpeed="0.8"    LimitSpeed="200" MaxCount="4"/> 
+		<Config SkillIndex="336" TypeSkill="-1"  XDameMinMS="20"  AnimationSpeed="0.8"   LimitSpeed="200" MaxCount="4"/> 
+		<Config SkillIndex="41"  TypeSkill="-1"  XDameMinMS="20" AnimationSpeed="1.0"    LimitSpeed="0" MaxCount="11"/> 
+		<Config SkillIndex="330" TypeSkill="-1"  XDameMinMS="20"  AnimationSpeed="1.0"   LimitSpeed="0" MaxCount="11"/>
+		<Config SkillIndex="332" TypeSkill="-1"  XDameMinMS="20"  AnimationSpeed="1.0"   LimitSpeed="0" MaxCount="11"/>
+		
+		<Config SkillIndex="22"  TypeSkill="-1"  XDameMinMS="15" AnimationSpeed="1.0"   LimitSpeed="0" MaxCount="4"/>
+		<Config SkillIndex="479" TypeSkill="-1"  XDameMinMS="15"  AnimationSpeed="1.0"   LimitSpeed="0" MaxCount="4"/>
+		<!-- Magic -->             
+		<Config SkillIndex="236" TypeSkill="-1"  XDameMinMS="25"   AnimationSpeed="2.0"   LimitSpeed="150" MaxCount="6"/>
+		<Config SkillIndex="55"  TypeSkill="0"   XDameMinMS="25" AnimationSpeed="2.0"   LimitSpeed="40" MaxCount="6"/> 
+		<Config SkillIndex="490" TypeSkill="2"   XDameMinMS="25"  AnimationSpeed="2.0"   LimitSpeed="100" MaxCount="3"/> 
+		<Config SkillIndex="56"  TypeSkill="-1"  XDameMinMS="25"  AnimationSpeed="2.0"   LimitSpeed="0" MaxCount="17"/> 
+		<Config SkillIndex="482" TypeSkill="-1"  XDameMinMS="25"   AnimationSpeed="2.0"   LimitSpeed="0" MaxCount="17"/> 
+		<Config SkillIndex="57"  TypeSkill="-1"  XDameMinMS="25"  AnimationSpeed="2.0"   LimitSpeed="170" MaxCount="3"/> 
+		<Config SkillIndex="237"  TypeSkill="-1" XDameMinMS="25"   AnimationSpeed="2.0"   LimitSpeed="0" MaxCount="14"/> 
+		<Config SkillIndex="481" TypeSkill="-1"  XDameMinMS="25"   AnimationSpeed="1.0"   LimitSpeed="0" MaxCount="11"/>
+		<!-- DL -->              
+		<Config SkillIndex="74"  TypeSkill="-1"  XDameMinMS="100" AnimationSpeed="2.0"   LimitSpeed="140" MaxCount="14"/>
+		<Config SkillIndex="60"  TypeSkill="-1"  XDameMinMS="100" AnimationSpeed="2.0"   LimitSpeed="170" MaxCount="14"/> 
+		<Config SkillIndex="509" TypeSkill="-1"  XDameMinMS="100"  AnimationSpeed="2.0"   LimitSpeed="200" MaxCount="15"/> 
+		<Config SkillIndex="61"  TypeSkill="-1"  XDameMinMS="100" AnimationSpeed="2.0"   LimitSpeed="170" MaxCount="14"/>
+		<Config SkillIndex="508"  TypeSkill="-1" XDameMinMS="100"  AnimationSpeed="2.0"   LimitSpeed="170" MaxCount="14"/> 
+		<Config SkillIndex="514"  TypeSkill="-1" XDameMinMS="100"  AnimationSpeed="2.0"   LimitSpeed="170" MaxCount="14"/>
+								   
+		<Config SkillIndex="78"  TypeSkill="2"  XDameMinMS="100" AnimationSpeed="3.0"   LimitSpeed="40" MaxCount="5"/>
+		<Config SkillIndex="518"  TypeSkill="2" XDameMinMS="100"  AnimationSpeed="3.0"   LimitSpeed="40" MaxCount="5"/>
+		<Config SkillIndex="238" TypeSkill="-1" XDameMinMS="100"   AnimationSpeed="4.0"   LimitSpeed="40" MaxCount="17"/>
+		
+		<!-- DW -->						  
+		<Config SkillIndex="39" 	 TypeSkill="-1"  XDameMinMS="30"  AnimationSpeed="5.0"    LimitSpeed="60" MaxCount="14"/>
+		<Config SkillIndex="9" 	 	 TypeSkill="2"   XDameMinMS="30"  AnimationSpeed="5.0"    LimitSpeed="60" MaxCount="7"/>
+		<Config SkillIndex="385" 	 TypeSkill="2"   XDameMinMS="30"   AnimationSpeed="5.0"    LimitSpeed="60" MaxCount="7"/>
+		<Config SkillIndex="5" 	 	 TypeSkill="2"   XDameMinMS="30"  AnimationSpeed="5.0"    LimitSpeed="60" MaxCount="7"/>
+		<Config SkillIndex="378" 	 TypeSkill="2"   XDameMinMS="30"   AnimationSpeed="5.0"    LimitSpeed="60" MaxCount="7"/>
+		<Config SkillIndex="8" 	 	 TypeSkill="2"   XDameMinMS="30"  AnimationSpeed="5.0"    LimitSpeed="60" MaxCount="7"/>
+		<Config SkillIndex="14" 	 TypeSkill="2"   XDameMinMS="30"   AnimationSpeed="5.0"    LimitSpeed="40" MaxCount="7"/>
+		<Config SkillIndex="381" 	 TypeSkill="2"   XDameMinMS="30"   AnimationSpeed="5.0"    LimitSpeed="40" MaxCount="7"/>
+		<Config SkillIndex="12" 	 TypeSkill="2"   XDameMinMS="30"   AnimationSpeed="5.0"    LimitSpeed="70" MaxCount="7"/> 
+		<Config SkillIndex="13" 	 TypeSkill="2"   XDameMinMS="30"   AnimationSpeed="5.0"    LimitSpeed="70" MaxCount="7"/>
+		<Config SkillIndex="382" 	 TypeSkill="2"   XDameMinMS="30"   AnimationSpeed="5.0"    LimitSpeed="70" MaxCount="7"/> 
+		<Config SkillIndex="10" 	 TypeSkill="2"   XDameMinMS="30"   AnimationSpeed="5.0"    LimitSpeed="170" MaxCount="7"/>
+		<Config SkillIndex="1" 		 TypeSkill="-1"  XDameMinMS="30"   AnimationSpeed="5.0"    LimitSpeed="120" MaxCount="7"/>
+		<Config SkillIndex="384" 	 TypeSkill="-1"  XDameMinMS="30"   AnimationSpeed="5.0"    LimitSpeed="120" MaxCount="7"/>
+		<Config SkillIndex="7" 	 	 TypeSkill="-1"  XDameMinMS="30"   AnimationSpeed="5.0"    LimitSpeed="120" MaxCount="7"/> 
+		<Config SkillIndex="38" 	 TypeSkill="-1"  XDameMinMS="30"   AnimationSpeed="5.0"    LimitSpeed="60" MaxCount="14"/>
+		<Config SkillIndex="387" 	 TypeSkill="-1"  XDameMinMS="30" 	 AnimationSpeed="5.0"    LimitSpeed="60" MaxCount="14"/>
+		<Config SkillIndex="17"  	 TypeSkill="1"   XDameMinMS="30" AnimationSpeed="5.0"    LimitSpeed="250" 	MaxCount="4"/>
+		<Config SkillIndex="45"  	 TypeSkill="1"   XDameMinMS="30" AnimationSpeed="5.0"    LimitSpeed="250" 	MaxCount="4"/>
+		<!-- ELF -->
+		<Config SkillIndex="24"  TypeSkill="2"   XDameMinMS="100"  AnimationSpeed="5.5"    LimitSpeed="0" MaxCount="5"/> 
+		<Config SkillIndex="414"  TypeSkill="2"  XDameMinMS="100"   AnimationSpeed="6.0"    LimitSpeed="0" MaxCount="5"/> 
+		<Config SkillIndex="418"  TypeSkill="2"  XDameMinMS="100"   AnimationSpeed="6.0"    LimitSpeed="0" MaxCount="5"/>
+		
+		<Config SkillIndex="235"  TypeSkill="2"  XDameMinMS="100"  AnimationSpeed="5.0"    LimitSpeed="0" MaxCount="14"/>
+		<Config SkillIndex="52"  TypeSkill="2"   XDameMinMS="100"  AnimationSpeed="5.0"    LimitSpeed="120" MaxCount="3"/>
+		<Config SkillIndex="416"  TypeSkill="2"  XDameMinMS="100"  AnimationSpeed="5.0"    LimitSpeed="100" MaxCount="10"/>
+		<Config SkillIndex="46"  TypeSkill="-1"  XDameMinMS="100"  AnimationSpeed="5.0"    LimitSpeed="150" MaxCount="3"/>
+		<Config SkillIndex="51"  TypeSkill="-1"  XDameMinMS="100"  AnimationSpeed="5.0"    LimitSpeed="150" MaxCount="3"/>
+		<Config SkillIndex="424"  TypeSkill="-1" XDameMinMS="100" AnimationSpeed="5.0"    LimitSpeed="150" MaxCount="3"/>
+		
+		<!-- RF -->
+		<Config SkillIndex="264"  TypeSkill="-1" XDameMinMS="100" AnimationSpeed="1.0"    LimitSpeed="500" MaxCount="10"/>
+		<Config SkillIndex="263"  TypeSkill="3"  XDameMinMS="100" AnimationSpeed="1.0"    LimitSpeed="0" MaxCount="10"/>
+
+		<Config SkillIndex="262"  TypeSkill="3" XDameMinMS="100" AnimationSpeed="1.0"    LimitSpeed="500" MaxCount="10"/>
+		<Config SkillIndex="558"  TypeSkill="3" XDameMinMS="100" AnimationSpeed="1.0"    LimitSpeed="0" MaxCount="10"/>
+		
+		<Config SkillIndex="265"  TypeSkill="-1" XDameMinMS="100"  AnimationSpeed="1.0"    LimitSpeed="500" MaxCount="10"/>
+		<Config SkillIndex="269"  TypeSkill="-1" XDameMinMS="100"  AnimationSpeed="1.0"    LimitSpeed="300" MaxCount="10"/>
+		<Config SkillIndex="261"  TypeSkill="3"  XDameMinMS="100" AnimationSpeed="1.0"    LimitSpeed="0" MaxCount="10"/>
+		<Config SkillIndex="551"  TypeSkill="1"  XDameMinMS="100" AnimationSpeed="1.0"    LimitSpeed="100" MaxCount="10"/>
+		<Config SkillIndex="552"  TypeSkill="1"  XDameMinMS="100" AnimationSpeed="1.0"    LimitSpeed="100" MaxCount="10"/>
+		<Config SkillIndex="554"  TypeSkill="1"  XDameMinMS="100" AnimationSpeed="1.0"    LimitSpeed="100" MaxCount="10"/> 
+		
+		<!-- SUM -->
+		<Config SkillIndex="214"  TypeSkill="-1" XDameMinMS="100"  AnimationSpeed="2.0"    LimitSpeed="0" MaxCount="17"/>
+		<Config SkillIndex="458"  TypeSkill="-1" XDameMinMS="100"  AnimationSpeed="2.0"    LimitSpeed="0" MaxCount="17"/>
+		<Config SkillIndex="215"  TypeSkill="-1" XDameMinMS="100"  AnimationSpeed="2.0"    LimitSpeed="85" MaxCount="7"/>
+		<Config SkillIndex="455"  TypeSkill="-1" XDameMinMS="100"  AnimationSpeed="2.0"    LimitSpeed="70" MaxCount="7"/>
+		<Config SkillIndex="219"  TypeSkill="-1" XDameMinMS="100"  AnimationSpeed="2.0"    LimitSpeed="90" MaxCount="7"/>
+		<Config SkillIndex="230"  TypeSkill="-1" XDameMinMS="100"  AnimationSpeed="2.0"    LimitSpeed="90" MaxCount="7"/>
+		<Config SkillIndex="456"  TypeSkill="-1" XDameMinMS="100"  AnimationSpeed="2.0"    LimitSpeed="90" MaxCount="7"/>
+	
+		<!--Spam skill-->
+		<Config SkillIndex="16"  TypeSkill="99" XDameMinMS="100"  AnimationSpeed="0.5"    LimitSpeed="800" MaxCount="4"/> 
+		<Config SkillIndex="44"  TypeSkill="99" XDameMinMS="100"  AnimationSpeed="0.5"    LimitSpeed="800" MaxCount="4"/> 
+		<Config SkillIndex="57"  TypeSkill="99" XDameMinMS="100"  AnimationSpeed="0.5"    LimitSpeed="800" MaxCount="4"/> 
+		<Config SkillIndex="73"  TypeSkill="99" XDameMinMS="100"  AnimationSpeed="0.5"    LimitSpeed="800" MaxCount="4"/> 
+		<Config SkillIndex="74"  TypeSkill="99" XDameMinMS="100"  AnimationSpeed="0.5"    LimitSpeed="800" MaxCount="4"/> 
+		<Config SkillIndex="45"   TypeSkill="99" XDameMinMS="100"  AnimationSpeed="0.5"    LimitSpeed="800" MaxCount="4"/>
+		<Config SkillIndex="46"   TypeSkill="99" XDameMinMS="100"  AnimationSpeed="0.5"    LimitSpeed="800" MaxCount="4"/>
+		<Config SkillIndex="269"  TypeSkill="99" XDameMinMS="100"  AnimationSpeed="0.5"    LimitSpeed="800" MaxCount="4"/>
+		<Config SkillIndex="26"  TypeSkill="99" XDameMinMS="100"  AnimationSpeed="0.5"    LimitSpeed="800" MaxCount="4"/>
+		<Config SkillIndex="426"  TypeSkill="99" XDameMinMS="100"  AnimationSpeed="0.5"    LimitSpeed="800" MaxCount="4"/>
+		<Config SkillIndex="18"  TypeSkill="99" XDameMinMS="100"  AnimationSpeed="0.5"    LimitSpeed="800" MaxCount="4"/>
+		<Config SkillIndex="27"  TypeSkill="99" XDameMinMS="100"  AnimationSpeed="0.5"    LimitSpeed="800" MaxCount="4"/>
+		<Config SkillIndex="28"  TypeSkill="99" XDameMinMS="100"  AnimationSpeed="0.5"    LimitSpeed="800" MaxCount="4"/>
+		<Config SkillIndex="64"  TypeSkill="99" XDameMinMS="100"  AnimationSpeed="0.5"    LimitSpeed="800" MaxCount="4"/>
+		<Config SkillIndex="234"  TypeSkill="99" XDameMinMS="100"  AnimationSpeed="0.5"    LimitSpeed="800" MaxCount="4"/>
+		<Config SkillIndex="217"  TypeSkill="99" XDameMinMS="100"  AnimationSpeed="0.5"    LimitSpeed="800" MaxCount="4"/>
+	</AntiAnimation>
+	
+	<AntiAttackDelay Enabled="0" Debug ="0">
+        <Config MinSpeed="0" 	MaxSpeed="200"	MaxCount="14"	DW="160"	DK="200" ELF="200" MG="200" DL="200" SUM="200" RF="200"/>
+        <Config MinSpeed="201"	MaxSpeed="300"	MaxCount="14"	DW="140"	DK="140" ELF="160" MG="160" DL="160" SUM="160" RF="160"/>
+        <Config MinSpeed="301"	MaxSpeed="400"	MaxCount="28"	DW="120"	DK="120" ELF="120" MG="120" DL="120" SUM="120" RF="120"/>
+        <Config MinSpeed="401"	MaxSpeed="500"	MaxCount="30"	DW="100"	DK="100" ELF="100" MG="100" DL="100" SUM="100" RF="100"/>
+        <Config MinSpeed="501"	MaxSpeed="700"	MaxCount="40"	DW="95"		DK="90"  ELF="90"  MG="90"  DL="90"  SUM="90"  RF="90"/>
+        <Config MinSpeed="701"	MaxSpeed="-1"	MaxCount="50"	DW="60"		DK="60"  ELF="60"  MG="60"  DL="60"  SUM="60"  RF="35"/>
+	</AntiAttackDelay>	
+	
+	<AntiSkillFloat Enabled="0" MaxHit="10" Debug ="0">
+	
+		<Config Skill="0"		SkillType="-1"		CountMin="15"        DelayMinMs="30"		DelayType="1"	DelayValue="6"		DelayGroup="80" />
+		<Config Skill="1"		SkillType="-1"		CountMin="8"        DelayMinMs="300"		DelayType="1"	DelayValue="6"		DelayGroup="147" />
+		<Config Skill="2"		SkillType="-1"		CountMin="8"        DelayMinMs="320"		DelayType="1"	DelayValue="6"		DelayGroup="147" />
+		<Config Skill="3"		SkillType="-1"		CountMin="8"        DelayMinMs="320"		DelayType="1"	DelayValue="6"		DelayGroup="147" />
+		<Config Skill="4"		SkillType="-1"		CountMin="8"         DelayMinMs="250"		DelayType="1"	DelayValue="6"		DelayGroup="147" />
+		<Config Skill="5"		SkillType="-1"		CountMin="25"        DelayMinMs="100"		DelayType="1"	DelayValue="6"		DelayGroup="147" />
+		<Config Skill="6"		SkillType="-1"		CountMin="15"        DelayMinMs="80"		DelayType="2"	DelayValue="1000"	DelayGroup="0" />
+		<Config Skill="7"		SkillType="-1"		CountMin="10"        DelayMinMs="220"		DelayType="1"	DelayValue="11"		DelayGroup="147" />
+		<Config Skill="8"		SkillType="-1"		CountMin="35"        DelayMinMs="80"		DelayType="1"	DelayValue="6"		DelayGroup="147" />
+		<Config Skill="9"		SkillType="5"		CountMin="45"        DelayMinMs="80"		DelayType="1"	DelayValue="6"		DelayGroup="147" />
+		<Config Skill="10"		SkillType="-1"		CountMin="15"        DelayMinMs="200"		DelayType="1"	DelayValue="17"		DelayGroup="154" />
+		<Config Skill="11"		SkillType="-1"		CountMin="10"        DelayMinMs="310"		DelayType="1"	DelayValue="6"		DelayGroup="147" />
+		<Config Skill="12"		SkillType="-1"		CountMin="20"        DelayMinMs="120"		DelayType="1"	DelayValue="13"		DelayGroup="152" />
+		<Config Skill="13"		SkillType="-1"		CountMin="15"        DelayMinMs="80"		DelayType="1"	DelayValue="6"		DelayGroup="147" />
+		<Config Skill="14"		SkillType="-1"		CountMin="25"        DelayMinMs="150"		DelayType="1"	DelayValue="13"		DelayGroup="153" />
+		<Config Skill="15"		SkillType="-1"		CountMin="15"        DelayMinMs="80"		DelayType="2"	DelayValue="1000"	DelayGroup="0" />
+		<Config Skill="16"		SkillType="-1"		CountMin="15"        DelayMinMs="80"		DelayType="1"	DelayValue="6"		DelayGroup="147" />
+		<Config Skill="17"		SkillType="-1"		CountMin="7"         DelayMinMs="280"		DelayType="1"	DelayValue="6"		DelayGroup="147" />
+		<Config Skill="18"		SkillType="-1"		CountMin="15"        DelayMinMs="80"		DelayType="2"	DelayValue="750"	DelayGroup="0" />
+		<Config Skill="19"		SkillType="-1"		CountMin="15"        DelayMinMs="80"		DelayType="1"	DelayValue="8"		DelayGroup="60" />
+		<Config Skill="20"		SkillType="-1"		CountMin="15"        DelayMinMs="80"		DelayType="1"	DelayValue="7"		DelayGroup="61" />
+		<Config Skill="21"		SkillType="-1"		CountMin="15"        DelayMinMs="80"		DelayType="1"	DelayValue="7"		DelayGroup="62" />
+		<Config Skill="22"		SkillType="-1"		CountMin="15"        DelayMinMs="200"		DelayType="1"	DelayValue="7"		DelayGroup="63" />
+		<Config Skill="23"		SkillType="-1"		CountMin="15"        DelayMinMs="80"		DelayType="1"	DelayValue="7"		DelayGroup="64" />
+		<Config Skill="24"		SkillType="-1"		CountMin="50"        DelayMinMs="60"		DelayType="1"	DelayValue="7"		DelayGroup="51" />
+		<Config Skill="26"		SkillType="-1"		CountMin="15"        DelayMinMs="80"		DelayType="1"	DelayValue="6"		DelayGroup="150" />
+		<Config Skill="27"		SkillType="-1"		CountMin="15"        DelayMinMs="80"		DelayType="1"	DelayValue="6"		DelayGroup="150" />
+		<Config Skill="28"		SkillType="-1"		CountMin="15"        DelayMinMs="80"		DelayType="1"	DelayValue="6"		DelayGroup="150" />
+		<Config Skill="30"		SkillType="-1"		CountMin="15"        DelayMinMs="80"		DelayType="1"	DelayValue="6"		DelayGroup="150" />
+		<Config Skill="31"		SkillType="-1"		CountMin="15"        DelayMinMs="80"		DelayType="1"	DelayValue="6"		DelayGroup="150" />
+		<Config Skill="32"		SkillType="-1"		CountMin="15"        DelayMinMs="80"		DelayType="1"	DelayValue="6"		DelayGroup="150" />
+		<Config Skill="33"		SkillType="-1"		CountMin="15"        DelayMinMs="80"		DelayType="1"	DelayValue="6"		DelayGroup="150" />
+		<Config Skill="34"		SkillType="-1"		CountMin="15"        DelayMinMs="80"		DelayType="1"	DelayValue="6"		DelayGroup="150" />
+		<Config Skill="35"		SkillType="-1"		CountMin="15"        DelayMinMs="80"		DelayType="1"	DelayValue="6"		DelayGroup="150" />
+		<Config Skill="36"		SkillType="-1"		CountMin="15"        DelayMinMs="80"		DelayType="1"	DelayValue="6"		DelayGroup="150" />
+		<Config Skill="38"		SkillType="-1"		CountMin="20"        DelayMinMs="80"		DelayType="1"	DelayValue="6"		DelayGroup="147" />
+		<Config Skill="39"		SkillType="-1"		CountMin="25"        DelayMinMs="70"		DelayType="1"	DelayValue="6"		DelayGroup="147" />
+		<Config Skill="40"		SkillType="-1"		CountMin="15"        DelayMinMs="80"		DelayType="2"	DelayValue="2000"	DelayGroup="0" />
+		<Config Skill="41"		SkillType="-1"		CountMin="20"        DelayMinMs="80"		DelayType="1"	DelayValue="13"		DelayGroup="65" />
+		<Config Skill="42"		SkillType="-1"		CountMin="15"        DelayMinMs="600"		DelayType="1"	DelayValue="11"		DelayGroup="66" />
+		<Config Skill="43"		SkillType="-1"		CountMin="15"        DelayMinMs="200"		DelayType="1"	DelayValue="7"		DelayGroup="71" />
+		<Config Skill="44"		SkillType="-1"		CountMin="10"        DelayMinMs="200"		DelayType="1"	DelayValue="9"		DelayGroup="137" />
+		<Config Skill="45"		SkillType="-1"		CountMin="15"        DelayMinMs="330"		DelayType="1"	DelayValue="6"		DelayGroup="147" />
+		<Config Skill="46"		SkillType="-1"		CountMin="10"        DelayMinMs="230"		DelayType="1"	DelayValue="7"		DelayGroup="131" />
+		<Config Skill="47"		SkillType="-1"		CountMin="15"        DelayMinMs="80"		DelayType="0"	DelayValue="0"		DelayGroup="0" />
+		<Config Skill="48"		SkillType="-1"		CountMin="15"        DelayMinMs="80"		DelayType="1"	DelayValue="15"		DelayGroup="67" />
+		<!--//49			1	7	36-->                           
+		<Config Skill="50"		SkillType="-1"		CountMin="15"        DelayMinMs="80"		DelayType="0"	DelayValue="0"		DelayGroup="0" />
+		<Config Skill="51"		SkillType="-1"		CountMin="8"        DelayMinMs="250"		DelayType="1"	DelayValue="7"		DelayGroup="51" />
+		<Config Skill="52"		SkillType="-1"		CountMin="15"        DelayMinMs="80"		DelayType="1"	DelayValue="7"		DelayGroup="51" />
+		<Config Skill="55"		SkillType="-1"		CountMin="50"        DelayMinMs="70"		DelayType="1"	DelayValue="10"		DelayGroup="65" />
+		<Config Skill="56"		SkillType="-1"		CountMin="35"        DelayMinMs="55"		DelayType="1"	DelayValue="7"		DelayGroup="145" />
+		<Config Skill="57"		SkillType="-1"		CountMin="8"         DelayMinMs="300"		DelayType="1"	DelayValue="12"		DelayGroup="136" />
+		<Config Skill="60"		SkillType="-1"		CountMin="15"        DelayMinMs="80"		DelayType="1"	DelayValue="8"		DelayGroup="80" />
+		<Config Skill="61"		SkillType="-1"		CountMin="15"        DelayMinMs="200"		DelayType="1"	DelayValue="8"		DelayGroup="80" />
+		<Config Skill="62"		SkillType="-1"		CountMin="15"        DelayMinMs="80"		DelayType="2"	DelayValue="3000"	DelayGroup="0" />
+		<Config Skill="63"		SkillType="-1"		CountMin="15"        DelayMinMs="80"		DelayType="2"	DelayValue="3000"	DelayGroup="0" />
+		<Config Skill="64"		SkillType="-1"		CountMin="15"        DelayMinMs="80"		DelayType="1"	DelayValue="6"		DelayGroup="146" />
+		<Config Skill="65"		SkillType="-1"		CountMin="15"        DelayMinMs="80"		DelayType="2"	DelayValue="3000"	DelayGroup="0" />
+		<Config Skill="66"		SkillType="-1"		CountMin="15"        DelayMinMs="80"		DelayType="1"	DelayValue="8"		DelayGroup="80" />
+		<Config Skill="67"		SkillType="-1"		CountMin="15"        DelayMinMs="80"		DelayType="0"	DelayValue="0"		DelayGroup="0" />
+		<Config Skill="68"		SkillType="-1"		CountMin="15"        DelayMinMs="80"		DelayType="0"	DelayValue="0"		DelayGroup="0" />
+		<Config Skill="69"		SkillType="-1"		CountMin="15"        DelayMinMs="80"		DelayType="0"	DelayValue="0"		DelayGroup="0" />
+		<Config Skill="70"		SkillType="-1"		CountMin="15"        DelayMinMs="80"		DelayType="0"	DelayValue="0"		DelayGroup="0" />
+		<Config Skill="71"		SkillType="-1"		CountMin="15"        DelayMinMs="80"		DelayType="0"	DelayValue="0"		DelayGroup="0" />
+		<Config Skill="72"		SkillType="-1"		CountMin="15"        DelayMinMs="80"		DelayType="0"	DelayValue="0"		DelayGroup="0" />
+		<Config Skill="73"		SkillType="-1"		CountMin="5"         DelayMinMs="250"		DelayType="1"	DelayValue="7"		DelayGroup="138" />
+		<Config Skill="74"		SkillType="-1"		CountMin="8"         DelayMinMs="200"		DelayType="1"	DelayValue="8"		DelayGroup="80" />
+		<Config Skill="76"		SkillType="-1"		CountMin="15"        DelayMinMs="80"		DelayType="2"	DelayValue="1500"	DelayGroup="0" />
+		<Config Skill="77"		SkillType="-1"		CountMin="15"        DelayMinMs="80"		DelayType="2"	DelayValue="200"	DelayGroup="0" />
+		<Config Skill="78"		SkillType="-1"		CountMin="15"        DelayMinMs="30"		DelayType="1"	DelayValue="7"		DelayGroup="80" />
+		<Config Skill="79"		SkillType="-1"		CountMin="15"        DelayMinMs="80"		DelayType="0"	DelayValue="0"		DelayGroup="0" />
+		<Config Skill="200"		SkillType="-1"		CountMin="15"        DelayMinMs="80"		DelayType="0"	DelayValue="0"		DelayGroup="0" />
+		<Config Skill="201"		SkillType="-1"		CountMin="15"        DelayMinMs="80"		DelayType="0"	DelayValue="0"		DelayGroup="0" />
+		<Config Skill="202"		SkillType="-1"		CountMin="15"        DelayMinMs="80"		DelayType="0"	DelayValue="0"		DelayGroup="0" />
+		<Config Skill="203"		SkillType="-1"		CountMin="15"        DelayMinMs="80"		DelayType="0"	DelayValue="0"		DelayGroup="0" />
+		<Config Skill="204"		SkillType="-1"		CountMin="15"        DelayMinMs="80"		DelayType="0"	DelayValue="0"		DelayGroup="0" />
+		<Config Skill="210"		SkillType="-1"		CountMin="15"        DelayMinMs="80"		DelayType="0"	DelayValue="0"		DelayGroup="0" />
+		<Config Skill="211"		SkillType="-1"		CountMin="15"        DelayMinMs="80"		DelayType="0"	DelayValue="0"		DelayGroup="0" />
+		<Config Skill="212"		SkillType="-1"		CountMin="15"        DelayMinMs="80"		DelayType="0"	DelayValue="0"		DelayGroup="0" />
+		<Config Skill="213"		SkillType="-1"		CountMin="15"        DelayMinMs="80"		DelayType="0"	DelayValue="0"		DelayGroup="0" />
+		<Config Skill="214"		SkillType="-1"		CountMin="30"        DelayMinMs="50"		DelayType="1"	DelayValue="6"		DelayGroup="168" />
+		<Config Skill="215"		SkillType="-1"		CountMin="15"        DelayMinMs="50"		DelayType="1"	DelayValue="5"		DelayGroup="160" />
+		<Config Skill="216"		SkillType="-1"		CountMin="15"        DelayMinMs="80"		DelayType="1"	DelayValue="5"		DelayGroup="160" />
+		<Config Skill="217"		SkillType="-1"		CountMin="15"        DelayMinMs="80"		DelayType="2"	DelayValue="4000"	DelayGroup="0" />
+		<Config Skill="218"		SkillType="-1"		CountMin="15"        DelayMinMs="80"		DelayType="2"	DelayValue="4000"	DelayGroup="0" />
+		<Config Skill="219"		SkillType="-1"		CountMin="15"        DelayMinMs="80"		DelayType="1"	DelayValue="13"		DelayGroup="156" />
+		<Config Skill="220"		SkillType="-1"		CountMin="15"        DelayMinMs="80"		DelayType="2"	DelayValue="300"	DelayGroup="0" />
+		<Config Skill="221"		SkillType="-1"		CountMin="15"        DelayMinMs="80"		DelayType="2"	DelayValue="3000"	DelayGroup="0" />
+		<Config Skill="222"		SkillType="-1"		CountMin="15"        DelayMinMs="80"		DelayType="2"	DelayValue="3000"	DelayGroup="0" />
+		<Config Skill="223"		SkillType="-1"		CountMin="15"        DelayMinMs="80"		DelayType="2"	DelayValue="3000"	DelayGroup="0" />
+		<Config Skill="224"		SkillType="-1"		CountMin="15"        DelayMinMs="80"		DelayType="2"	DelayValue="3000"	DelayGroup="0" />
+		<Config Skill="225"		SkillType="-1"		CountMin="15"        DelayMinMs="80"		DelayType="2"	DelayValue="3000"	DelayGroup="0" />
+		<Config Skill="230"		SkillType="-1"		CountMin="15"        DelayMinMs="80"		DelayType="1"	DelayValue="11"		DelayGroup="185" />
+		<Config Skill="232"		SkillType="-1"		CountMin="2"        DelayMinMs="800"		DelayType="1"	DelayValue="11"		DelayGroup="176" />
+		<Config Skill="233"		SkillType="-1"		CountMin="15"        DelayMinMs="80"		DelayType="2"	DelayValue="3000"	DelayGroup="0" />
+		<Config Skill="234"		SkillType="-1"		CountMin="15"        DelayMinMs="80"		DelayType="1"	DelayValue="6"		DelayGroup="150" />
+		<Config Skill="235"		SkillType="-1"		CountMin="15"        DelayMinMs="140"		DelayType="1"	DelayValue="7"		DelayGroup="51" />
+		<Config Skill="236"		SkillType="-1"		CountMin="10"        DelayMinMs="200"		DelayType="1"	DelayValue="13"		DelayGroup="184" />
+		<Config Skill="237"		SkillType="-1"		CountMin="25"        DelayMinMs="80"		DelayType="1"	DelayValue="13"		DelayGroup="183" />
+		<Config Skill="238"		SkillType="-1"		CountMin="30"        DelayMinMs="65"		DelayType="1"	DelayValue="7"		DelayGroup="80" />
+		<Config Skill="239"		SkillType="-1"		CountMin="15"        DelayMinMs="80"		DelayType="0"	DelayValue="0"		DelayGroup="0" />
+		<!-- Season 6RF		-->		                                
+		<Config Skill="260"		SkillType="-1"		CountMin="15"        DelayMinMs="80"		DelayType="1"	DelayValue="13"		DelayGroup="247" />
+		<Config Skill="261"		SkillType="-1"		CountMin="15"        DelayMinMs="80"		DelayType="1"	DelayValue="10"		DelayGroup="248" />
+		<Config Skill="262"		SkillType="-1"		CountMin="15"        DelayMinMs="80"		DelayType="2"	DelayValue="700"	DelayGroup="0" />
+		<Config Skill="263"		SkillType="-1"		CountMin="60"        DelayMinMs="90"		DelayType="1"	DelayValue="13"		DelayGroup="250" />
+		<Config Skill="264"		SkillType="-1"		CountMin="5"        DelayMinMs="500"		DelayType="1"	DelayValue="8"		DelayGroup="253" />
+		<Config Skill="265"		SkillType="-1"		CountMin="15"        DelayMinMs="80"		DelayType="2"	DelayValue="3000"	DelayGroup="0" />
+		<Config Skill="266"		SkillType="-1"		CountMin="15"        DelayMinMs="80"		DelayType="1"	DelayValue="12"		DelayGroup="255" />
+		<Config Skill="267"		SkillType="-1"		CountMin="15"        DelayMinMs="80"		DelayType="1"	DelayValue="12"		DelayGroup="255" />
+		<Config Skill="268"		SkillType="-1"		CountMin="15"        DelayMinMs="80"		DelayType="1"	DelayValue="12"		DelayGroup="255" />
+		<Config Skill="269"		SkillType="-1"		CountMin="15"        DelayMinMs="80"		DelayType="1"	DelayValue="9"		DelayGroup="137" />
+		<Config Skill="270"		SkillType="-1"		CountMin="15"        DelayMinMs="80"		DelayType="2"	DelayValue="1200"	DelayGroup="0" />
+		<!-- MasterSkill Tree	-->					                
+		<Config Skill="300"		SkillType="-1"		CountMin="15"        DelayMinMs="80"		DelayType="0"	DelayValue="0"		DelayGroup="0" />
+		<Config Skill="301"		SkillType="-1"		CountMin="15"        DelayMinMs="80"		DelayType="0"	DelayValue="0"		DelayGroup="0" />
+		<Config Skill="302"		SkillType="-1"		CountMin="15"        DelayMinMs="80"		DelayType="0"	DelayValue="0"		DelayGroup="0" />
+		<Config Skill="303"		SkillType="-1"		CountMin="15"        DelayMinMs="80"		DelayType="0"	DelayValue="0"		DelayGroup="0" />
+		<Config Skill="304"		SkillType="-1"		CountMin="15"        DelayMinMs="80"		DelayType="0"	DelayValue="0"		DelayGroup="0" />
+		<Config Skill="305"		SkillType="-1"		CountMin="15"        DelayMinMs="80"		DelayType="0"	DelayValue="0"		DelayGroup="0" />
+		<Config Skill="306"		SkillType="-1"		CountMin="15"        DelayMinMs="80"		DelayType="0"	DelayValue="0"		DelayGroup="0" />
+		<Config Skill="307"		SkillType="-1"		CountMin="15"        DelayMinMs="80"		DelayType="0"	DelayValue="0"		DelayGroup="0" />
+		<Config Skill="308"		SkillType="-1"		CountMin="15"        DelayMinMs="80"		DelayType="0"	DelayValue="0"		DelayGroup="0" />
+		<Config Skill="309"		SkillType="-1"		CountMin="15"        DelayMinMs="80"		DelayType="0"	DelayValue="0"		DelayGroup="0" />
+		<Config Skill="310"		SkillType="-1"		CountMin="15"        DelayMinMs="80"		DelayType="0"	DelayValue="0"		DelayGroup="0" />
+		<Config Skill="311"		SkillType="-1"		CountMin="15"        DelayMinMs="80"		DelayType="0"	DelayValue="0"		DelayGroup="0" />
+		<Config Skill="312"		SkillType="-1"		CountMin="15"        DelayMinMs="80"		DelayType="0"	DelayValue="0"		DelayGroup="0" />
+		<Config Skill="313"		SkillType="-1"		CountMin="15"        DelayMinMs="80"		DelayType="0"	DelayValue="0"		DelayGroup="0" />
+		<Config Skill="325"		SkillType="-1"		CountMin="15"        DelayMinMs="80"		DelayType="0"	DelayValue="0"		DelayGroup="0" />
+		<Config Skill="326"		SkillType="-1"		CountMin="6"        DelayMinMs="250"		DelayType="1"	DelayValue="7"		DelayGroup="63" />
+		<Config Skill="327"		SkillType="-1"		CountMin="15"        DelayMinMs="80"		DelayType="1"	DelayValue="7"		DelayGroup="64" />
+		<Config Skill="328"		SkillType="-1"		CountMin="15"        DelayMinMs="80"		DelayType="1"	DelayValue="8"		DelayGroup="60" />
+		<Config Skill="329"		SkillType="-1"		CountMin="15"        DelayMinMs="80"		DelayType="1"	DelayValue="7"		DelayGroup="61" />
+		<Config Skill="330"		SkillType="-1"		CountMin="15"        DelayMinMs="80"		DelayType="1"	DelayValue="13"		DelayGroup="65" />
+		<Config Skill="331"		SkillType="-1"		CountMin="15"        DelayMinMs="80"		DelayType="1"	DelayValue="11"		DelayGroup="66" />
+		<Config Skill="332"		SkillType="-1"		CountMin="20"        DelayMinMs="100"		DelayType="1"	DelayValue="13"		DelayGroup="65" />
+		<Config Skill="333"		SkillType="-1"		CountMin="4"         DelayMinMs="900"		DelayType="1"	DelayValue="11"		DelayGroup="66" />
+		<Config Skill="334"		SkillType="-1"		CountMin="15"        DelayMinMs="80"		DelayType="0"	DelayValue="0"		DelayGroup="0" />
+		<Config Skill="335"		SkillType="-1"		CountMin="15"        DelayMinMs="80"		DelayType="0"	DelayValue="0"		DelayGroup="0" />
+		<Config Skill="336"		SkillType="-1"		CountMin="8"         DelayMinMs="280"		DelayType="1"	DelayValue="7"		DelayGroup="71" />
+		<Config Skill="337"		SkillType="-1"		CountMin="15"        DelayMinMs="80"		DelayType="1"	DelayValue="11"		DelayGroup="176" />
+		<Config Skill="338"		SkillType="-1"		CountMin="15"        DelayMinMs="80"		DelayType="0"	DelayValue="0"		DelayGroup="0" />
+		<Config Skill="347"		SkillType="-1"		CountMin="15"        DelayMinMs="80"		DelayType="0"	DelayValue="0"		DelayGroup="0" />
+		<Config Skill="348"		SkillType="-1"		CountMin="15"        DelayMinMs="80"		DelayType="0"	DelayValue="0"		DelayGroup="0" />
+		<Config Skill="349"		SkillType="-1"		CountMin="15"        DelayMinMs="80"		DelayType="0"	DelayValue="0"		DelayGroup="0" />
+		<Config Skill="350"		SkillType="-1"		CountMin="15"        DelayMinMs="80"		DelayType="0"	DelayValue="0"		DelayGroup="0" />
+		<Config Skill="351"		SkillType="-1"		CountMin="15"        DelayMinMs="80"		DelayType="0"	DelayValue="0"		DelayGroup="0" />
+		<Config Skill="352"		SkillType="-1"		CountMin="15"        DelayMinMs="80"		DelayType="0"	DelayValue="0"		DelayGroup="0" />
+		<Config Skill="353"		SkillType="-1"		CountMin="15"        DelayMinMs="80"		DelayType="0"	DelayValue="0"		DelayGroup="0" />
+		<Config Skill="354"		SkillType="-1"		CountMin="15"        DelayMinMs="80"		DelayType="0"	DelayValue="0"		DelayGroup="0" />
+		<Config Skill="355"		SkillType="-1"		CountMin="15"        DelayMinMs="80"		DelayType="0"	DelayValue="0"		DelayGroup="0" />
+		<Config Skill="356"		SkillType="-1"		CountMin="15"        DelayMinMs="80"		DelayType="1"	DelayValue="15"		DelayGroup="67" />
+		<Config Skill="357"		SkillType="-1"		CountMin="15"        DelayMinMs="80"		DelayType="0"	DelayValue="0"		DelayGroup="0" />
+		<Config Skill="358"		SkillType="-1"		CountMin="15"        DelayMinMs="80"		DelayType="0"	DelayValue="0"		DelayGroup="0" />
+		<Config Skill="359"		SkillType="-1"		CountMin="15"        DelayMinMs="80"		DelayType="0"	DelayValue="0"		DelayGroup="0" />
+		<Config Skill="360"		SkillType="-1"		CountMin="15"        DelayMinMs="80"		DelayType="1"	DelayValue="15"		DelayGroup="67" />
+		<Config Skill="361"		SkillType="-1"		CountMin="15"        DelayMinMs="80"		DelayType="0"	DelayValue="0"		DelayGroup="0" />
+		<Config Skill="362"		SkillType="-1"		CountMin="15"        DelayMinMs="80"		DelayType="0"	DelayValue="0"		DelayGroup="0" />
+		<Config Skill="378"		SkillType="-1"		CountMin="15"        DelayMinMs="80"		DelayType="1"	DelayValue="6"		DelayGroup="147" />
+		<Config Skill="379"		SkillType="-1"		CountMin="10"        DelayMinMs="220"		DelayType="1"	DelayValue="6"		DelayGroup="147" />
+		<Config Skill="380"		SkillType="-1"		CountMin="15"        DelayMinMs="80"		DelayType="2"	DelayValue="3000"	DelayGroup="0" /> 
+		<Config Skill="381"		SkillType="-1"		CountMin="15"        DelayMinMs="120"		DelayType="1"	DelayValue="13"		DelayGroup="153" />
+		<Config Skill="382"		SkillType="-1"		CountMin="31"        DelayMinMs="70"		DelayType="1"	DelayValue="6"		DelayGroup="147" /> 
+		<Config Skill="383"		SkillType="-1"		CountMin="15"        DelayMinMs="80"		DelayType="2"	DelayValue="3000"	DelayGroup="0" />
+		<Config Skill="384"		SkillType="-1"		CountMin="8"        DelayMinMs="330"		DelayType="1"	DelayValue="6"		DelayGroup="147" />
+		<Config Skill="385"		SkillType="-1"		CountMin="45"        DelayMinMs="80"		DelayType="1"	DelayValue="6"		DelayGroup="147" /> 
+		<Config Skill="386"		SkillType="-1"		CountMin="15"        DelayMinMs="80"		DelayType="0"	DelayValue="0"		DelayGroup="0" />
+		<Config Skill="387"		SkillType="-1"		CountMin="15"        DelayMinMs="80"		DelayType="1"	DelayValue="6"		DelayGroup="147" />
+		<Config Skill="388"		SkillType="-1"		CountMin="20"        DelayMinMs="150"		DelayType="1"	DelayValue="17"		DelayGroup="154" />
+		<Config Skill="389"		SkillType="-1"		CountMin="15"        DelayMinMs="80"		DelayType="1"	DelayValue="6"		DelayGroup="147" />
+		<Config Skill="397"		SkillType="-1"		CountMin="15"        DelayMinMs="80"		DelayType="0"	DelayValue="0"		DelayGroup="0" />
+		<Config Skill="398"		SkillType="-1"		CountMin="15"        DelayMinMs="80"		DelayType="0"	DelayValue="0"		DelayGroup="0" />
+		<Config Skill="399"		SkillType="-1"		CountMin="15"        DelayMinMs="80"		DelayType="0"	DelayValue="0"		DelayGroup="0" />
+		<Config Skill="400"		SkillType="-1"		CountMin="15"        DelayMinMs="80"		DelayType="0"	DelayValue="0"		DelayGroup="0" />
+		<Config Skill="401"		SkillType="-1"		CountMin="15"        DelayMinMs="80"		DelayType="0"	DelayValue="0"		DelayGroup="0" />
+		<Config Skill="402"		SkillType="-1"		CountMin="15"        DelayMinMs="80"		DelayType="0"	DelayValue="0"		DelayGroup="0" />
+		<Config Skill="403"		SkillType="-1"		CountMin="15"        DelayMinMs="80"		DelayType="1"	DelayValue="6"		DelayGroup="147" />
+		<Config Skill="404"		SkillType="-1"		CountMin="15"        DelayMinMs="80"		DelayType="1"	DelayValue="6"		DelayGroup="147" />
+		<Config Skill="405"		SkillType="-1"		CountMin="15"        DelayMinMs="80"		DelayType="0"	DelayValue="0"		DelayGroup="0" />
+		<Config Skill="413"		SkillType="-1"		CountMin="15"        DelayMinMs="80"		DelayType="1"	DelayValue="0"		DelayGroup="0" />
+		<Config Skill="414"		SkillType="-1"		CountMin="15"        DelayMinMs="80"		DelayType="1"	DelayValue="7"		DelayGroup="51" />
+		<Config Skill="415"		SkillType="-1"		CountMin="15"        DelayMinMs="80"		DelayType="0"	DelayValue="0"		DelayGroup="0" />
+		<Config Skill="416"		SkillType="-1"		CountMin="15"        DelayMinMs="80"		DelayType="1"	DelayValue="7"		DelayGroup="51" />
+		<Config Skill="417"		SkillType="-1"		CountMin="15"        DelayMinMs="80"		DelayType="1"	DelayValue="6"		DelayGroup="150" />
+		<Config Skill="418"		SkillType="-1"		CountMin="15"        DelayMinMs="80"		DelayType="1"	DelayValue="7"		DelayGroup="51" />
+		<Config Skill="419"		SkillType="-1"		CountMin="15"        DelayMinMs="80"		DelayType="0"	DelayValue="0"		DelayGroup="0" />
+		<Config Skill="420"		SkillType="-1"		CountMin="15"        DelayMinMs="80"		DelayType="1"	DelayValue="6"		DelayGroup="150" />
+		<Config Skill="421"		SkillType="-1"		CountMin="15"        DelayMinMs="80"		DelayType="0"	DelayValue="0"		DelayGroup="0" />
+		<Config Skill="422"		SkillType="-1"		CountMin="15"        DelayMinMs="80"		DelayType="1"	DelayValue="6"		DelayGroup="150" />
+		<Config Skill="423"		SkillType="-1"		CountMin="15"        DelayMinMs="80"		DelayType="1"	DelayValue="6"		DelayGroup="150" />
+		<Config Skill="424"		SkillType="-1"		CountMin="15"        DelayMinMs="80"		DelayType="1"	DelayValue="7"		DelayGroup="51" />
+		<Config Skill="435"		SkillType="-1"		CountMin="15"        DelayMinMs="80"		DelayType="0"	DelayValue="0"		DelayGroup="0" />
+		<Config Skill="436"		SkillType="-1"		CountMin="15"        DelayMinMs="80"		DelayType="0"	DelayValue="0"		DelayGroup="0" />
+		<Config Skill="437"		SkillType="-1"		CountMin="15"        DelayMinMs="80"		DelayType="0"	DelayValue="0"		DelayGroup="0" />
+		<Config Skill="438"		SkillType="-1"		CountMin="15"        DelayMinMs="80"		DelayType="0"	DelayValue="0"		DelayGroup="0" />
+		<Config Skill="439"		SkillType="-1"		CountMin="15"        DelayMinMs="80"		DelayType="0"	DelayValue="0"		DelayGroup="0" />
+		<Config Skill="440"		SkillType="-1"		CountMin="15"        DelayMinMs="80"		DelayType="0"	DelayValue="0"		DelayGroup="0" />
+		<Config Skill="441"		SkillType="-1"		CountMin="15"        DelayMinMs="80"		DelayType="2"	DelayValue="200"	DelayGroup="0" />
+		<Config Skill="442"		SkillType="-1"		CountMin="15"        DelayMinMs="80"		DelayType="0"	DelayValue="0"		DelayGroup="0" />
+		<Config Skill="448"		SkillType="-1"		CountMin="15"        DelayMinMs="80"		DelayType="0"	DelayValue="0"		DelayGroup="0" />
+		<Config Skill="449"		SkillType="-1"		CountMin="15"        DelayMinMs="80"		DelayType="0"	DelayValue="0"		DelayGroup="0" />
+		<Config Skill="450"		SkillType="-1"		CountMin="15"        DelayMinMs="80"		DelayType="0"	DelayValue="0"		DelayGroup="0" />
+		<Config Skill="451"		SkillType="-1"		CountMin="15"        DelayMinMs="80"		DelayType="0"	DelayValue="0"		DelayGroup="0" />
+		<Config Skill="452"		SkillType="-1"		CountMin="15"        DelayMinMs="80"		DelayType="0"	DelayValue="0"		DelayGroup="0" />
+		<Config Skill="453"		SkillType="-1"		CountMin="15"        DelayMinMs="80"		DelayType="0"	DelayValue="0"		DelayGroup="0" />
+		<Config Skill="454"		SkillType="-1"		CountMin="15"        DelayMinMs="80"		DelayType="1"	DelayValue="13"		DelayGroup="156" />
+		<Config Skill="455"		SkillType="-1"		CountMin="15"        DelayMinMs="50"		DelayType="1"	DelayValue="5"		DelayGroup="160" />
+		<Config Skill="456"		SkillType="-1"		CountMin="15"        DelayMinMs="80"		DelayType="1"	DelayValue="11"		DelayGroup="185" />
+		<Config Skill="457"		SkillType="-1"		CountMin="15"        DelayMinMs="80"		DelayType="0"	DelayValue="0"		DelayGroup="0" />
+		<Config Skill="458"		SkillType="-1"		CountMin="30"        DelayMinMs="50"		DelayType="1"	DelayValue="6"		DelayGroup="168" />
+		<Config Skill="465"		SkillType="-1"		CountMin="15"        DelayMinMs="80"		DelayType="0"	DelayValue="0"		DelayGroup="0" />
+		<Config Skill="466"		SkillType="-1"		CountMin="15"        DelayMinMs="80"		DelayType="0"	DelayValue="0"		DelayGroup="0" />
+		<Config Skill="467"		SkillType="-1"		CountMin="15"        DelayMinMs="80"		DelayType="0"	DelayValue="0"		DelayGroup="0" />
+		<Config Skill="468"		SkillType="-1"		CountMin="15"        DelayMinMs="80"		DelayType="0"	DelayValue="0"		DelayGroup="0" />
+		<Config Skill="469"		SkillType="-1"		CountMin="15"        DelayMinMs="80"		DelayType="2"	DelayValue="300"	DelayGroup="0" />
+		<Config Skill="470"		SkillType="-1"		CountMin="15"        DelayMinMs="80"		DelayType="2"	DelayValue="300"	DelayGroup="0" />
+		<Config Skill="471"		SkillType="-1"		CountMin="15"        DelayMinMs="80"		DelayType="0"	DelayValue="0"		DelayGroup="0" />
+		<Config Skill="479"		SkillType="-1"		CountMin="15"        DelayMinMs="80"		DelayType="1"	DelayValue="7"		DelayGroup="63" />
+		<Config Skill="480"		SkillType="-1"		CountMin="15"        DelayMinMs="80"		DelayType="1"	DelayValue="6"		DelayGroup="147" />
+		<Config Skill="481"		SkillType="-1"		CountMin="15"        DelayMinMs="80"		DelayType="1"	DelayValue="13"		DelayGroup="65" />
+		<Config Skill="482"		SkillType="-1"		CountMin="15"        DelayMinMs="55"		DelayType="1"	DelayValue="7"		DelayGroup="145" />
+		<Config Skill="483"		SkillType="-1"		CountMin="15"        DelayMinMs="80"		DelayType="1"	DelayValue="6"		DelayGroup="147" />
+		<Config Skill="484"		SkillType="-1"		CountMin="15"        DelayMinMs="80"		DelayType="1"	DelayValue="6"		DelayGroup="147" />
+		<Config Skill="485"		SkillType="-1"		CountMin="15"        DelayMinMs="80"		DelayType="0"	DelayValue="0"		DelayGroup="0" />
+		<Config Skill="486"		SkillType="-1"		CountMin="15"        DelayMinMs="80"		DelayType="1"	DelayValue="13"		DelayGroup="153" />
+		<Config Skill="487"		SkillType="-1"		CountMin="15"        DelayMinMs="80"		DelayType="1"	DelayValue="6"		DelayGroup="147" />
+		<Config Skill="488"		SkillType="-1"		CountMin="15"        DelayMinMs="80"		DelayType="0"	DelayValue="0"		DelayGroup="0" />
+		<Config Skill="489"		SkillType="-1"		CountMin="15"        DelayMinMs="80"		DelayType="1"	DelayValue="6"		DelayGroup="147" />
+		<Config Skill="490"		SkillType="5"		CountMin="15"        DelayMinMs="80"		DelayType="1"	DelayValue="10"		DelayGroup="65" />
+		<Config Skill="508"		SkillType="-1"		CountMin="10"        DelayMinMs="200"	    DelayType="1"	DelayValue="8"		DelayGroup="80" /> 
+		<Config Skill="509"		SkillType="-1"		CountMin="8"         DelayMinMs="200"	    DelayType="1"	DelayValue="8"		DelayGroup="80" />
+		<Config Skill="510"		SkillType="-1"		CountMin="15"        DelayMinMs="80"		DelayType="0"	DelayValue="0"		DelayGroup="0" />
+		<Config Skill="511"		SkillType="-1"		CountMin="15"        DelayMinMs="80"		DelayType="1"	DelayValue="6"		DelayGroup="146" />
+		<Config Skill="512"		SkillType="-1"		CountMin="15"        DelayMinMs="80"		DelayType="2"	DelayValue="3000"	DelayGroup="0" />
+		<Config Skill="513"		SkillType="-1"		CountMin="15"        DelayMinMs="80"		DelayType="0"	DelayValue="0"		DelayGroup="0" />
+		<Config Skill="514"		SkillType="-1"		CountMin="15"        DelayMinMs="80"		DelayType="1"	DelayValue="8"		DelayGroup="80" />
+		<Config Skill="515"		SkillType="-1"		CountMin="15"        DelayMinMs="80"		DelayType="1"	DelayValue="6"		DelayGroup="146" />
+		<Config Skill="516"		SkillType="-1"		CountMin="15"        DelayMinMs="80"		DelayType="2"	DelayValue="3000"	DelayGroup="0" />
+		<Config Skill="517"		SkillType="-1"		CountMin="15"        DelayMinMs="80"		DelayType="1"	DelayValue="6"		DelayGroup="146" />
+		<Config Skill="518"		SkillType="-1"		CountMin="65"        DelayMinMs="60"		DelayType="1"	DelayValue="7"		DelayGroup="80" />
+		<Config Skill="526"		SkillType="-1"		CountMin="15"        DelayMinMs="80"		DelayType="0"	DelayValue="0"		DelayGroup="0" />
+		<Config Skill="527"		SkillType="-1"		CountMin="15"        DelayMinMs="80"		DelayType="0"	DelayValue="0"		DelayGroup="0" />
+		<Config Skill="528"		SkillType="-1"		CountMin="15"        DelayMinMs="80"		DelayType="0"	DelayValue="0"		DelayGroup="0" />
+		<Config Skill="529"		SkillType="-1"		CountMin="15"        DelayMinMs="80"		DelayType="0"	DelayValue="0"		DelayGroup="0" />
+		<Config Skill="530"		SkillType="-1"		CountMin="15"        DelayMinMs="80"		DelayType="0"	DelayValue="0"		DelayGroup="0" />
+		<Config Skill="531"		SkillType="-1"		CountMin="15"        DelayMinMs="80"		DelayType="0"	DelayValue="0"		DelayGroup="0" />
+		<Config Skill="532"		SkillType="-1"		CountMin="15"        DelayMinMs="80"		DelayType="0"	DelayValue="0"		DelayGroup="0" />
+		<Config Skill="533"		SkillType="-1"		CountMin="15"        DelayMinMs="80"		DelayType="0"	DelayValue="0"		DelayGroup="0" />
+		<Config Skill="534"		SkillType="-1"		CountMin="15"        DelayMinMs="80"		DelayType="0"	DelayValue="0"		DelayGroup="0" />
+		<Config Skill="535"		SkillType="-1"		CountMin="15"        DelayMinMs="80"		DelayType="0"	DelayValue="0"		DelayGroup="0" />
+		<Config Skill="559"		SkillType="-1"		CountMin="60"        DelayMinMs="90"		DelayType="1"	DelayValue="13"		DelayGroup="250" /> 
+		<Config Skill="558"		SkillType="-1"		CountMin="15"        DelayMinMs="80"		DelayType="2"	DelayValue="700"	DelayGroup="0" />
+	</AntiSkillFloat>	
+	
+	<!--
+		DameCheck: "Enable:" Enable/Disable"
+		DameCheck: "Debug:" Enable/Disable Debug"
+		DameCheck: "Notice:" Notify the player"
+		DameCheck: "Type:" Close Game(0) - Basic Stun(2) - Complete Stun(3)"
+		DameCheck: "DetectionTime:" Time to block skills when detected"
+		DameCheck: "Block:" Stun time when xdame is detected (time = seconds)"
+		Load: "MaxCount:" Number of times damaged in 1 second"
+		Load: "MinSpeed-MaxSpeed:" Character speed range"
+		Load: "Delay:" Countdown time for damage."
+	-->
+	<DameCheck Enable="0" Debug="0" Notice="1" Type="3" DetectionTime="3000" Block="3">
+        <Load Index="0" MinSpeed="0000" MaxSpeed="0030" Delay="1000" MaxCount="18"/>
+		<Load Index="1" MinSpeed="0031" MaxSpeed="0100" Delay="1000" MaxCount="18"/>
+		<Load Index="2" MinSpeed="0101" MaxSpeed="0200" Delay="1000" MaxCount="18"/>
+		<Load Index="3" MinSpeed="0201" MaxSpeed="0300" Delay="1000" MaxCount="10"/>
+		<Load Index="4" MinSpeed="0301" MaxSpeed="0600" Delay="1000" MaxCount="18"/>
+		<Load Index="5" MinSpeed="0601" MaxSpeed="1000" Delay="1000" MaxCount="40"/>
+		<Load Index="6" MinSpeed="1001" MaxSpeed="1500" Delay="1000" MaxCount="40"/>
+		<Load Index="7" MinSpeed="1501" MaxSpeed="2000" Delay="1000" MaxCount="40"/>
+		<Load Index="8" MinSpeed="2001" MaxSpeed="3000" Delay="1000" MaxCount="40"/>
+		<Load Index="9" MinSpeed="3001" MaxSpeed="-1"   Delay="1000" MaxCount="40"/>
+	</DameCheck>	
+</SpeedCheck>

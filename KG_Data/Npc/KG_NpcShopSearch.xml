@@ -1,0 +1,3 @@
+<ShopSearchNpc Enable="1">
+	<LoadNpc NpcID="902" NpcMap="00" NpcX="151" NpcY="118" />
+</ShopSearchNpc>

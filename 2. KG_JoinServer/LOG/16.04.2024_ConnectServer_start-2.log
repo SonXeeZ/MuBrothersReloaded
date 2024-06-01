@@ -1,0 +1,22 @@
+[12:45:42] Initializing...
+[12:45:42] Join Server version: JS Compiled at: Nov  3 2023 14:53:54
+[12:45:42] JoinServer Login Free: KG_Free
+[12:45:47] [SocketManager] Server started at port [55970]
+[12:46:04] [ServerManager][0] AddServer (127.0.0.1)
+[12:46:04] [ServerManager][0] ServerInfo (MuEMU) (55901) (0)
+[12:46:15] [ServerManager][1] AddServer (127.0.0.1)
+[12:46:15] [ServerManager][1] ServerInfo (MuEMU_CS) (55919) (19)
+[12:47:12] [AccountInfo] Account connected (Account: gamer, IpAddress: 192.168.18.4, GameServerCode: 0)
+[12:48:12] [AccountInfo] Account disconnected (Account: gamer, IpAddress: 192.168.18.4, GameServerCode: 0)
+[12:48:33] [AccountInfo] Account connected (Account: gamer, IpAddress: 192.168.18.4, GameServerCode: 0)
+[12:50:18] [AccountInfo] Account disconnected (Account: gamer, IpAddress: 192.168.18.4, GameServerCode: 0)
+[12:50:40] [AccountInfo] Account connected (Account: gamer, IpAddress: 192.168.18.4, GameServerCode: 0)
+[12:52:16] [AccountInfo] Account disconnected (Account: gamer, IpAddress: 192.168.18.4, GameServerCode: 0)
+[12:52:52] [AccountInfo] Account connected (Account: gamer, IpAddress: 192.168.18.4, GameServerCode: 0)
+[12:54:25] [AccountInfo] Account disconnected (Account: gamer, IpAddress: 192.168.18.4, GameServerCode: 0)
+[12:54:36] [AccountInfo] Account connected (Account: gamer, IpAddress: 192.168.18.4, GameServerCode: 0)
+[12:55:04] [AccountInfo] Account disconnected (Account: gamer, IpAddress: 192.168.18.4, GameServerCode: 0)
+[12:55:24] [AccountInfo] Account connected (Account: gamer, IpAddress: 192.168.18.4, GameServerCode: 0)
+[12:57:09] [AccountInfo] Account disconnected (Account: gamer, IpAddress: 192.168.18.4, GameServerCode: 0)
+[12:57:37] [AccountInfo] Account connected (Account: gamer, IpAddress: 192.168.18.4, GameServerCode: 0)
+[13:00:47] [AccountInfo] Account disconnected (Account: gamer, IpAddress: 192.168.18.4, GameServerCode: 0)

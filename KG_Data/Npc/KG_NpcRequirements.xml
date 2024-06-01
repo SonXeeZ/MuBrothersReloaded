@@ -1,0 +1,22 @@
+
+<!--
+Info: Max CustomNpcRequierement [100];
+-->
+<NpcRequierement Enable="0">
+    <LoadNpc>
+	    <Add Index="0" NpcID="744" NpcMap="88" NpcX="114" NpcY="105" MoveMap="88" MoveX="22" MoveY="233" />
+	    <Add Index="1" NpcID="795" NpcMap="91" NpcX="84" NpcY="62" MoveMap="91" MoveX="77" MoveY="69" />
+	</LoadNpc>
+	<RequiereStats>
+	    <Add Index="0" MinLevel="1" MaxLevel="400" MinReset="-1" MaxReset="-1" MinMReset="-1" MaxMReset="-1" AccountLevel="-1" PlayerPK="-1" />
+	    <Add Index="1" MinLevel="1" MaxLevel="400" MinReset="-1" MaxReset="-1" MinMReset="-1" MaxMReset="-1" AccountLevel="-1" PlayerPK="-1" />
+	</RequiereStats>
+	<RequiereItems>
+	    <Add Index="0" ItemType="14" ItemIndex="265" ItemLevel="0" ItemQtd="1" ItemDelete="1" />
+	    <Add Index="1" ItemType="15" ItemIndex="41" ItemLevel="0" ItemQtd="1" ItemDelete="1" />
+	</RequiereItems>
+	<RequiereClass>
+	    <Add Index="0" ClassDW="1" ClassDK="1" ClassELF="1" ClassMG="1" ClassDL="1" ClassSUM="1" ClassRF="1" />
+	    <Add Index="1" ClassDW="1" ClassDK="1" ClassELF="1" ClassMG="1" ClassDL="1" ClassSUM="1" ClassRF="1" />
+	</RequiereClass>
+</NpcRequierement>

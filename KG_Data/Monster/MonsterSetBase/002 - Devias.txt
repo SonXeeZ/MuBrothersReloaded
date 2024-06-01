@@ -1,0 +1,135 @@
+//######################################################################################################################
+//#MonsterSetBase: Devias
+//######################################################################################################################
+//#Section: #0(Npc) #1(Spot) #2(Monster Individual) #3(Invasion) #4(Events) 5#(Kanturu Monster)
+//######################################################################################################################
+
+0
+//######################################################################################################################
+//#Monster    #MapNumber    #Range     #PositionX     #PositionY   #Direction    #Comment
+//######################################################################################################################
+379            02             00         013            028            01             //Natasha the Firecracker Merchan
+236            02             00         226            066            01             //Golden Archer
+233            02             00         209            030            01             //Messenger of Archangel
+233            02             00         219            009            03             //Messenger of Archangel
+235            02             00         183            032            03             //Sebina the Priest
+244            02             00         226            025            03             //Caren the Barmaid
+245            02             00         225            041            03             //Wizard Izabel
+246            02             00         186            047            03             //Weapons Merchant Zienna
+247            02             20         224            079            05             //Guard
+247            02             20         219            079            05             //Guard
+247            02             20         169            045            07             //Guard
+247            02             20         169            039            07             //Guard
+241            02             00         215            045            01             //Royal Guard Captain Lorence
+240            02             00         218            063            02             //Safety Guardian
+257            02             00         219            073            03             //Shadow Phantom Soldier
+257            02             00         172            044            01             //Shadow Phantom Soldier
+566            02             00         204            061            01             //Mercenary Guild Manager Tercia
+478            02             00         191            017            03             //Delgado
+379            02             00         032            031            03             //Natasha the Firecracker Merchan
+522            02             00         229            221            01             //Jerint the Assistant
+229            02             00         197            048            02             //marlon
+450            02             00         233            058            01             //SkyEvent
+end
+
+1
+//######################################################################################################################
+//#Monster    #MapNumber    #Range      #BeginPosX     #BeginPosY     #EndPosX    #EndPosY      #Direction     #Quantity
+//######################################################################################################################
+20				2				3			217			216				217			216				1			10			//Elite Yeti
+20				2				3			242			216				242			216				1			10			//Elite Yeti
+20				2				3			229			215				229			215				1			10			//Elite Yeti
+20				2				3			231			194				231			194				1			10			//Elite Yeti
+20				2				3			214			195				214			195				1			10			//Elite Yeti
+20				2				3			227			204				227			204				1			10			//Elite Yeti
+19				2				3			36			12				36			12				1			10			//Yeti
+21				2				3			224			85				224			85				1			10			//Assassin
+24				2				3			229			81				229			81				1			10			//Worm
+24				2				3			221			81				221			81				1			10			//Worm
+19				2				3			36			27				36			27				1			10			//Yeti
+19				2				3			37			38				37			38				1			10			//Yeti
+21				2				3			243			87				243			87				1			10			//Assassin
+end
+
+2
+//######################################################################################################################
+//#Monster      #MapNumber     #Range      #CoordX      #CoordY      #Direction      #Comment
+//######################################################################################################################
+025            02             30         074            239            -1             //Ice Queen
+025            02             30         070            212            -1             //Ice Queen
+025            02             30         045            189            -1             //Ice Queen
+025            02             30         113            230            -1             //Ice Queen
+025            02             30         094            203            -1             //Ice Queen
+025            02             30         063            160            -1             //Ice Queen
+020            02             30         203            244            -1             //Elite Yeti
+020            02             30         194            241            -1             //Elite Yeti
+020            02             30         203            232            -1             //Elite Yeti
+020            02             30         209            224            -1             //Elite Yeti
+020            02             30         186            224            -1             //Elite Yeti
+020            02             30         200            171            -1             //Elite Yeti
+020            02             30         207            158            -1             //Elite Yeti
+020            02             30         221            177            -1             //Elite Yeti
+020            02             30         213            193            -1             //Elite Yeti
+020            02             30         196            218            -1             //Elite Yeti
+020            02             30         230            200            -1             //Elite Yeti
+020            02             30         221            160            -1             //Elite Yeti
+020            02             30         205            149            -1             //Elite Yeti
+020            02             30         184            166            -1             //Elite Yeti
+020            02             30         212            170            -1             //Elite Yeti
+025            02             30         116            210            -1             //Ice Queen
+020            02             30         203            201            -1             //Elite Yeti
+024            02             30         170            006            -1             //Worm
+024            02             30         161            058            -1             //Worm
+024            02             30         180            078            -1             //Worm
+020            02             30         190            146            -1             //Elite Yeti
+025            02             30         051            227            -1             //Ice Queen
+020            02             30         189            160            -1             //Elite Yeti
+020            02             30         207            183            -1             //Elite Yeti
+020            02             30         218            201            -1             //Elite Yeti
+020            02             30         240            207            -1             //Elite Yeti
+020            02             30         238            184            -1             //Elite Yeti
+020            02             30         227            167            -1             //Elite Yeti
+020            02             30         202            209            -1             //Elite Yeti
+020            02             30         113            105            -1             //Elite Yeti
+020            02             30         096            103            -1             //Elite Yeti
+020            02             30         102            117            -1             //Elite Yeti
+020            02             30         241            198            -1             //Elite Yeti
+020            02             30         228            184            -1             //Elite Yeti
+020            02             30         193            231            -1             //Elite Yeti
+020            02             30         214            152            -1             //Elite Yeti
+020            02             30         197            183            -1             //Elite Yeti
+024            02             30         162            011            -1             //Worm
+024            02             30         244            080            -1             //Worm
+024            02             30         238            088            -1             //Worm
+024            02             30         229            083            -1             //Worm
+end
+
+3
+//######################################################################################################################
+//#Monster      #MapNumber     #Range    #BeginPosX     #BeginPosY    #EndPosX    #EndPosY    #Direction #Quantity   #Value   #Comment        
+//######################################################################################################################
+053            02             00         226			230			   226			230          -1             05            0          //Golden Titan
+079            02             00         226			230			   226			230          -1             01            0          //Golden Derkon
+054            02             00         008			008			   248			241          -1             05            0          //Golden Soldier
+042            02             30         010            010            240          240          -1             01            0          //Red Dragon
+end
+
+3
+//Monster      MapNumber      Range      BeginPosX      BeginPosY      EndPosX      EndPosY      Direction      Quantity      Value      Comment
+053            02             00         226			230			   226			230          -1             05            0          //Golden Titan
+079            02             00         226			230			   226			230          -1             01            0          //Golden Derkon
+054            02             00         008			008			   248			241          -1             05            0          //Golden Soldier
+end
+
+3
+//Monster      MapNumber      Range      BeginPosX      BeginPosY      EndPosX      EndPosY      Direction      Quantity      Value      Comment
+135            02             30         158            012            167          024          -1             01            0          //White wizard
+136            02             30         158            012            167          024          -1             10            0          //Destructive ogre soldier
+137            02             30         158            012            167          024          -1             10            0          //Destructive ogre archer
+end
+
+3
+//Monster      MapNumber      Range      BeginPosX      BeginPosY      EndPosX      EndPosY      Direction      Quantity      Value      Comment
+466            02             30         158            012            167          024          -1             10            0          //Cursed Goblin
+476            02             30         158            012            167          024          -1             01            0          //Cursed Santa
+end

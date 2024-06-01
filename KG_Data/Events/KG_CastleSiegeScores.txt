@@ -1,0 +1,8 @@
+//==========================================================
+//=================www.kg-emulator.com======================
+//==========================================================
+//MinMinute MaxMinute CompleteCrown WatchingTowerTimes  WatchingTowerScores GetSwitchTimes    GetSwitch217 GetSwitch218 KillMaster KillAssistant KillBattle
+0              5          100           5                    5                     1               1              1         15            5             2
+8              20         200           4                    5                     2               2              2         30            10            4
+21             60         300           6                    5                     2               2              2         30            10            4
+end

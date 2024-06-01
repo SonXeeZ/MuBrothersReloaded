@@ -1,0 +1,52 @@
+<!--
+// MaxPage: 5
+// Slot Por Page: 5
+// Class: -1 = All Class
+// Class: 0 = Dark Wizard
+// Class: 1 = Dark Knight
+// Class: 2 = Muse Elf
+// Class: 3 = Magic Gladiator
+// Class: 4 = Dark Lord
+// Class: 5 = Summoner
+// Class: 6 = Rage Fighter
+-->
+<RuudNpc Enable="1">
+    <NpcRuud NpcID="741" NpcMap="00" NpcX="130" NpcY="118" />
+	
+	<ItemInfo>
+		<Load ItemType="12"  ItemIndex="30" Class="-1" Page="2" Slot="1" Price="100" ItemLevel="0" ItemDur="255" ItemSkill="0" ItemLuck="0" ItemOption="0" ItemExcOp="0"  ItemSetOp="0"  ItemJoH="0" OEx="0" ItemSocket1="255" ItemSocket2="255" ItemSocket3="255" ItemSocket4="255" ItemSocket5="255" />
+		<Load ItemType="12"  ItemIndex="31" Class="-1" Page="2" Slot="2" Price="100" ItemLevel="0" ItemDur="255" ItemSkill="0" ItemLuck="0" ItemOption="0" ItemExcOp="0"  ItemSetOp="0"  ItemJoH="0" OEx="0" ItemSocket1="255" ItemSocket2="255" ItemSocket3="255" ItemSocket4="255" ItemSocket5="255" />
+		<Load ItemType="12"  ItemIndex="15" Class="-1" Page="2" Slot="3" Price="100" ItemLevel="0" ItemDur="255" ItemSkill="0" ItemLuck="0" ItemOption="0" ItemExcOp="0"  ItemSetOp="0"  ItemJoH="0" OEx="0" ItemSocket1="255" ItemSocket2="255" ItemSocket3="255" ItemSocket4="255" ItemSocket5="255" />
+		<Load ItemType="14"  ItemIndex="16" Class="-1" Page="2" Slot="4" Price="100" ItemLevel="0" ItemDur="255" ItemSkill="0" ItemLuck="0" ItemOption="0" ItemExcOp="0"  ItemSetOp="0"  ItemJoH="0" OEx="0" ItemSocket1="255" ItemSocket2="255" ItemSocket3="255" ItemSocket4="255" ItemSocket5="255" />
+
+		<Load ItemType="7"  ItemIndex="22" Class="0" Page="1" Slot="1" Price="100" ItemLevel="0" ItemDur="255" ItemSkill="0" ItemLuck="0" ItemOption="0" ItemExcOp="0"  ItemSetOp="0"  ItemJoH="0" OEx="0" ItemSocket1="255" ItemSocket2="255" ItemSocket3="255" ItemSocket4="255" ItemSocket5="255" />
+        <Load ItemType="8"  ItemIndex="22" Class="0" Page="1" Slot="2" Price="100" ItemLevel="0" ItemDur="255" ItemSkill="0" ItemLuck="0" ItemOption="0" ItemExcOp="0"  ItemSetOp="0"  ItemJoH="0" OEx="0" ItemSocket1="255" ItemSocket2="255" ItemSocket3="255" ItemSocket4="255" ItemSocket5="255" />
+        <Load ItemType="9"  ItemIndex="22" Class="0" Page="1" Slot="3" Price="100" ItemLevel="0" ItemDur="255" ItemSkill="0" ItemLuck="0" ItemOption="0" ItemExcOp="0"  ItemSetOp="0"  ItemJoH="0" OEx="0" ItemSocket1="255" ItemSocket2="255" ItemSocket3="255" ItemSocket4="255" ItemSocket5="255" />
+        <Load ItemType="10" ItemIndex="22" Class="0" Page="1" Slot="4" Price="100" ItemLevel="0" ItemDur="255" ItemSkill="0" ItemLuck="0" ItemOption="0" ItemExcOp="0"  ItemSetOp="0"  ItemJoH="0" OEx="0" ItemSocket1="255" ItemSocket2="255" ItemSocket3="255" ItemSocket4="255" ItemSocket5="255" />
+        <Load ItemType="11" ItemIndex="22" Class="0" Page="1" Slot="5" Price="100" ItemLevel="0" ItemDur="255" ItemSkill="0" ItemLuck="0" ItemOption="0" ItemExcOp="0"  ItemSetOp="0"  ItemJoH="0" OEx="0" ItemSocket1="255" ItemSocket2="255" ItemSocket3="255" ItemSocket4="255" ItemSocket5="255" />
+
+		<Load ItemType="7"  ItemIndex="21" Class="1" Page="1" Slot="1" Price="100" ItemLevel="0" ItemDur="255" ItemSkill="0" ItemLuck="0" ItemOption="0" ItemExcOp="0"  ItemSetOp="0"  ItemJoH="0" OEx="0" ItemSocket1="255" ItemSocket2="255" ItemSocket3="255" ItemSocket4="255" ItemSocket5="255" />
+        <Load ItemType="8"  ItemIndex="21" Class="1" Page="1" Slot="2" Price="100" ItemLevel="0" ItemDur="255" ItemSkill="0" ItemLuck="0" ItemOption="0" ItemExcOp="0"  ItemSetOp="0"  ItemJoH="0" OEx="0" ItemSocket1="255" ItemSocket2="255" ItemSocket3="255" ItemSocket4="255" ItemSocket5="255" />
+        <Load ItemType="9"  ItemIndex="21" Class="1" Page="1" Slot="3" Price="100" ItemLevel="0" ItemDur="255" ItemSkill="0" ItemLuck="0" ItemOption="0" ItemExcOp="0"  ItemSetOp="0"  ItemJoH="0" OEx="0" ItemSocket1="255" ItemSocket2="255" ItemSocket3="255" ItemSocket4="255" ItemSocket5="255" />
+        <Load ItemType="10" ItemIndex="21" Class="1" Page="1" Slot="4" Price="100" ItemLevel="0" ItemDur="255" ItemSkill="0" ItemLuck="0" ItemOption="0" ItemExcOp="0"  ItemSetOp="0"  ItemJoH="0" OEx="0" ItemSocket1="255" ItemSocket2="255" ItemSocket3="255" ItemSocket4="255" ItemSocket5="255" />
+        <Load ItemType="11" ItemIndex="21" Class="1" Page="1" Slot="5" Price="100" ItemLevel="0" ItemDur="255" ItemSkill="0" ItemLuck="0" ItemOption="0" ItemExcOp="0"  ItemSetOp="0"  ItemJoH="0" OEx="0" ItemSocket1="255" ItemSocket2="255" ItemSocket3="255" ItemSocket4="255" ItemSocket5="255" />
+
+		<Load ItemType="7"  ItemIndex="24" Class="2" Page="1" Slot="1" Price="100" ItemLevel="0" ItemDur="255" ItemSkill="0" ItemLuck="0" ItemOption="0" ItemExcOp="0"  ItemSetOp="0"  ItemJoH="0" OEx="0" ItemSocket1="255" ItemSocket2="255" ItemSocket3="255" ItemSocket4="255" ItemSocket5="255" />
+        <Load ItemType="8"  ItemIndex="24" Class="2" Page="1" Slot="2" Price="100" ItemLevel="0" ItemDur="255" ItemSkill="0" ItemLuck="0" ItemOption="0" ItemExcOp="0"  ItemSetOp="0"  ItemJoH="0" OEx="0" ItemSocket1="255" ItemSocket2="255" ItemSocket3="255" ItemSocket4="255" ItemSocket5="255" />
+        <Load ItemType="9"  ItemIndex="24" Class="2" Page="1" Slot="3" Price="100" ItemLevel="0" ItemDur="255" ItemSkill="0" ItemLuck="0" ItemOption="0" ItemExcOp="0"  ItemSetOp="0"  ItemJoH="0" OEx="0" ItemSocket1="255" ItemSocket2="255" ItemSocket3="255" ItemSocket4="255" ItemSocket5="255" />
+        <Load ItemType="10" ItemIndex="24" Class="2" Page="1" Slot="4" Price="100" ItemLevel="0" ItemDur="255" ItemSkill="0" ItemLuck="0" ItemOption="0" ItemExcOp="0"  ItemSetOp="0"  ItemJoH="0" OEx="0" ItemSocket1="255" ItemSocket2="255" ItemSocket3="255" ItemSocket4="255" ItemSocket5="255" />
+        <Load ItemType="11" ItemIndex="24" Class="2" Page="1" Slot="5" Price="100" ItemLevel="0" ItemDur="255" ItemSkill="0" ItemLuck="0" ItemOption="0" ItemExcOp="0"  ItemSetOp="0"  ItemJoH="0" OEx="0" ItemSocket1="255" ItemSocket2="255" ItemSocket3="255" ItemSocket4="255" ItemSocket5="255" />
+
+		<Load ItemType="7"  ItemIndex="20" Class="3" Page="1" Slot="1" Price="100" ItemLevel="0" ItemDur="255" ItemSkill="0" ItemLuck="0" ItemOption="0" ItemExcOp="0"  ItemSetOp="0"  ItemJoH="0" OEx="0" ItemSocket1="255" ItemSocket2="255" ItemSocket3="255" ItemSocket4="255" ItemSocket5="255" />
+        <Load ItemType="8"  ItemIndex="20" Class="3" Page="1" Slot="2" Price="100" ItemLevel="0" ItemDur="255" ItemSkill="0" ItemLuck="0" ItemOption="0" ItemExcOp="0"  ItemSetOp="0"  ItemJoH="0" OEx="0" ItemSocket1="255" ItemSocket2="255" ItemSocket3="255" ItemSocket4="255" ItemSocket5="255" />
+        <Load ItemType="9"  ItemIndex="20" Class="3" Page="1" Slot="3" Price="100" ItemLevel="0" ItemDur="255" ItemSkill="0" ItemLuck="0" ItemOption="0" ItemExcOp="0"  ItemSetOp="0"  ItemJoH="0" OEx="0" ItemSocket1="255" ItemSocket2="255" ItemSocket3="255" ItemSocket4="255" ItemSocket5="255" />
+        <Load ItemType="10" ItemIndex="20" Class="3" Page="1" Slot="4" Price="100" ItemLevel="0" ItemDur="255" ItemSkill="0" ItemLuck="0" ItemOption="0" ItemExcOp="0"  ItemSetOp="0"  ItemJoH="0" OEx="0" ItemSocket1="255" ItemSocket2="255" ItemSocket3="255" ItemSocket4="255" ItemSocket5="255" />
+
+		<Load ItemType="7"  ItemIndex="28" Class="4" Page="1" Slot="1" Price="100" ItemLevel="0" ItemDur="255" ItemSkill="0" ItemLuck="0" ItemOption="0" ItemExcOp="0"  ItemSetOp="0"  ItemJoH="0" OEx="0" ItemSocket1="255" ItemSocket2="255" ItemSocket3="255" ItemSocket4="255" ItemSocket5="255" />
+        <Load ItemType="8"  ItemIndex="28" Class="4" Page="1" Slot="2" Price="100" ItemLevel="0" ItemDur="255" ItemSkill="0" ItemLuck="0" ItemOption="0" ItemExcOp="0"  ItemSetOp="0"  ItemJoH="0" OEx="0" ItemSocket1="255" ItemSocket2="255" ItemSocket3="255" ItemSocket4="255" ItemSocket5="255" />
+        <Load ItemType="9"  ItemIndex="28" Class="4" Page="1" Slot="3" Price="100" ItemLevel="0" ItemDur="255" ItemSkill="0" ItemLuck="0" ItemOption="0" ItemExcOp="0"  ItemSetOp="0"  ItemJoH="0" OEx="0" ItemSocket1="255" ItemSocket2="255" ItemSocket3="255" ItemSocket4="255" ItemSocket5="255" />
+        <Load ItemType="10" ItemIndex="28" Class="4" Page="1" Slot="4" Price="100" ItemLevel="0" ItemDur="255" ItemSkill="0" ItemLuck="0" ItemOption="0" ItemExcOp="0"  ItemSetOp="0"  ItemJoH="0" OEx="0" ItemSocket1="255" ItemSocket2="255" ItemSocket3="255" ItemSocket4="255" ItemSocket5="255" />
+        <Load ItemType="11" ItemIndex="28" Class="4" Page="1" Slot="5" Price="100" ItemLevel="0" ItemDur="255" ItemSkill="0" ItemLuck="0" ItemOption="0" ItemExcOp="0"  ItemSetOp="0"  ItemJoH="0" OEx="0" ItemSocket1="255" ItemSocket2="255" ItemSocket3="255" ItemSocket4="255" ItemSocket5="255" />
+
+	</ItemInfo>
+</RuudNpc>

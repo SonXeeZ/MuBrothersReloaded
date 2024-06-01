@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<PartySearchNpc Enable="1">
+
+	<LoadNpc NpcID="903" NpcMap="00" NpcX="153" NpcY="118" />
+	
+	<ConfigNPC DelAfterRelog="1" />
+	
+	<OpenSetting CanOpenSettings_AL0="1" CanOpenSettings_AL1="1" CanOpenSettings_AL2="1" CanOpenSettings_AL3="1" />
+	
+	<OpenMain CanOpenMain_AL0="1" CanOpenMain_AL1="1" CanOpenMain_AL2="1" CanOpenMain_AL3="1" />
+	
+</PartySearchNpc>

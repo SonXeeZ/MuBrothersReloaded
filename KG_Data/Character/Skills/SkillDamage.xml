@@ -1,0 +1,13 @@
+<SkillDamage>
+    <Load>
+	    <New Skill="263" DamageRateUser="200" DamageRateMonster="200" />
+		<New Skill="264" DamageRateUser="150" DamageRateMonster="200" />
+		<New Skill="237" DamageRateUser="100" DamageRateMonster="150" />
+		<New Skill="238" DamageRateUser="70"  DamageRateMonster="120" />
+		<New Skill="260" DamageRateUser="170" DamageRateMonster="150" />
+		<New Skill="261" DamageRateUser="100" DamageRateMonster="150" />
+		<New Skill="262" DamageRateUser="100" DamageRateMonster="130" />
+		<New Skill="235" DamageRateUser="100" DamageRateMonster="150" />
+		<New Skill="24"  DamageRateUser="100" DamageRateMonster="150" />
+	</Load>
+</SkillDamage>

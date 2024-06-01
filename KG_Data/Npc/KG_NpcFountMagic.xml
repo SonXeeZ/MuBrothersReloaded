@@ -1,0 +1,11 @@
+<FountMagic>
+	<Fount_Npc Npc_Enable="1" Npc_Class="744" Npc_Map="00" Npc_CoordX="138" Npc_CoordY="140" />
+	
+	<Fount_Open FountEnable_AL0="1" FountEnable_AL1="1" FountEnable_AL2="1" FountEnable_AL3="1" />
+	
+	<Fount_ReqLevel FountRequireLevel_AL0="400" FountRequireLevel_AL1="370" FountRequireLevel_AL2="340" FountRequireLevel_AL3="300" />
+	
+	<Fount_ReqReset FountRequireReset_AL0="0" FountRequireReset_AL1="0" FountRequireReset_AL2="0" FountRequireReset_AL3="0" />
+	
+	<Fount_Remove FountRemove_Zen="0" FountRemove_WcoinC="10" FountRemove_WcoinP="10" FountRemove_GlobinPoint="0" FountRemove_RuudCoin="0" />
+</FountMagic>

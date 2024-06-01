@@ -1,0 +1,2 @@
+09:32:46 [TimerSystem] delay 34 milliseconds
+12:56:35 [TimerSystem] delay 44 milliseconds

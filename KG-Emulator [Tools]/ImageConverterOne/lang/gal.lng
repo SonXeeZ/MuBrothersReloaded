@@ -1,0 +1,156 @@
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+; Language file                   ;
+; ';' for comment                 ;
+; '|' for line change             ;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+[language]
+title=Galician
+author=
+version=1.001
+
+;main window
+[1000]
+1001=Engadir Imaxe(s)...
+1002=Engadir Cartafol...
+1003=Borrar
+1004=Limpar
+1005=Procesando...
+1006=Redimensionando...
+1007=Cambiar Formato...
+1008=Crear Marca de Auga...
+1009=Axusta-la Rotación...
+1010=Axuda
+1011=Instalar/Desinsta-lo atallo...
+1012=Axuda en liña
+1013=Acerca de...
+;file list
+1014=Nome de Arquivo
+1015=Resolución
+1016=Tamaño de Arquivo
+1017=Data
+1018=Ruta Completa
+1019=Tipo de Imaxe
+1020=Idioma
+
+;batch rotate dialog
+[2000]
+2001=Rotación por lotes
+2002=Aplicar estas propiedades a tódolas imaxes
+2003=Posición Correxida
+2004=Posición Actual
+2005=90 CW
+2006=180 CW
+2007=90 CCW
+2008=180 CCW
+2009=Ángulo Arbitrario
+2010=Mante-lo tamaño orixinal
+2011=Cor de Fondo
+
+
+;files
+[3000]
+3001=Arquivos para seren procesados
+
+;output size dialog
+[4000]
+4001=Opcións de Formato de Saída
+4002=Formato do Arquivo de Saída
+4003=Formato de Saída
+4004=Configurar...
+4005=Método de Interpolación
+4006=Tamaño de Imaxe de Saída
+4007=Redimensiona-las Imaxes?
+4008=Usar cor para a area en branco
+4009=Ancho
+4010=Alto
+4011=Por Altura
+4012=Por Anchura
+4013=Mante-lo Ratio do Aspecto
+
+;gif,jpeg,png,tiff.. option dialog
+[5000]
+5001=Opcións Jpeg
+5002=Opcións GIF
+5003=Opcións Png
+5004=Opcións Option
+5005=OK
+5006=Cancelar
+5007=Opcións de Códec
+; jpeg
+5011=Liña de Base (Por Defecto)
+5012=Progresivo
+5013=Optimizado
+5014=Calidade de Imaxe
+;gif
+5021=LZW(Por Defecto)
+5022=Níngun
+5023=RLE
+;png
+5031=Sen Entrelazar
+5032=Entrelazar
+;tiff
+5041=Auto(Por Defecto)
+5042=Níngun
+5043=RLE
+5044=Fax
+5045=Paquetes de Bits
+5046=JPEG
+5047=LZW
+
+;watermark dialog
+[6000]
+6001=Marca de Auga
+6002=Opción de Texto
+6003=Usar cor de fondo
+6004=Opacidade
+6005=Sombra
+6006=Cor
+6007=X Despraz.
+6008=Y Despraz.
+6009=Usar imaxe(máis pequena que 200 x 200)
+6010=Arquivo de imaxe da Marca de Auga
+6011=Mostrar imaxe de proba?
+;new features
+6012=Ancho de Imaxe
+6013=Alto de Imaxe
+6014=Data
+6015=Cámara
+6016=Modelo
+6017=Apertura
+6018=ISO
+6019=Tempo de Exposición
+6020=Lonxitude Focal
+
+;output dialog
+[7000]
+7001=Opción de Saída
+7002=Sobreescribi-lo arquivo orixinal
+7003=Ruta de Saída:
+7004=Buscar...
+7005=Nome do arquivo de Saída
+7006=Usa-lo título orixinal do arquivo coma novo título do arquivo, Exemplo:example.jpg
+7007=Usa-lo nome orixinal do arquivo coma novo título do arquivo, Exemplo:example.bmp.jpg
+7008=Xerar unha secuencia de nome(s) de arquivo(s)
+7009=Prefixo
+7010=dixitos
+7011=Proba
+7012=Aviso: esta opción sobreescribirá os arquivos orixinais, e non é posible a restauración!!!
+7013=O cartafol [ %s ] non existe!||Quere-lo crear?
+
+
+;overwrite prompt dialog
+[8000]
+8001=Opcións de sobreescritura...
+8002=O arquivo [ %s ] xa existe!||Quere-lo sobreescribir?
+8003=Si
+8004=Si a Todo
+8005=Saltar
+8006=Saltar Todo
+
+;misc strings
+[9000]
+9001=Instalación satisfactoria!
+9002=Desinstalación satisfactoria!
+9003=Redimensiona-la Imaxe(&Z)...
+9004=Realmente queres borrar tódalas imaxes?
+9005=Realmente queres borra-la(s) imaxe(s) seleccionada(s)?

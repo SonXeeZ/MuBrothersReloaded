@@ -1,0 +1,13 @@
+<CustomArena>
+    <CreateTime>
+	<!--
+	    <Load Index="0" Year="-1" Month="-1" Day="-1" DayOfWeek="-1" Hour="22" Minute="15" Second="0" />
+	-->
+	</CreateTime>
+	
+	<CreateArena>
+	<!--
+	    <Load Index="0" Name="SURVIVAL"	AlarmTime="5" StandTime="1" EventTime="2" CloseTime="2" StartGate="450" FinalGate="4" MinUser="2" MaxUser="100" MaxDeath="10" MinLevel="1" MaxLevel="400" MinMLevel="-1" MaxMLevel="-1" MinReset="-1" MaxReset="-1" MinMReset="-1" MaxMReset="-1"	DW="1" DK="1" FE="1" MG="1" DL="1" SU="1" RF="1" />
+	-->
+	</CreateArena>
+</CustomArena>

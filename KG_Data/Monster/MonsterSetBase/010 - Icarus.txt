@@ -1,0 +1,143 @@
+//######################################################################################################################
+//#MonsterSetBase: Icarus
+//######################################################################################################################
+//#Section: #0(Npc) #1(Spot) #2(Monster Individual) #3(Invasion) #4(Events) 5#(Kanturu Monster)
+//######################################################################################################################
+
+0
+//######################################################################################################################
+//#Monster    #MapNumber    #Range     #PositionX     #PositionY   #Direction    #Comment
+//######################################################################################################################
+   77             10          30            34          238         1
+end
+
+1
+//######################################################################################################################
+//#Monster    #MapNumber    #Range      #BeginPosX     #BeginPosY     #EndPosX    #EndPosY      #Direction     #Quantity
+//######################################################################################################################
+75				10				3			34			109				34			109				1			4			//Giant Drakan
+75				10				3			42			94				42			94				1			4			//Giant Drakan
+75				10				3			55			132				55			132				1			4			//Giant Drakan
+75				10				3			45			121				45			121				1			4			//Giant Drakan
+72				10				3			30			81				30			81				1			4			//Phantom Knight
+72				10				3			53			71				53			71				1			4			//Phantom Knight
+73				10				3			64			84				64			84				1			4			//Drakan
+72				10				3			28			66				28			66				1			4			//Phantom Knight
+72				10				3			40			71				40			71				1			4			//Phantom Knight
+75				10				3			49			193				49			193				1			4			//Giant Drakan
+75				10				3			45			192				45			192				1			4			//Giant Drakan
+75				10				3			59			192				59			192				1			4			//Giant Drakan
+75				10				3			57			194				57			194				1			4			//Giant Drakan
+75				10				3			60			174				60			174				1			4			//Giant Drakan
+75				10				3			42			153				42			153				1			4			//Giant Drakan
+75				10				3			39			137				39			137				1			4			//Giant Drakan
+75				10				3			43			174				43			174				1			4			//Giant Drakan
+75				10				3			55			154				55			154				1			4			//Giant Drakan
+70				10				3			61			26				61			26				1			4			//Queen Rainer
+70				10				3			43			41				43			41				1			4			//Queen Rainer
+71				10				3			77			29				77			29				1			4			//Mega Crust
+70				10				3			61			41				61			41				1			4			//Queen Rainer
+70				10				3			42			26				42			26				1			4			//Queen Rainer
+69				10				3			13			41				13			41				1			4			//Alquamos
+69				10				3			13			26				13			26				1			4			//Alquamos
+69				10				3			26			42				26			42				1			4			//Alquamos
+69				10				3			26			26				26			26				1			4			//Alquamos
+73				10				3			75			71				75			71				1			4			//Drakan
+74				10				3			85			73				85			73				1			4			//Alpha Crust
+73				10				3			64			69				64			69				1			4			//Drakan
+73				10				3			76			83				76			83				1			4			//Drakan
+74				10				3			96			69				96			69				1			4			//Alpha Crust
+71				10				3			90			33				90			33				1			4			//Mega Crust
+71				10				3			77			48				77			48				1			4			//Mega Crust
+74				10				3			90			60				90			60				1			4			//Alpha Crust
+71				10				3			91			48				91			48				1			4			//Mega Crust
+end
+
+2
+//Monster      MapNumber      Range      PositionX      PositionY      Direction      Comment
+077            10             30         034            238            01             //Phoenix of Darkness
+070            10             30         066            068            -1             //Queen Rainier
+070            10             30         085            088            -1             //Queen Rainier
+070            10             30         080            076            -1             //Queen Rainier
+073            10             30         045            072            -1             //Drakan
+072            10             30         041            113            -1             //Phantom Knight
+072            10             30         042            135            -1             //Phantom Knight
+074            10             30         029            104            -1             //Alpha Crust
+074            10             30         038            103            -1             //Alpha Crust
+074            10             30         035            094            -1             //Alpha Crust
+074            10             30         032            087            -1             //Alpha Crust
+073            10             30         035            069            -1             //Drakan
+073            10             30         026            074            -1             //Drakan
+073            10             30         036            079            -1             //Drakan
+074            10             30         039            085            -1             //Alpha Crust
+072            10             30         051            126            -1             //Phantom Knight
+071            10             30         088            070            -1             //Mega Crust
+072            10             30         053            138            -1             //Phantom Knight
+072            10             30         044            148            -1             //Phantom Knight
+072            10             30         033            119            -1             //Phantom Knight
+074            10             30         033            111            -1             //Alpha Crust
+071            10             30         084            047            -1             //Mega Crust
+071            10             30         079            033            -1             //Mega Crust
+071            10             30         058            042            -1             //Mega Crust
+070            10             30         089            038            -1             //Queen Rainier
+071            10             30         070            043            -1             //Mega Crust
+071            10             30         064            030            -1             //Mega Crust
+071            10             30         053            027            -1             //Mega Crust
+070            10             30         091            059            -1             //Queen Rainier
+072            10             30         041            157            -1             //Phantom Knight
+069            10             30         044            027            -1             //Alquamos
+069            10             30         012            027            -1             //Alquamos
+069            10             30         013            038            -1             //Alquamos
+069            10             30         048            040            -1             //Alquamos
+072            10             30         042            122            -1             //Phantom Knight
+069            10             30         028            028            -1             //Alquamos
+071            10             30         093            047            -1             //Mega Crust
+072            10             30         053            150            -1             //Phantom Knight
+075            10             30         050            162            -1             //Great Drakan
+075            10             30         052            174            -1             //Great Drakan
+075            10             30         055            181            -1             //Great Drakan
+075            10             30         044            212            -1             //Great Drakan
+072            10             30         038            216            -1             //Phantom Knight
+075            10             30         047            189            -1             //Great Drakan
+075            10             30         059            190            -1             //Great Drakan
+075            10             30         048            200            -1             //Great Drakan
+075            10             30         057            200            -1             //Great Drakan
+075            10             30         027            220            -1             //Great Drakan
+069            10             30         066            037            -1             //Alquamos
+069            10             30         080            041            -1             //Alquamos
+075            10             30         043            238            -1             //Great Drakan
+072            10             30         044            221            -1             //Phantom Knight
+069            10             30         040            034            -1             //Alquamos
+069            10             30         031            037            -1             //Alquamos
+069            10             30         018            031            -1             //Alquamos
+071            10             30         057            034            -1             //Mega Crust
+071            10             30         071            033            -1             //Mega Crust
+072            10             30         036            226            -1             //Phantom Knight
+075            10             30         048            228            -1             //Great Drakan
+070            10             30         084            036            -1             //Queen Rainier
+070            10             30         090            048            -1             //Queen Rainier
+070            10             30         095            056            -1             //Queen Rainier
+070            10             30         074            084            -1             //Queen Rainier
+070            10             30         074            072            -1             //Queen Rainier
+070            10             30         057            071            -1             //Queen Rainier
+073            10             30         028            067            -1             //Drakan
+071            10             30         050            033            -1             //Mega Crust
+071            10             30         059            027            -1             //Mega Crust
+071            10             30         074            038            -1             //Mega Crust
+069            10             30         036            029            -1             //Alquamos
+069            10             30         037            041            -1             //Alquamos
+069            10             30         026            041            -1             //Alquamos
+069            10             30         021            024            -1             //Alquamos
+075            10             30         032            231            -1             //Great Drakan
+075            10             30         045            173            -1             //Great Drakan
+075            10             30         059            163            -1             //Great Drakan
+075            10             30         052            168            -1             //Great Drakan
+069            10             30         021            036            -1             //Alquamos
+070            10             30         064            084            -1             //Queen Rainier
+070            10             30         069            077            -1             //Queen Rainier
+end
+
+3
+//Monster      MapNumber      Range      BeginPosX      BeginPosY      EndPosX      EndPosY      Direction      Quantity      Value      Comment
+496            10             00         010			012			   100			243          -1             03            0          //Golden Crust
+end

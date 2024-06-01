@@ -1,0 +1,5 @@
+<MoveSystem>
+<!--
+	<MoveCommand Index="0" Name="/pvp1"    MapNumber="2" MapX="222" MapY="73"  Money="15000" AllowMovePK="0" MinLevel="200" MaxLevel="-1" MinReset="-1" MaxReset="-1" MinMReset="-1" MaxMReset="-1" AccountLevel="0" PkMove="0" />
+-->
+</MoveSystem>

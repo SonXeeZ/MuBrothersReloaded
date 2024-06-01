@@ -1,0 +1,10 @@
+//================================================================================================================================================
+// NPC = 0
+// Monster = 1
+//================================================================================================================================================
+741		 0		 "Jinn"							"Data\\Custom\\Monster\\"	"Custom\\Monster\\"		"jinn"				0.50
+742		 0		 "Foliage Spirit"				"Data\\Custom\\Monster\\"	"Custom\\Monster\\"		"new_maple"			1.0
+743		 0		 "Wizard Gillard"				"Data\\Custom\\Monster\\"	"Custom\\Monster\\"		"Gillard"			1.0
+744		 0		 "FountMagic"			    	"Data\\Custom\\Monster\\"	"Custom\\Monster\\"		"N848"		    	0.50
+745		 0		 "Relic Keeper"			    	"Data\\Custom\\Monster\\"	"Custom\\Monster\\"		"Storage01"		    1.0
+end

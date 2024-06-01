@@ -1,0 +1,195 @@
+//######################################################################################################################
+//#MonsterSetBase: Raklion1
+//######################################################################################################################
+//#Section: #0(Npc) #1(Spot) #2(Monster Individual) #3(Invasion) #4(Events) 5#(Kanturu Monster)
+//######################################################################################################################
+
+0
+//######################################################################################################################
+//#Monster    #MapNumber    #Range     #PositionX     #PositionY   #Direction    #Comment
+//######################################################################################################################
+end
+
+1
+//######################################################################################################################
+//#Monster    #MapNumber    #Range      #BeginPosX     #BeginPosY     #EndPosX    #EndPosY      #Direction     #Quantity
+//######################################################################################################################
+455				57				3			165			222				165			222				-1				5			//spot de Drop Ex700
+455				57				3			182			210				182			210				-1				5			//spot de Drop Ex700
+455				57				3			137			216				137			216				-1				5			//spot de Drop Ex700
+455				57				3			154			184				154			184				-1				5			//spot de Drop Ex700
+562				57				3			42			206				42			206				-1				5			//spot de Drop Ex700
+563				57				3			33			194				33			194				-1				5			//spot de Drop Ex700
+454				57				3			183			188				183			188				-1				5			//spot de Drop Ex700
+562				57				3			48			196				48			196				-1				5			//spot de Drop Ex700
+458				57				3			109			187				109			187				-1				5			//spot de Drop Ex700
+458				57				3			129			185				129			185				-1				5			//spot de Drop Ex700
+458				57				3			95			201				95			201				-1				5			//spot de Drop Ex700
+458				57				3			98			181				98			181				-1				5			//spot de Drop Ex700
+456				57				3			169			193				169			193				-1				5			//spot de Drop Ex700
+456				57				3			157			204				157			204				-1				5			//spot de Drop Ex700
+457				57				3			149			211				149			211				-1				5			//spot de Drop Ex700
+457				57				3			143			198				143			198				-1				5			//spot de Drop Ex700
+563				57				3			25			205				25			205				-1				5			//spot de Drop Ex700
+564				57				3			109			17				109			17				-1				5			//spot de Drop Ex700
+564				57				3			124			17				124			17				-1				5			//spot de Drop Ex700
+565				57				3			87			26				87			26				-1				5			//spot de Drop Ex700
+565				57				3			96			36				96			36				-1				5			//spot de Drop Ex700
+562				57				3			141			32				141			32				-1				5			//spot de Drop Ex700
+562				57				3			137			20				137			20				-1				5			//spot de Drop Ex700
+563				57				3			122			46				122			46				-1				5			//spot de Drop Ex700
+563				57				3			135			46				135			46				-1				5			//spot de Drop Ex700
+564				57				3			43			234				43			234				-1				5			//spot de Drop Ex700
+564				57				3			29			233				29			233				-1				5			//spot de Drop Ex700
+565				57				3			53			209				53			209				-1				5			//spot de Drop Ex700
+565				57				3			53			221				53			221				-1				5			//spot de Drop Ex700
+564				57				3			76			38				76			38				-1				5			//spot de Drop Ex700
+565				57				3			76			25				76			25				-1				5			//spot de Drop Ex700
+562				57				3			61			41				61			41				-1				5			//spot de Drop Ex700
+563				57				3			64			31				64			31				-1				5			//spot de Drop Ex700
+end
+
+2
+//Monster      MapNumber      Range      PositionX      PositionY      Direction      Comment
+454            57             30         203            204            -1             //Ice Walker
+454            57             30         196            203            -1             //Ice Walker
+454            57             30         188            203            -1             //Ice Walker
+454            57             30         179            204            -1             //Ice Walker
+455            57             30         171            207            -1             //Giant Mammoth
+455            57             30         174            214            -1             //Giant Mammoth
+455            57             30         164            212            -1             //Giant Mammoth
+456            57             30         168            217            -1             //Ice Giant
+456            57             30         157            217            -1             //Ice Giant
+456            57             30         153            210            -1             //Ice Giant
+456            57             30         172            188            -1             //Ice Giant
+456            57             30         166            187            -1             //Ice Giant
+456            57             30         162            182            -1             //Ice Giant
+457            57             30         149            197            -1             //Coolutin
+457            57             30         153            194            -1             //Coolutin
+457            57             30         143            214            -1             //Coolutin
+458            57             30         120            181            -1             //Iron Knight
+458            57             30         134            184            -1             //Iron Knight
+458            57             30         111            219            -1             //Iron Knight
+458            57             30         101            217            -1             //Iron Knight
+458            57             30         090            213            -1             //Iron Knight
+458            57             30         098            178            -1             //Iron Knight
+458            57             30         123            142            -1             //Iron Knight
+458            57             30         143            135            -1             //Iron Knight
+458            57             30         144            107            -1             //Iron Knight
+458            57             30         127            099            -1             //Iron Knight
+458            57             30         161            135            -1             //Iron Knight
+458            57             30         191            144            -1             //Iron Knight
+458            57             30         189            102            -1             //Iron Knight
+458            57             30         196            104            -1             //Iron Knight
+458            57             30         220            092            -1             //Iron Knight
+458            57             30         233            113            -1             //Iron Knight
+458            57             30         232            140            -1             //Iron Knight
+458            57             30         222            081            -1             //Iron Knight
+458            57             30         203            028            -1             //Iron Knight
+458            57             30         211            033            -1             //Iron Knight
+458            57             30         215            042            -1             //Iron Knight
+458            57             30         203            049            -1             //Iron Knight
+457            57             30         207            026            -1             //Coolutin
+457            57             30         210            039            -1             //Coolutin
+457            57             30         225            089            -1             //Coolutin
+457            57             30         212            095            -1             //Coolutin
+457            57             30         196            120            -1             //Coolutin
+457            57             30         185            140            -1             //Coolutin
+457            57             30         133            099            -1             //Coolutin
+457            57             30         130            135            -1             //Coolutin
+456            57             30         192            110            -1             //Ice Giant
+456            57             30         197            132            -1             //Ice Giant
+456            57             30         202            149            -1             //Ice Giant
+456            57             30         152            136            -1             //Ice Giant
+456            57             30         136            137            -1             //Ice Giant
+456            57             30         136            106            -1             //Ice Giant
+456            57             30         116            148            -1             //Ice Giant
+456            57             30         095            195            -1             //Ice Giant
+455            57             30         142            126            -1             //Giant Mammoth
+455            57             30         223            150            -1             //Giant Mammoth
+454            57             30         204            104            -1             //Ice Walker
+454            57             30         154            129            -1             //Ice Walker
+454            57             30         141            113            -1             //Ice Walker
+562            57             30         114            101            -1             //Dark Mammoth
+562            57             30         105            107            -1             //Dark Mammoth
+562            57             30         102            109            -1             //Dark Mammoth
+562            57             30         109            101            -1             //Dark Mammoth
+562            57             30         092            117            -1             //Dark Mammoth
+562            57             30         087            116            -1             //Dark Mammoth
+563            57             30         033            095            -1             //Dark Giant
+563            57             30         034            079            -1             //Dark Giant
+563            57             30         037            088            -1             //Dark Giant
+563            57             30         058            156            -1             //Dark Giant
+563            57             30         065            143            -1             //Dark Giant
+563            57             30         038            145            -1             //Dark Giant
+563            57             30         070            101            -1             //Dark Giant
+563            57             30         062            088            -1             //Dark Giant
+563            57             30         073            087            -1             //Dark Giant
+563            57             30         033            220            -1             //Dark Giant
+563            57             30         047            195            -1             //Dark Giant
+563            57             30         098            031            -1             //Dark Giant
+563            57             30         123            045            -1             //Dark Giant
+563            57             30         140            023            -1             //Dark Giant
+563            57             30         039            148            -1             //Dark Giant
+563            57             30         068            139            -1             //Dark Giant
+563            57             30         057            159            -1             //Dark Giant
+563            57             30         032            089            -1             //Dark Giant
+564            57             30         123            040            -1             //Dark Coolutin
+564            57             30         117            042            -1             //Dark Coolutin
+564            57             30         037            222            -1             //Dark Coolutin
+564            57             30         052            199            -1             //Dark Coolutin
+564            57             30         034            146            -1             //Dark Coolutin
+564            57             30         063            159            -1             //Dark Coolutin
+564            57             30         062            135            -1             //Dark Coolutin
+564            57             30         060            093            -1             //Dark Coolutin
+564            57             30         033            115            -1             //Dark Coolutin
+564            57             30         059            036            -1             //Dark Coolutin
+564            57             30         064            032            -1             //Dark Coolutin
+565            57             30         127            043            -1             //Dark Iron Knight
+565            57             30         140            032            -1             //Dark Iron Knight
+565            57             30         135            029            -1             //Dark Iron Knight
+565            57             30         101            023            -1             //Dark Iron Knight
+565            57             30         093            026            -1             //Dark Iron Knight
+565            57             30         064            039            -1             //Dark Iron Knight
+565            57             30         091            031            -1             //Dark Iron Knight
+565            57             30         070            095            -1             //Dark Iron Knight
+565            57             30         034            121            -1             //Dark Iron Knight
+565            57             30         030            119            -1             //Dark Iron Knight
+565            57             30         033            224            -1             //Dark Iron Knight
+565            57             30         052            191            -1             //Dark Iron Knight
+563            57             30         038            227            -1             //Dark Giant
+563            57             30         026            216            -1             //Dark Giant
+563            57             30         049            219            -1             //Dark Giant
+563            57             30         029            195            -1             //Dark Giant
+563            57             30         071            120            -1             //Dark Giant
+563            57             30         037            133            -1             //Dark Giant
+564            57             30         035            068            -1             //Dark Coolutin
+564            57             30         046            047            -1             //Dark Coolutin
+564            57             30         107            037            -1             //Dark Coolutin
+564            57             30         028            199            -1             //Dark Coolutin
+565            57             30         032            195            -1             //Dark Iron Knight
+565            57             30         031            051            -1             //Dark Iron Knight
+565            57             30         037            046            -1             //Dark Iron Knight
+565            57             30         066            137            -1             //Dark Iron Knight
+end
+
+3
+//Monster      MapNumber      Range      BeginPosX      BeginPosY      EndPosX      EndPosY      Direction      Quantity      Value      Comment
+501            57             00         019			012			   238			237          -1             01            0          //Great Golden Dragon
+499            57             00         019			012			   238			237          -1             03            0          //Golden Iron Knight
+end
+
+3
+//Monster      MapNumber      Range      BeginPosX      BeginPosY      EndPosX      EndPosY      Direction      Quantity      Value      Comment
+365            57             30         010            010            240          240          -1             10            0          //Pouch of Blessing
+end
+
+3
+//Monster      MapNumber      Range      BeginPosX      BeginPosY      EndPosX      EndPosY      Direction      Quantity      Value      Comment
+463            57             30         010            010            240          240          -1             10            0          //
+end
+
+3
+//Monster      MapNumber      Range      BeginPosX      BeginPosY      EndPosX      EndPosY      Direction      Quantity      Value      Comment
+413            57             30         010            010            240          240          -1             10            0          //Lunar Rabbit
+end

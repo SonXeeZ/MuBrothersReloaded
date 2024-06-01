@@ -1,0 +1,11 @@
+[13:19:42] Initializing...
+[13:19:42] Data Server version: DS Compiled at: Mar  8 2024 13:59:14
+[13:19:42] [SocketManager] Server started at port [55960]
+[13:19:46] [SocketManager] WSAAccept() failed with error: 10061
+[13:19:50] [SocketManager] WSAAccept() failed with error: 10061
+[13:19:56] [SocketManager] WSAAccept() failed with error: 10061
+[13:20:00] [SocketManager] WSAAccept() failed with error: 10061
+[13:20:06] [SocketManager] WSAAccept() failed with error: 10061
+[13:20:10] [SocketManager] WSAAccept() failed with error: 10061
+[13:20:16] [SocketManager] WSAAccept() failed with error: 10061
+[13:20:20] [SocketManager] WSAAccept() failed with error: 10061

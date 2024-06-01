@@ -1,0 +1,8 @@
+<!--                                                              Dev: KG-Emulator                                                              -->
+<!--                                                              Skype: KoshGames                                                              -->
+<!--                                                              Facebook: fb.com/KoshGames                                                    -->
+<AcheronNpc Enable="0">
+	<LoadNpc NpcID="744" NpcMap="00" NpcX="134" NpcY="112" MoveMap="83" MoveX="56" MoveY="195" />
+	<UseNpc MinLevel="1" MaxLevel="400" MinReset="-1" MaxReset="-1" MinMReset="-1" MaxMReset="-1" PlayerPK="-1" />
+	<GetItems ItemType="14" ItemIndex="267" ItemLevel="0" ItemQtd="1" ItemDelete="1" />
+</AcheronNpc>

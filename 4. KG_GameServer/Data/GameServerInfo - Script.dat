@@ -1,0 +1,46 @@
+[GameServerInfo]
+;==========================================================================================================
+; Scrip_Performance (Type: 0 -> Txt / Type: 1 -> Xml)
+;==========================================================================================================
+Script_Performance_ItemList = 0
+Script_Performance_ItemType = 0
+Script_Performance_ItemOption = 0
+Script_Performance_ShopList = 0
+
+;==========================================================================================================
+; MonsterSetBase (Type: 0) -> Monster/KanturuMonsterSetBase.txt - MonsterSetBase( - CS).txt
+; MonsterSetBase (Type: 1) -> Monster/MonsterSetBase/(MapID) - (MapName).txt
+;==========================================================================================================
+Script_Update_MonsterSetBase = 1
+
+;==========================================================================================================
+; Script_LuaScript_ConnectSQL = (Type: 0) ODBC Local - (Type: 1) REMOTE CONNECT
+;==========================================================================================================
+Script_LuaScript_ConnectSQL = 0
+
+;==========================================================================================================
+; Script_Update_PartyExperience = (1)Load (KG_ExperiencePartyTable.txt) - (0)NoLoad
+;==========================================================================================================
+Script_Update_PartyExperience = 0
+
+;==========================================================================================================
+; Script_Update_FlagSystem = (Type: 0) Off - (Type: 1) Custom - Type(2): Slot Inventory Flag (238)
+; Script_Update_FlagSystem = 0 -> MainInfo/Config/Interface.ini -> KG_Interface_FlagSystem = 0
+; Script_Update_FlagSystem = 1 -> MainInfo/Config/Interface.ini -> KG_Interface_FlagSystem = 1
+; Script_Update_FlagSystem = 2 -> MainInfo/Config/Interface.ini -> KG_Interface_FlagSystem = 2
+;==========================================================================================================
+Script_Update_FlagSystem = 2
+
+;==========================================================================================================
+; Script_InventorySlot_Pentagram = Type(0): OFF - Type(1): Enable Slot Pentagram (236) - Update in MainInfo
+; Script_InventorySlot_Earring1 =  Type(0): OFF - Type(1): Enable Slot Earrings1 (237) - Update in MainInfo
+; Script_InventorySlot_Earring2 =  Type(0): OFF - Type(1): Enable Slot Earrings2 (239) - Update in MainInfo
+;==========================================================================================================
+Script_InventorySlot_Pentagram = 1
+Script_InventorySlot_Earring1 = 1
+Script_InventorySlot_Earring2 = 1
+
+;==========================================================================================================
+; Script_Update_MapNameInvNoticeBoss = Type(0): OFF - Type(1): "Invasion where the boss master is located."
+;==========================================================================================================
+Script_Update_MapNameInvNoticeBoss = 1

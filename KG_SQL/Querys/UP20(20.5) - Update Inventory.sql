@@ -1,0 +1,4 @@
+USE MuOnlineS6;
+
+ALTER TABLE dbo.Character
+ALTER COLUMN Inventory VARBINARY(3984);

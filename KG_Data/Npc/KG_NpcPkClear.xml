@@ -1,0 +1,8 @@
+<!--                                                              Dev: KG-Emulator                                                              -->
+<!--                                                              Skype: KoshGames                                                              -->
+<!--                                                              Facebook: fb.com/KoshGames                                                    -->
+<NpcPkClear Enable="1">
+	<Npc_Load Npc_ID="901" Npc_Map="00" Npc_X="149" Npc_Y="118" />
+	<Npc_System Zen_Formula="0" />
+	<Npc_Req Req_Zen="999999999" Req_Chaos="8" Req_Bless="1" Req_Soul="1" />
+</NpcPkClear>

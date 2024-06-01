@@ -1,0 +1,439 @@
+
+//=================================================================================================================================================================================================================================================================================================================
+//DW
+//=================================================================================================================================================================================================================================================================================================================
+//SkillIndex  	MinSpeed    MaxSpeed    MaxDelay	MaxCount    Comment
+1				000			1000		1000		7			//Poison
+1				1001		*			1000		10			//Poison
+
+384				000			1000		1000		7			//Poison Master
+384				1001		*			1000		10			//Poison Master
+//SkillIndex  	MinSpeed    MaxSpeed    MaxDelay	MaxCount    Comment
+2				000			1000		1000		7			//Meteorite
+2				1001		*			1000		10			//Meteorite
+//SkillIndex  	MinSpeed    MaxSpeed    MaxDelay	MaxCount    Comment
+3				000			1000		1000		7			//Lighting
+3				1001		*			1000		10			//Lighting
+379				000			1000		1000		7	    	//Lighting Master
+379				1001		*			1000		10	    	//Lighting Master
+//SkillIndex  	MinSpeed    MaxSpeed    MaxDelay	MaxCount    Comment
+4				000			1000		1000		7			//Fire Ball
+4				1001		*			1000		10			//Fire Ball
+//SkillIndex  	MinSpeed    MaxSpeed    MaxDelay	MaxCount    Comment
+7				000			1000		1000		7	    	//Ice
+7				1001		*			1000		10	    	//Ice
+389				000			1000		1000		7			//Ice Master
+389				1001		*			1000		10			//Ice Master
+//SkillIndex  	MinSpeed    MaxSpeed    MaxDelay	MaxCount    Comment
+11				000			1000		1000		7	    	//Power Wave
+11				1001		*			1000		10	    	//Power Wave
+//SkillIndex  	MinSpeed    MaxSpeed    MaxDelay	MaxCount    Comment
+//16				000			120			1000		5			//Soul Barrier
+//16				121			*			1000		10			//Soul Barrier
+//SkillIndex  	MinSpeed    MaxSpeed    MaxDelay	MaxCount    Comment
+17				000			1000		1000		7			//Energy Ball
+17				1001		*			1000		10			//Energy Ball
+//SkillIndex  	MinSpeed    MaxSpeed    MaxDelay	MaxCount    Comment
+45				000			250			1000		10			//Mana Glaive
+45				251			*			1000		20			//Mana Glaive
+//SkillIndex  	MinSpeed    MaxSpeed    MaxDelay	MaxCount    Comment
+10				000			1000		1000		10			//Hellfire
+10				1001		*			1000		15			//Hellfire
+388				000			1000		1000		10			//Hellfire Master 1
+388				1001		*			1000		15			//Hellfire Master 1
+//SkillIndex  	MinSpeed    MaxSpeed    MaxDelay	MaxCount    Comment
+12				000			500			1000		10			//Aqua Beam
+12				501 		1000	    1000		15			//Aqua Beam
+12				1001		*			1000		20			//Aqua Beam
+//SkillIndex  	MinSpeed	MaxSpeed	MaxDelay	MaxCount	Comment
+14				000			500			1000		10			//Inferno
+14				501 		1000	    1000		15			//Inferno
+14				1001		*			1000		20			//Inferno
+381				000			500			1000		10			//Inferno Master 1
+381				501 		1000	    1000		15			//Inferno Master 1
+381				1001		*			1000		20			//Inferno Master 1
+486				000			500			1000		10			//Inferno Master 2
+486				501 		1000	    1000		15			//Inferno Master 2
+486				1001		*			1000		20			//Inferno Master 2
+//SkillIndex  	MinSpeed	MaxSpeed	MaxDelay	MaxCount	Comment
+5				000			250			1000		15			//Flame
+5				251			500		    1000		25			//Flame
+5				501		    1000		1000		35			//Flame
+5				3000		*		    1000		45			//Flame
+
+378				000			250			1000		15			//Flame Master 1
+378				251			500		    1000		25			//Flame Master 1
+378				501		    1000		1000		35			//Flame Master 1
+378				3000		*		    1000		45			//Flame Master 1
+
+483				000			250			1000		15			//Flame Master 2
+483				251			500		    1000		25			//Flame Master 2
+483				501		    1000		1000		35			//Flame Master 2
+483				3000		*		    1000		45			//Flame Master 2
+//SkillIndex  	MinSpeed	MaxSpeed	MaxDelay	MaxCount	Comment
+8				000			250			1000		15			//Twister
+8				251			500		    1000		25			//Twister
+8				501		    1000		1000		35			//Twister
+8				3000		*		    1000		45			//Twister
+//SkillIndex  	MinSpeed	MaxSpeed	MaxDelay	MaxCount	Comment
+9				000			500			1000		15			//Evil Spirit
+9				501			*		    1000		25			//Evil Spirit
+
+385				000			500			1000	    15			//Evil Spirit Master 1
+385				501			*		    1000		25			//Evil Spirit Master 1
+
+487				000			500			1000	    15			//Evil Spirit Master 2
+487				501			*		    1000		25			//Evil Spirit Master 2
+
+//SkillIndex  	MinSpeed	MaxSpeed	MaxDelay	MaxCount	Comment
+13				000			250			1000		15			//Cometfall
+13				251			500		    1000		25			//Cometfall
+13				501		    1000		1000		35			//Cometfall
+13				3000		*		    1000		45			//Cometfall 
+
+382				000			250			1000		15			//Cometfall Master
+382				251			500		    1000		25			//Cometfall Master 
+382				501		    1000		1000		35			//Cometfall Master 
+382				3000		*		    1000		45			//Cometfall Master 
+//SkillIndex  	MinSpeed	MaxSpeed	MaxDelay	MaxCount	Comment
+38				000			250			1000		15			//Decay
+38				251			500		    1000		20			//Decay
+38				501		    1000		1000		25			//Decay
+38				1001		*		    1000		30			//Decay 
+
+387				000			250			1000		15			//Decay Master
+387				251			500		    1000		20			//Decay Master 
+387				501		    1000		1000		25			//Decay Master 
+387				1001		*		    1000		30			//Decay Master 
+//SkillIndex  	MinSpeed	MaxSpeed	MaxDelay	MaxCount	Comment
+39				000			250			1000		15			//Ice Storm
+39				251			500		    1000		20			//Ice Storm
+39				501		    1000		1000		25			//Ice Storm
+39				1001		*		    1000		30			//Ice Storm
+
+391				000			250			1000		15			//Ice Storm Master 1
+391				251			500		    1000		20			//Ice Storm Master 1
+391				501		    1000		1000		25			//Ice Storm Master 1
+391				1001		*		    1000		30			//Ice Storm Master 1
+
+393				000			250			1000		15			//Ice Storm Master 2
+393				251			500		    1000		20			//Ice Storm Master 2
+393				501		    1000		1000		25			//Ice Storm Master 2
+393				1001		*		    1000		30			//Ice Storm Master 2
+//=================================================================================================================================================================================================================================================================================================================
+//DK
+//=================================================================================================================================================================================================================================================================================================================
+//SkillIndex  	MinSpeed	MaxSpeed	MaxDelay	MaxCount	Comment
+22				000			105			1000		5			//Cyclone
+22				106			*			1000		10			//Cyclone
+326				000			105			1000		5			//Cyclone Master 1
+326				106			*			1000		10			//Cyclone Master 1
+479				000			105			1000		5			//Cyclone Master 2
+479				106			*			1000		10			//Cyclone Master 2
+//SkillIndex  	MinSpeed	MaxSpeed	MaxDelay	MaxCount	Comment
+41				000			250		    1000		20			//Twisting Slash
+41				251			500		    1000		25			//Twisting Slash
+41				1001		1500		1000		35			//Twisting Slash
+41				1501		*	    	1000		45			//Twisting Slash
+
+330				000			250		    1000		20			//Twisting Slash Master 1
+330				251			500		    1000		25			//Twisting Slash Master 1
+330				1001		1500		1000		35			//Twisting Slash Master 1
+330				1501		*	    	1000		45			//Twisting Slash Master 1
+
+332				000			250		    1000		20			//Twisting Slash Master 2
+332				251			500		    1000		25			//Twisting Slash Master 2
+332				1001		1500		1000		35			//Twisting Slash Master 2
+332				1501		*	    	1000		45			//Twisting Slash Master 2
+//SkillIndex  	MinSpeed	MaxSpeed	MaxDelay	MaxCount	Comment
+42				000			105			1000		2			//Rageful Blow
+42				106			*			1000		3			//Rageful Blow
+331				000			105			1000		2			//Rageful Blow Master
+331				106			*			1000		3			//Rageful Blow
+333				000			105			1000		2			//Rageful Blow Master 2
+333				106			*			1000		3			//Rageful Blow
+//SkillIndex  	MinSpeed	MaxSpeed	MaxDelay	MaxCount	Comment
+43				000			250			1000		7			//Death Stab
+43				251			500		    1000		8			//Death Stab
+43				501		    1000		1000		10			//Death Stab
+43				1001		*   		1000		12			//Death Stab
+336				000			250			1000		7			//Death Stab Master 1
+336				251			500		    1000		8			//Death Stab Master 1
+336				501		    1000		1000		10			//Death Stab Master 1
+336				3001	    *			1000		12			//Death Stab Master 1
+339				000			250			1000		7			//Death Stab Master 2
+339				251			500		    1000		9			//Death Stab Master 2
+339				501		    1000		1000		10			//Death Stab Master 2
+339				3001	    *			1000		12			//Death Stab Master 2
+342				000			250			1000		7			//Death Stab Master 3
+342				251			500		    1000		9			//Death Stab Master 3
+342				501		    1000		1000		10			//Death Stab Master 3
+342				3001	    *			1000		12			//Death Stab Master 3
+//SkillIndex  	MinSpeed	MaxSpeed	MaxDelay	MaxCount	Comment
+44				000			105			1000		5			//Moon Slash
+44				106			*			1000		10			//Moon Slash
+//SkillIndex  	MinSpeed	MaxSpeed	MaxDelay	MaxCount	Comment
+232				000			105			1000		2			//Explotion ChemBang
+232				106			*			1000		4			//Explotion ChemBang
+
+337				000			105			1000		2			//Explotion ChemBang Master 1
+337				106			*			1000		4			//Explotion ChemBang Master 1
+340				000			105			1000		2			//Explotion ChemBang Master 2
+340				106			*			1000		4			//Explotion ChemBang Master 2
+343				000			105			1000		2			//Explotion ChemBang Master 3
+343				106			*			1000		4			//Explotion ChemBang Master 3
+//SkillIndex  	MinSpeed	MaxSpeed	MaxDelay	MaxCount	Comment
+//48				000			*			1000		1			//Greater Life
+//356				000			*			1000		2			//Greater Life Master
+//360				000			*			1000		2			//Greater Life Master 2
+//=================================================================================================================================================================================================================================================================================================================
+//ELF
+//=================================================================================================================================================================================================================================================================================================================
+//SkillIndex  	MinSpeed	MaxSpeed	MaxDelay	MaxCount	Comment
+24				000			250			1000		40			//Triple Shot
+24				251			500		    1000		45			//Triple Shot
+24				501		    1000		1000		50			//Triple Shot
+24				1001		*		    1000		50			//Triple Shot
+414				000			250			1000		40			//Triple Shot Master 1
+414				251			500		    1000		45			//Triple Shot Master 1
+414				501		    1000		1000		50			//Triple Shot Master 1
+414				1001		*		    1000		50			//Triple Shot Master 1
+418				000			250			1000		40			//Triple Shot Master 2
+418				251			500		    1000		45			//Triple Shot Master 2
+418				501		    1000		1000		50			//Triple Shot Master 2
+418				1001		*		    1000		50			//Triple Shot Master 2
+//SkillIndex  	MinSpeed	MaxSpeed	MaxDelay	MaxCount	Comment
+235				000			250			1000		35			//Five Shot   
+235				251			500		    1000		45			//Five Shot
+235				501		    1000		1000		60			//Five Shot
+235				1001		*   		1000		60			//Five Shot
+411				000			250			1000		35			//Five Shot Master 1
+411				251			500		    1000		45			//Five Shot Master 1
+411				501		    1000		1000		60			//Five Shot Master 1
+411				1001		*   		1000		60			//Five Shot Master 1
+431				000			250			1000		35			//Five Shot Master 2
+431				251			500		    1000		45			//Five Shot Master 2
+431				501		    1000		1000		60			//Five Shot Master 2
+431				1001		*   		1000		60			//Five Shot Master 2
+//SkillIndex  	MinSpeed	MaxSpeed	MaxDelay	MaxCount	Comment
+264				000			250			1000		5			//Heal
+264				501		    *			1000		8			//Heal 
+413				000			250			1000		5			//Heal Master 1
+413				501			*			1000		8			//Heal Master 1
+//SkillIndex  	MinSpeed	MaxSpeed	MaxDelay	MaxCount	Comment
+46				000			250			1000		15			//Starfall
+46				251			500		    1000		20			//Starfall
+46				1001		*			1000		25			//Starfall
+//SkillIndex  	MinSpeed	MaxSpeed	MaxDelay	MaxCount	Comment
+52				000			250			1000		20			//Penetration
+52				251			500		    1000		30			//Penetration
+52				501		    1000		1000		35			//Penetration
+52				1001		*		    1000		40			//Penetration
+416				000			250			1000		20			//Penetration Master 1
+416				251			500		    1000		30			//Penetration Master 1
+416				501		    1000		1000		35			//Penetration Master 1
+416				1001		*		    1000		40			//Penetration Master 1
+//SkillIndex  	MinSpeed	MaxSpeed	MaxDelay	MaxCount	Comment
+51				000			250			1000		3			//Ice Arrow
+51				501			*			1000		5			//Ice Arrow
+424				000			250			1000		3			//Ice Arrow Master 1
+424				501			*			1000		5			//Ice Arrow Master 1
+//=================================================================================================================================================================================================================================================================================================================
+//SM
+//=================================================================================================================================================================================================================================================================================================================
+//SkillIndex  	MinSpeed	MaxSpeed	MaxDelay	MaxCount	Comment
+214				000			250			1000		15			//Drain Life
+214				251			500		    1000		25			//Drain Life
+214				501		    1000		1000		30			//Drain Life
+214				1001		*   		1000		40			//Drain Life
+458				000			250			1000		15			//Drain Life Master 1
+458				251			500		    1000		25			//Drain Life Master 1
+458				501		    1000		1000		30			//Drain Life Master 1
+458				1001		*   		1000		40			//Drain Life Master 1
+462				000			250			1000		15			//Drain Life Master 2
+462				251			500		    1000		25			//Drain Life Master 2
+462				501		    1000		1000		30			//Drain Life Master 2
+462				1001		*	    	1000		40			//Drain Life Master 2
+//SkillIndex  	MinSpeed	MaxSpeed	MaxDelay	MaxCount	Comment
+215				000			250			1000		15			//Chain Lightning
+215				251			500		    1000		20			//Chain Lightning
+215				501		    1000		1000		30			//Chain Lightning
+215				1001		*			1000		40			//Chain Lightning
+455				000			250			1000		15			//Chain Lightning Master
+455				251			500		    1000		20			//Chain Lightning Master
+455				501		    1000		1000		30			//Chain Lightning Master
+455				1001		*			1000		40			//Chain Lightning Master
+//SkillIndex  	MinSpeed	MaxSpeed	MaxDelay	MaxCount	Comment
+216				000			250			1000		8			//Electric Surge
+216				251			500		    1000		10			//Electric Surge
+216				501		    1000		1000		20			//Electric Surge
+216				3001		1000		1000		25			//Electric Surge
+//SkillIndex  	MinSpeed	MaxSpeed	MaxDelay	MaxCount	Comment
+230				000			250			1000		20			//Red Storm
+230				251			500		    1000		30			//Red Storm
+230				501		    1000		1000		40			//Red Storm
+230				1001		*		    1000		50			//Red Storm
+456				000			250			1000		20			//Red Storm Master 1
+456				251			500		    1000		30			//Red Storm Master 1
+456				501		    1000		1000		40			//Red Storm Master 1
+456				1001		*		    1000		50			//Red Storm Master 1
+
+//SkillIndex  	MinSpeed	MaxSpeed	MaxDelay	MaxCount	Comment
+223				000			250			1000		5			//Sahamutt
+223				251			500		    1000		8			//Sahamutt
+223				501		    1000		1000		15			//Sahamutt
+223				1001		*   		1000		20			//Sahamutt
+//=================================================================================================================================================================================================================================================================================================================
+//MG
+//=================================================================================================================================================================================================================================================================================================================
+//SkillIndex  	MinSpeed	MaxSpeed	MaxDelay	MaxCount	Comment
+55				000			250			1000		20			//Fire Slash
+55				251			500		    1000		25			//Fire Slash
+55				501		    1000		1000		30			//Fire Slash
+55				1001		*		    1000		35			//Fire Slash
+
+490				000			250			1000		20			//Fire Slash Master 1
+490				251			500		    1000		25			//Fire Slash Master 1
+490				501		    1000		1000		30			//Fire Slash Master 1
+490				1001		*		    1000		35			//Fire Slash Master 1
+
+493				000			250			1000		20			//Fire Slash Master 2
+493				251			500		    1000		25			//Fire Slash Master 2
+493				501		    1000		1000		30			//Fire Slash Master 2
+493				1001		*		    1000		35			//Fire Slash Master 2
+//SkillIndex  	MinSpeed	MaxSpeed	MaxDelay	MaxCount	Comment
+236				000			250			1000		20			//Flame Strike
+236				251			500		    1000		30			//Flame Strike
+236				501		    1000		1000		35			//Flame Strike
+236				1001		*		    1000		40			//Flame Strike
+
+492				000			250			1000		10			//Flame Strike Master 1
+492				251			500		    1000		13			//Flame Strike Master 1
+492				501		    1000		1000		16			//Flame Strike Master 1
+492				1001		*		    1000		20			//Flame Strike Master 1
+
+494				000			250			1000		10			//Flame Strike Master 2
+494				251			500		    1000		13			//Flame Strike Master 2
+494				501		    1000		1000		16			//Flame Strike Master 2
+494				1001		*		    1000		20			//Flame Strike Master 2
+
+//SkillIndex  	MinSpeed	MaxSpeed	MaxDelay	MaxCount	Comment
+237				000			250			1000		10			//GIGANT STORM
+237				251			500		    1000		13			//GIGANT STORM
+237				501		    1000		1000		16			//GIGANT STORM
+237				1001		*		    1000		20			//GIGANT STORM
+
+//SkillIndex  	MinSpeed	MaxSpeed	MaxDelay	MaxCount	Comment
+56				000			250			1000		10			//SKILL ARMA
+56				251			500		    1000		13			//SKILL ARMA
+56				501		    1000		1000		16			//SKILL ARMA
+56				1001		*		    1000		20			//SKILL ARMA
+
+
+
+//=================================================================================================================================================================================================================================================================================================================
+//DL
+//=================================================================================================================================================================================================================================================================================================================
+//SkillIndex  	MinSpeed	MaxSpeed	MaxDelay	MaxCount	Comment
+238				000			250			1000		20			//Birds
+238				251			500		    1000		30  		//Birds
+238				501		    1000		1000		40			//Birds
+238				1001		*		    1000		50			//Birds
+523				000			250			1000		20			//Birds Master 1 
+523				251			500		    1000		30  		//Birds Master 1
+523				501		    1000		1000		40			//Birds Master 1
+523				1001		*		    1000		50			//Birds Master 1
+//SkillIndex  	MinSpeed	MaxSpeed	MaxDelay	MaxCount	Comment
+61				000			250			1000		10			//Fire Burst
+61				501			*			1000		12			//Fire Burst
+508				000			250			1000		10			//Fire Burst Master 1
+508				501			*			1000		12			//Fire Burst Master 1
+514				000			250			1000		10			//Fire Burst Master 2
+514				501			*			1000		12			//Fire Burst Master 2
+//SkillIndex  	MinSpeed	MaxSpeed	MaxDelay	MaxCount	Comment
+78				000			250			1000		20			//Fire Scream
+78				251			500		    1000		25			//Fire Scream
+78				501		    1000		1000		30			//Fire Scream
+78				1001		*		    1000		35			//Fire Scream
+
+518				000			250			1000		20			//Fire Scream Master 1
+518				251			500		    1000		25			//Fire Scream Master 1
+518				501		    1000		1000		30			//Fire Scream Master 1
+518				1001		*		    1000		35			//Fire Scream Master 1
+
+520				000			250			1000		20			//Fire Scream Master 2 
+520				251			500		    1000		25			//Fire Scream Master 2
+520				501		    1000		1000		30			//Fire Scream Master 2
+520				1001		*		    1000		35			//Fire Scream Master 2
+//SkillIndex  	MinSpeed	MaxSpeed	MaxDelay	MaxCount	Comment
+74				000			250			1000		10          //Fire Blast
+74				251			500		    1000		20          //Fire Blast
+74				501		    *   		1000		30          //Fire Blast
+//SkillIndex  	MinSpeed	MaxSpeed	MaxDelay	MaxCount	Comment
+60				000			250			1000		5          //Force
+60				501			*		    1000		10         //Force
+//=================================================================================================================================================================================================================================================================================================================
+//RF
+//=================================================================================================================================================================================================================================================================================================================
+//SkillIndex  	MinSpeed	MaxSpeed	MaxDelay	MaxCount	Comment
+260             000			250			1000		3			//Large Ring Blower
+260             501			*			1000		5			//Large Ring Blower
+551             000			250			1000		3			//Large Ring Blower Master 1
+551             501			*			1000		5			//Large Ring Blower Master 1
+554             000			250			1000		3			//Large Ring Blower Master 2
+554             501			*			1000		5			//Large Ring Blower Master 2
+//SkillIndex  	MinSpeed	MaxSpeed	MaxDelay	MaxCount	Comment
+261				000			250			1000		6			//Upper Beast
+261				500			1000		1000		8			//Upper Beast
+261				1000		3000		1000		10			//Upper Beast
+261				1001		*		    1000		15			//Upper Beast
+552				000			250			1000		6			//Upper Beast Master 1
+552				500			1000		1000		8			//Upper Beast Master 1
+552				1000		3000		1000		10			//Upper Beast Master 1
+552				1001		*		    1000		15			//Upper Beast Master 1
+555				000			250			1000		6			//Upper Beast Master 2
+555				500			1000		1000		8			//Upper Beast Master 2
+555				1000		3000		1000		10			//Upper Beast Master 2
+555				1001		*		    1000		15			//Upper Beast Master 2
+//SkillIndex  	MinSpeed	MaxSpeed	MaxDelay	MaxCount	Comment
+262				000			250			1000		4			//Chain Driver
+262				501			*			1000		5			//Chain Driver
+558				000			250			1000		4			//Chain Driver Master 1
+558				501			*			1000		5			//Chain Driver Master 1
+562				000			250			1000		4			//Chain Driver Master 2
+562				501			*			1000		5			//Chain Driver Master 2
+//SkillIndex  	MinSpeed	MaxSpeed	MaxDelay	MaxCount	Comment
+263				000			250			1000		10			//Dark Side
+263				251			500		    1000		15			//Dark Side
+263				501		    1000		1000		20			//Dark Side
+263				1001		*		    1000		25			//Dark Side
+
+559				000			250			1000		10			//Dark Side Master 1
+559				251			500		    1000		15			//Dark Side Master 1
+559				501		    1000		1000		20			//Dark Side Master 1
+559				1001		*		    1000		25			//Dark Side Master 1
+
+563				000			250			1000		10			//Dark Side Master 2
+563				251			500		    1000		15			//Dark Side Master 2
+563				501		    1000		1000		20			//Dark Side Master 2
+563				1001		*		    1000		25			//Dark Side Master 2
+//SkillIndex  	MinSpeed	MaxSpeed	MaxDelay	MaxCount	Comment
+264				000			250			1000		4			//Dragon Lore
+264				501			*			1000		5			//Dragon Lore
+560				000			250			1000		4			//Dragon Lore Master 1
+560				501			*			1000		5			//Dragon Lore Master 1
+561				000			250			1000		4			//Dragon Lore Masster 2
+561				501			*			1000		5			//Dragon Lore Masster 2
+//SkillIndex  	MinSpeed	MaxSpeed	MaxDelay	MaxCount	Comment
+265				000			250			1000		4			//Dragon Slayer
+265				501			*			1000		5			//Dragon Slayer
+564				000			250			1000		4			//Dragon Slayer Master 1
+564				501			*			1000		5			//Dragon Slayer Master 1
+566				000			250			1000		4			//Dragon Slayer Master 2
+566				501			*			1000		5			//Dragon Slayer Master 2
+//SkillIndex  	MinSpeed	MaxSpeed	MaxDelay	MaxCount	Comment     
+270             000			250			1000		4	        //Phoenix Shot
+270             501			*			1000		5	        //Phoenix Shot		
+end
+
+

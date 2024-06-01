@@ -1,0 +1,156 @@
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+; Language file                   ;
+; ';' for comment                 ;
+; '|' for line change             ;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+[language]
+title=Nederlands
+author=Peter Breur
+version=1.001
+
+;main window
+[1000]
+1001=Bestand(en) toevoegen...
+1002=Map toevoegen...
+1003=Verwijder selectie
+1004=Verwijder alles
+1005=Bewerk...
+1006=Wijzig afmetingen...
+1007=Wijzig formaat...
+1008=Maak watermerk...
+1009=Wijzig rotatie...
+1010=Help
+1011=Installeer/Verwijder snelkoppelingen (menu)...
+1012=Help Online
+1013=Over Image Converter One...
+;file list
+1014=Bestandsnaam
+1015=Resolutie
+1016=Grootte
+1017=Datum
+1018=Volledig pad
+1019=Bestandstype
+1020=Taal
+
+;batch rotate dialog
+[2000]
+2001=Roteerjob
+2002=Pas deze instellingen toe op alle afbeeldingen
+2003=Nieuwe positie
+2004=Huidige positie
+2005=90° rechts
+2006=180° rechts
+2007=90° links
+2008=180° links
+2009=Willekeurige hoek
+2010=Behoud originele grootte
+2011=Achtergrondkleur
+
+
+;files
+[3000]
+3001=Te bewerken bestanden
+
+;output size dialog
+[4000]
+4001=Output opties
+4002=Opslagformaat
+4003=Grafisch formaat
+4004=Config...
+4005=Interpoleermethode
+4006=Afmetingen
+4007=Afmetingen wijzigen?
+4008=Gebruik kleur voor leeg vlak
+4009=Breedte
+4010=Hoogte
+4011=door breedte
+4012=door hoogte
+4013=Behoud verhoudingen
+
+;gif,jpeg,png,tiff.. option dialog
+[5000]
+5001=JPEG opties
+5002=GIF opties
+5003=PNG opties
+5004=TIFF opties
+5005=OK
+5006=Annuleer
+5007=Codec optie
+; jpeg
+5011=Baseline (standaard)
+5012=Progressief
+5013=Optimaliseer
+5014=Grafische kwaliteit
+;gif
+5021=LZW (standaard)
+5022=Geen
+5023=RLE
+;png
+5031=Sequentiëel (not interlaced)
+5032=Doorweefd (interlaced)
+;tiff
+5041=Auto (standaard)
+5042=Geen
+5043=RLE
+5044=Fax
+5045=Pack Bits
+5046=JPEG
+5047=LZW
+
+;watermark dialog
+[6000]
+6001=Watermerk
+6002=Watermerktekst
+6003=Achtergrondkleur
+6004=Doorzichtigheid
+6005=Schaduw
+6006=Kleur
+6007=X-offset
+6008=Y-offset
+6009=Watermerkafbeelding (kleiner dan 200x200)
+6010=Bestandsnaam watermerkafbeelding
+6011=Voorbeeldweergave
+;new features
+6012=Afbeelding breedte
+6013=Afbeelding hoogte
+6014=Datum
+6015=Camera
+6016=Model
+6017=Diafragma
+6018=ISO
+6019=Belichtingstijd
+6020=Scherptediepte
+
+;output dialog
+[7000]
+7001=Outputbestand(en)
+7002=Overschrijf inputbestand(en)
+7003=Output mapnaam:
+7004=Bladeren...
+7005=Bestandsnaam(en)
+7006=Gebruik originele basisnaam als nieuwe basisnaam, bijv.: voorbeeld.jpg
+7007=Gebruik originele bestandsnaam als nieuwe basisnaam, bijv.: voorbeeld.bmp.jpg
+7008=Genereer bestandsnaam-reeks:
+7009=Voorloopnaam:
+7010=Nummerreeks:
+7011=Bijv.
+7012=Waarschuwing: deze optie zal originelen overschrijven. Dit is onherstelbaar!!
+7013=Map [ %s ] bestaat niet!||Moet deze gecreëerd worden?
+
+
+;overwrite prompt dialog
+[8000]
+8001=Overschrijfbevestiging
+8002=Bestand [ %s ] bestaat reeds!||Moet deze worden overschreven?
+8003=Ja
+8004=Ja voor alles
+8005=Overslaan
+8006=Overslaan voor alles
+
+;misc strings
+[9000]
+9001=Installatie succesvol!
+9002=Verwijdering succesvol
+9003=Afmetingen aanpassen(&Z)...
+9004=Alle bestanden écht verwijderen?
+9005=Geselecteerde afbeeldingen écht verwijderen?

@@ -1,0 +1,81 @@
+<BotPet EnableSystem="0" DebugMode="0" RelifeMultLevel_1="10" RelifeMultLevel_2="20">
+    <!--
+	BotLifes = Max Times Bot can Respawn, After that bot will be dead
+	OnlyVip  = This bot is only for VIP users
+	MaxLife  = Will increment it when he level up
+	Class = {0,1,2}={DW,SM,GM} / {16,17,18}={DK,BK,BM} / {32,33,34}={Elf,ME,HE} / {48,49,50}={MG,DM} / {64,65,66}={DL,LE} / {80,81,82}={SU,BS,DS} / {97,98}={RF,FM}
+	-->
+
+    <BotPetCreate>
+	    <Add IndexBot="0" Class="0"  OnlyVip="0" WcoinC="50" WcoinP="0" GlobinPoint="0" RuudCoin="2" MaxLife="500" MaxMana="1000" BotLifes="5" Enable="1" />
+		<Add IndexBot="1" Class="2"  OnlyVip="0" WcoinC="0" WcoinP="0" GlobinPoint="0" RuudCoin="0" MaxLife="500" MaxMana="1000" BotLifes="5" Enable="1" />
+        <Add IndexBot="2" Class="34" OnlyVip="0" WcoinC="0" WcoinP="0" GlobinPoint="0" RuudCoin="0" MaxLife="500" MaxMana="1000" BotLifes="5" Enable="1" />
+        <Add IndexBot="3" Class="66" OnlyVip="0" WcoinC="0" WcoinP="0" GlobinPoint="0" RuudCoin="0" MaxLife="500" MaxMana="1000" BotLifes="5" Enable="0" />
+        <Add IndexBot="4" Class="82" OnlyVip="0" WcoinC="0" WcoinP="0" GlobinPoint="0" RuudCoin="0" MaxLife="500" MaxMana="1000" BotLifes="5" Enable="0" />
+        <Add IndexBot="5" Class="98" OnlyVip="0" WcoinC="0" WcoinP="0" GlobinPoint="0" RuudCoin="0" MaxLife="500" MaxMana="1000" BotLifes="5" Enable="0" />
+        <Add IndexBot="6" Class="18" OnlyVip="0" WcoinC="0" WcoinP="0" GlobinPoint="0" RuudCoin="0" MaxLife="500" MaxMana="1000" BotLifes="5" Enable="0" />
+        <Add IndexBot="7" Class="18" OnlyVip="0" WcoinC="0" WcoinP="0" GlobinPoint="0" RuudCoin="0" MaxLife="500" MaxMana="1000" BotLifes="5" Enable="0" />
+	</BotPetCreate>
+	
+	<!--
+	SlotItem: {0=Sword,1=Shield,2=Helm,3=Armor,4=Pants,5=Gloves,6=Boots,7=Wings,8=Pets}
+	-->
+	
+	<BotPetItems>
+	    <Add IndexBot="0" Slot="0" Type="5" Index="52" Level="15" Opt="63" Enable="1" />
+	    <Add IndexBot="0" Slot="1" Type="6" Index="43" Level="15" Opt="63" Enable="1" />
+	    <Add IndexBot="0" Slot="2" Type="7" Index="186" Level="15" Opt="63" Enable="1" />
+	    <Add IndexBot="0" Slot="3" Type="8" Index="186" Level="15" Opt="63" Enable="1" />
+	    <Add IndexBot="0" Slot="4" Type="9" Index="186" Level="15" Opt="63" Enable="1" />
+	    <Add IndexBot="0" Slot="5" Type="10" Index="186" Level="15" Opt="63" Enable="1" />
+	    <Add IndexBot="0" Slot="6" Type="11" Index="186" Level="15" Opt="63" Enable="1" />
+	    <Add IndexBot="0" Slot="7" Type="12" Index="37" Level="15" Opt="63" Enable="1" />
+		<Add IndexBot="0" Slot="8" Type="13" Index="215" Level="15" Opt="63" Enable="1" />
+		
+	    <Add IndexBot="1" Slot="0" Type="3"  Index="8"  Level="7" Opt="1" Enable="1" />
+	    <Add IndexBot="1" Slot="1" Type="-1" Index="-1" Level="0" Opt="0" Enable="1" />
+	    <Add IndexBot="1" Slot="2" Type="7"  Index="6"  Level="7" Opt="1" Enable="1" />
+	    <Add IndexBot="1" Slot="3" Type="8"  Index="6"  Level="7" Opt="1" Enable="1" />
+	    <Add IndexBot="1" Slot="4" Type="9"  Index="6"  Level="7" Opt="1" Enable="1" />
+	    <Add IndexBot="1" Slot="5" Type="10" Index="6"  Level="7" Opt="1" Enable="1" />
+	    <Add IndexBot="1" Slot="6" Type="11" Index="6"  Level="7" Opt="1" Enable="1" />
+	    <Add IndexBot="1" Slot="7" Type="12" Index="2"  Level="0" Opt="0" Enable="1" />
+		<Add IndexBot="1" Slot="8" Type="13" Index="1"  Level="0" Opt="0" Enable="1" />
+		
+	    <Add IndexBot="2" Slot="0" Type="4"  Index="4"  Level="7" Opt="1" Enable="1" />
+	    <Add IndexBot="2" Slot="1" Type="4"  Index="15" Level="7" Opt="7" Enable="1" />
+	    <Add IndexBot="2" Slot="2" Type="7"  Index="11" Level="7" Opt="1" Enable="1" />
+	    <Add IndexBot="2" Slot="3" Type="8"  Index="11" Level="7" Opt="1" Enable="1" />
+	    <Add IndexBot="2" Slot="4" Type="9"  Index="11" Level="7" Opt="1" Enable="1" />
+	    <Add IndexBot="2" Slot="5" Type="10" Index="11" Level="7" Opt="1" Enable="1" />
+	    <Add IndexBot="2" Slot="6" Type="11" Index="11" Level="7" Opt="1" Enable="1" />
+	    <Add IndexBot="2" Slot="7" Type="12" Index="0"  Level="0" Opt="0" Enable="1" />
+		<Add IndexBot="2" Slot="8" Type="13" Index="0"  Level="0" Opt="0" Enable="1" />
+	</BotPetItems>
+	
+	<!--
+    SkillID:	
+	28	(Greater Damage), 27 (Greater Defense),  16 (Greater Mana Shield),  64 (Critical Damage)
+    48	(Greater Life), 217 (Reflect), 82 (Magic Circle), 129 (Greater Ignore Defense Rate), 130 (Fitness)
+    -->
+	
+	<BotPetSkills>
+	    <Add IndexBot="0" Skill="1" />
+	    <Add IndexBot="0" Skill="2" />
+	    <Add IndexBot="0" Skill="3" />
+	    <Add IndexBot="0" Skill="4" />
+	    <Add IndexBot="0" Skill="5" />
+		
+	    <Add IndexBot="1" Skill="22" />
+	    <Add IndexBot="1" Skill="41" />
+		
+	    <Add IndexBot="2" Skill="24" />
+	    <Add IndexBot="2" Skill="26" />
+	</BotPetSkills>
+	
+	<BotPetSettings>
+	    <Add IndexBot="0" LvlUpLife="2" LvlUpMana="3" LvlUpPower="2" LvlUpDefense="2" LvlUpExp="5" LvlUpMaxLevel="400" />
+		<Add IndexBot="1" LvlUpLife="2" LvlUpMana="1" LvlUpPower="2" LvlUpDefense="3" LvlUpExp="5" LvlUpMaxLevel="400" />
+		<Add IndexBot="2" LvlUpLife="3" LvlUpMana="3" LvlUpPower="2" LvlUpDefense="1" LvlUpExp="5" LvlUpMaxLevel="400" />
+	</BotPetSettings>
+</BotPet>

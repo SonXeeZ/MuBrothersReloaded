@@ -1,0 +1,21 @@
+0
+//AlarmTime   	StandTime   EventTime   CloseTime
+5           	1           10           0          
+end
+
+1
+//Year   Month   Day   DoW   Hour   Minute   Second
+*        *       *     4     15     20       0
+*        *       *     6     15     20       0
+end
+
+2
+//ReqItemIndex   ReqItemLevel   ReqItemCount   EventMap     WaitingGate   StartGate  MinLevel  MaxLevel  MinReset MaxReset  MinMasterReset MaxMasterReset
+  0              0              0              82           466           467        10        * 	 *	  *	    *		   *
+end
+
+//Reward Guild 
+3
+//Cash	Gold	PcCoint
+0	0	0
+end

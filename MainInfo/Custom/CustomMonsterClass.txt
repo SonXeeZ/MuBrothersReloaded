@@ -1,0 +1,12 @@
+//===========================================================================
+//#MonsterID: Index Monster          EX: "(616)"
+//#MonsterName: Name Monster         EX: "Debenter Devilfairy"
+//#Armor: Index Set                  EX: "(0) Bronze"
+//#Weapon1: Index First Weapon       EX: "(22) Bone Blade"
+//#Weapon2: Index Second Weapon      EX: "(26) Flameberge"
+//#Wing: Index Wings                 EX: "(36) Wing of Storm"
+//#Size: Size Monster Class          EX: "1.50"
+//======================================================================================================================================
+//#MonsterID #Type #MonsterName           #Armor  #Weapon1  #Weapon2  #Wing #ItemLevel #ItemExc(0,1) #ItemAcc(0,1) #AnimationID #Size 
+//======================================================================================================================================
+end

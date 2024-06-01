@@ -1,0 +1,43 @@
+[GameServerLicense]
+;==========================================
+;Only for Clients. (System) by CustomerName
+;==========================================
+
+
+;==================================================================================
+; KG_System_GuildUpgrade (Type: 0 -> Disable - Type: 1 -> Enable System)
+;==================================================================================
+KG_System_GuildUpgrade = 0
+
+;==================================================================================
+; KG_System_ActiveInvasion (Type: 0 -> Disable - Type: 1 -> Enable System)
+;==================================================================================
+KG_System_ActiveInvasion = 0
+
+;==================================================================================
+; KG_System_ConnectServer_UserAndBots:
+; -> 0 = User Online (ServerList)
+; -> 1 = User Online + Bots Online (ServerList)
+;==================================================================================
+KG_System_ConnectServer_UserAndBots = 0
+
+;====================================================================================================
+; KG_System_CastleSiegePoint_Type:
+; -> 0 = Original Castle Siege (No Points) (Free License / Premium License)
+; -> 1 = Custom Castle Siege (Guild Points: Guild Scores) (Free License / Premium License)
+; -> 2 = Advanced Custom Castle Siege Points (Licensed Users Only)
+; KG_System_CastleSiegePoint_Debug (0: Disable Logs Debug - 1: Enable Logs Debug)
+;====================================================================================================
+KG_System_CastleSiegePoint_Type = 0
+KG_System_CastleSiegePoint_Debug = 0
+
+;====================================================================================================
+; m_AntiAfk_Enable (Enable System (1) - Disable System(0))
+;====================================================================================================
+m_AntiAfk_Enable = 0
+m_AntiAfk_CheckMinutes = 20
+m_AntiAfk_MaxWarnings = 5
+m_AntiAfk_MoveToGate = 17
+m_AntiAfk_ExceptOffStore = 0
+m_AntiAfk_ExceptOffAttack = 0
+m_AntiAfk_ExceptHelper = 0

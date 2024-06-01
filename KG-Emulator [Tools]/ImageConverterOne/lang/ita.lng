@@ -1,0 +1,156 @@
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+; Language file                   ;
+; ';' for comment                 ;
+; '|' for line change             ;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+[language]
+title=Italian
+author=Fosco Giorgetti
+version=0.99
+
+;main window
+[1000]
+1001=Aggiungi Immagine
+1002=Apri cartella
+1003=Elimina
+1004=Pulisci
+1005=Esegui
+1006=Ridimensiona
+1007=Cambia Formato
+1008=Filigrana
+1009=Rotazione
+1010=Aiuto
+1011=Installa/Disinstalla scorciatoie
+1012=Aiuto on line
+1013=About...
+;file list
+1014=Nome del file
+1015=Risoluzione
+1016=Dimensione
+1017=Data
+1018=Percorso
+1019=Tipo di immagine
+1020=Lingua
+
+;batch rotate dialog
+[2000]
+2001=Rotazione
+2002=Applica i settaggi a tutte le immagini
+2003=Posizione corretta
+2004=Posizione attuale
+2005=90 CW
+2006=180 CW
+2007=90 CCW
+2008=180 CCW
+2009=Angolazione
+2010=Mantieni formato originale
+2011=Colore sfondo
+
+
+;files
+[3000]
+3001=Files da elaborare
+
+;output size dialog
+[4000]
+4001=Opzioni formato output
+4002=Output File Format
+4003=Output Format
+4004=Configura
+4005=Metodo d'interpolazione
+4006=Formato immagine output
+4007=Ridimensionare immagine?
+4008=Usa colore per area vuota
+4009=Larghezza
+4010=Altezza
+4011=Per larghezza
+4012=Per altezza
+4013=Mantieni valori visualizzazione
+
+;gif,jpeg,png,tiff.. option dialog
+[5000]
+5001=Opzioni Jpeg
+5002=Opzioni GIF
+5003=Opzioni Png
+5004=Opzioni Tiff
+5005=OK
+5006=Cancella
+5007=Opzioni Codec
+; jpeg
+5011=Baseline (Default)
+5012=Progressiva
+5013=Ottimizza
+5014=Qualita' immagine
+;gif
+5021=LZW(Default)
+5022=None
+5023=RLE
+;png
+5031=Non interallacciato
+5032=Interallacciato
+;tiff
+5041=Auto(Default)
+5042=None
+5043=RLE
+5044=Fax
+5045=Pack Bits
+5046=JPEG
+5047=LZW
+
+;watermark dialog
+[6000]
+6001=Filigrana
+6002=Opzioni di testo
+6003=Usa colore di sfondo
+6004=Opacita'
+6005=Ombreggiatura
+6006=Colore
+6007=XOffset
+6008=YOffset
+6009=Usa immagine (meno di 200 x 200)
+6010=File immagine filigrana
+6011=Mostrare esempio?
+;new features
+6012=Larghezza immagine
+6013=Altezza immagine
+6014=Data
+6015=Camera
+6016=Modello
+6017=Apertura
+6018=ISO
+6019=Tempo di esposizione
+6020=Focalizzazione
+
+;output dialog
+[7000]
+7001=Opzioni di output
+7002=Sovrascrivere file origine
+7003=Percorso output :
+7004=Sfoglia...
+7005=Definisci file di output
+7006=Usa titolo file originale come nuovo titolo file ,Example:example.jpg
+7007=Usa nome file originale come nuovo nome file, Example:example.bmp.jpg
+7008=Genera sequenza
+7009=Prefisso
+7010=digitazioni
+7011=Esempio
+7012=Avviso:questa opzione sovrascriverà il file originale, che non potra' essere recuperato!!
+7013=La cartella [ %s ] non esiste!||Crea?
+
+
+;overwrite prompt dialog
+[8000]
+8001=Opzioni di sovrascrittura...
+8002=Il file [ %s ] gia' esiste!||Sovrascriverlo?
+8003=Si
+8004=Si a tutti
+8005=Salta
+8006=Salta tutto
+
+;misc strings
+[9000]
+9001=Installazione riuscita!
+9002=Disinstallazione riuscita!
+9003=Ridimensiona immagine(&Z)...
+9004=Vuoi davvero rimuovere tutte le immagini?
+9005=Vuoi davvero eliminare l'immagine selezionata?

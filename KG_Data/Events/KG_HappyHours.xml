@@ -1,0 +1,17 @@
+<HappyHours>
+    <Normal>
+	    <System Enable="1" Minutes="30" ExtraExp="50" ExtraDrop="10" />
+		
+		<Time>
+		    <Date Year="-1" Month="-1" Day="-1" DayOfWeek="-1" Hour="5" Minute="30" Second="0"/>
+		</Time>
+	</Normal>
+	
+	<Master>
+	    <System Enable="1" ExtraExpMaster="20" Minutes="15" />
+		
+		<Time>
+		    <Date Year="-1" Month="-1" Day="-1" DayOfWeek="-1" Hour="8" Minute="30" Second="0"/>
+		</Time>
+	</Master>
+</HappyHours>

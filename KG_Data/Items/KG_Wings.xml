@@ -1,0 +1,11 @@
+<CustomWings>
+    <CreateWings>
+	    	<Wings Index="0" ItemIndex="6428" DefenseConstA="4"  IncDamageConstA="145" IncDamageConstB="2" DecDamageConstA="65" DecDamageConstB="2" OptionIndex1="80" OptionValue1="4" OptionIndex2="85" OptionValue2="1" OptionIndex3="83" OptionValue3="1" NewOptionIndex1="110" NewOptionValue1="5" NewOptionIndex2="111" NewOptionValue2="5" NewOptionIndex3="109" NewOptionValue3="5" NewOptionIndex4="102" NewOptionValue4="5" ModelType="0" ModelName="ConquerorWing" />
+	</CreateWings>
+	
+	<MixWings>
+	<!--
+	    <Mix Category="" Index="" />
+	-->
+	</MixWings>
+</CustomWings>

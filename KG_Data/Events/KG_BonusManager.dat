@@ -1,0 +1,50 @@
+//=====================================================================================================================================
+//=====================================================================================================================================
+//	Index: Una vez más, en este campo debemos volver a colocar el mismo nº de index que hemos colocado en las anteriores secciones.    
+//	BonusIndex: Define el tipo de bonus:                                                                                               
+//	                                                                                                                                   
+//	0= Incrementa la experiencia del servidor en adicional de porcentaje                                                               
+//	1= Incrementa la master experiencia del servidor en adicional de porcentaje                                                        
+//	2= Incrementa el drop de items del servidor en adicional de porcentaje                                                             
+//	3= Incrementa la posibilidad de aumentar el drop de items del archivo "ItemDrop.txt" (x/1000000)                                   
+//	4= Incrementa la posibilidad de aumentar el drop excelent. (x/1000000)                                                             
+//	5= Incrementa la posibilidad de aumentar el drop ancient. (x/1000000)                                                              
+//	6= Aumenta la cantidad de GoblinPoints                                                                                             
+//	7= Aumenta la cantidad de Resets                                                                                                   
+//	8= Aumenta la cantidad de MasterResets                                                                                             
+//	                                                                                                                                   
+//	BonusValue_AL0: Valor que incide sobre el BonuxIndex seleccionado. Solo afecta a las cuentas FREE                                  
+//	BonusValue_AL1: Valor que incide sobre el BonuxIndex seleccionado. Solo afecta a las cuentas VIP 1                                 
+//	BonusValue_AL2: Valor que incide sobre el BonuxIndex seleccionado. Solo afecta a las cuentas VIP 2                                 
+//	BonusValue_AL3: Valor que incide sobre el BonuxIndex seleccionado. Solo afecta a las cuentas VIP 3                                 
+//	                                                                                                                                   
+//	ItemIndex: Número de ItemIndex al que será aplicado el evento. Si deseamos que se aplique a cualquier item, ponemos el valor -1    
+//	Sino recuerdas como calcular el ItemIndex                                                                                          
+//	                                                                                                                                   
+//	ItemLevel: Nivel del item al que será aplicado el evento.                                                                          
+//	                                                                                                                                   
+//	MapNumber: Número de mapa en donde se transcurrirá el evento. Si deseamos que se realizé en cualquier mapa, ponemos el valor -1    
+//	Sino recuerdas el número de cada mapa                                                                                              
+//	                                                                                                                                   
+//	MonsterClass: Número de monster al que será aplicado el evento.                                                                    
+//	                                                                                                                                   
+//	                                                                                                                                   
+//	MonsterLevelMin: Nivel mínimo que deberá tener el monster para que se aplique el evento.                                           
+//	                                                                                                                                   
+//	MonsterLevelMax: Nivel máximo que deberá tener el monster para que se aplique el evento.                                           
+//=====================================================================================================================================
+//=====================================================================================================================================
+0
+//Index   Year   Month   Day   DoW   Hour   Minute   Second
+//0         *      *       *     *     18      18        00
+end
+
+1
+//Index   StartMessage   FinalMessage   BonusTime
+//0         2053			 2054           86400
+end
+
+2
+//Index   BonusIndex   BonusValue_AL0   BonusValue_AL1   BonusValue_AL2   BonusValue_AL3   ItemIndex   ItemLevel   MapNumber   MonsterClass   MonsterLevelMin   MonsterLevelMax
+//0			3			1000000			2000				3000			1000000			*			*			57			*				-1				-1   
+end

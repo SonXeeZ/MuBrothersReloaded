@@ -1,0 +1,47 @@
+[12:48:57] Initializing...
+[12:48:57] Data Server version: DS Compiled at: Mar  8 2024 13:59:14
+[12:48:57] [SocketManager] Server started at port [55960]
+[12:49:01] [ServerManager][0] AddServer (127.0.0.1)
+[12:49:01] [ServerManager][0] ServerInfo (FlyMu) (55901) (0)
+[12:49:04] [SocketManager] WSAAccept() failed with error: 10061
+[12:49:14] [SocketManager] WSAAccept() failed with error: 10061
+[12:49:24] [SocketManager] WSAAccept() failed with error: 10061
+[12:49:34] [SocketManager] WSAAccept() failed with error: 10061
+[12:49:44] [SocketManager] WSAAccept() failed with error: 10061
+[12:49:54] [SocketManager] WSAAccept() failed with error: 10061
+[12:50:04] [SocketManager] WSAAccept() failed with error: 10061
+[12:50:14] [SocketManager] WSAAccept() failed with error: 10061
+[12:50:24] [SocketManager] WSAAccept() failed with error: 10061
+[12:50:34] [SocketManager] WSAAccept() failed with error: 10061
+[12:50:44] [SocketManager] WSAAccept() failed with error: 10061
+[12:50:54] [SocketManager] WSAAccept() failed with error: 10061
+[12:51:04] [SocketManager] WSAAccept() failed with error: 10061
+[12:51:14] [SocketManager] WSAAccept() failed with error: 10061
+[12:51:24] [SocketManager] WSAAccept() failed with error: 10061
+[12:51:34] [SocketManager] WSAAccept() failed with error: 10061
+[12:51:44] [SocketManager] WSAAccept() failed with error: 10061
+[12:51:54] [SocketManager] WSAAccept() failed with error: 10061
+[12:52:04] [SocketManager] WSAAccept() failed with error: 10061
+[12:52:14] [SocketManager] WSAAccept() failed with error: 10061
+[12:52:24] [SocketManager] WSAAccept() failed with error: 10061
+[12:52:34] [SocketManager] WSAAccept() failed with error: 10061
+[12:52:44] [SocketManager] WSAAccept() failed with error: 10061
+[12:52:54] [SocketManager] WSAAccept() failed with error: 10061
+[12:53:04] [SocketManager] WSAAccept() failed with error: 10061
+[12:53:14] [SocketManager] WSAAccept() failed with error: 10061
+[12:53:24] [SocketManager] WSAAccept() failed with error: 10061
+[12:53:34] [SocketManager] WSAAccept() failed with error: 10061
+[12:53:44] [SocketManager] WSAAccept() failed with error: 10061
+[12:53:54] [SocketManager] WSAAccept() failed with error: 10061
+[12:54:04] [SocketManager] WSAAccept() failed with error: 10061
+[12:54:14] [SocketManager] WSAAccept() failed with error: 10061
+[12:54:25] [SocketManager] WSAAccept() failed with error: 10061
+[12:54:35] [SocketManager] WSAAccept() failed with error: 10061
+[12:54:45] [SocketManager] WSAAccept() failed with error: 10061
+[12:54:55] [SocketManager] WSAAccept() failed with error: 10061
+[12:55:05] [SocketManager] WSAAccept() failed with error: 10061
+[12:55:15] [SocketManager] WSAAccept() failed with error: 10061
+[12:55:25] [SocketManager] WSAAccept() failed with error: 10061
+[12:55:35] [SocketManager] WSAAccept() failed with error: 10061
+[12:55:45] [SocketManager] WSAAccept() failed with error: 10061
+[12:55:55] [SocketManager] WSAAccept() failed with error: 10061

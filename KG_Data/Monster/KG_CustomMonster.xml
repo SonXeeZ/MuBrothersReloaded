@@ -1,0 +1,18 @@
+<CustomMonster>
+    <CreateMonster>
+	<!--
+	<Monster Index="636" MapID="87" MaxLife="10000" DamageMin="-1" DamageMax="-1" Defense="-1" AttackRate="-1" DefenseRate="-1" ExperienceRate="10000" KillMessage="4501" InfoMessage="-1" RewardValue1="-1" RewardValue2="-1" RewardValue3="0" RewardValue4="0" SummonMonster="637" SummonMonsterCount="1" SummonMonster2="635" SummonMonsterCount2="3" SummonMonster3="-1" SummonMonsterCount3="-1" />
+    -->
+	</CreateMonster>
+	
+    <MonsterSkill>
+	<!--
+	<Skill MonsterID="636" MonsterSkill1="38" />
+	-->
+    </MonsterSkill>
+	
+	<MonsterReward Enable="0">
+	    <Reward MonsterID="30" MapNumber="00" WCoinC="10" WCoinP="10" GPoint="10" />
+	    <Reward MonsterID="31" MapNumber="02" WCoinC="10" WCoinP="10" GPoint="10" />
+	</MonsterReward>
+</CustomMonster>
