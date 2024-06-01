@@ -1,3 +1,0 @@
-09:32:37 Connected to database
-12:45:59 Connected to database
-14:53:41 Connected to database
