@@ -2,3 +2,15 @@
 *.log
 
 StartUp/Configuration/
+
+4. KG_GameServer/LOG/CONNECT_LOG/
+
+4. KG_GameServer/LOG/CHAT_LOG/
+
+4. KG_GameServer/LOG/CASH_SHOP_LOG/
+
+4. KG_GameServer/LOG/LOG_GAMESERVER/
+
+4. KG_GameServer/LOG/LUA_LOG/
+
+KG-Emulator \[Tools\]/KG_Editor Monedas\+Ruud/
