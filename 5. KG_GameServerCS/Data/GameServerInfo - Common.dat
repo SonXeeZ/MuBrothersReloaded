@@ -27,14 +27,14 @@ NewCloseServer = 1
 ; LangServer (3: Heb.txt - 4: Tha.txt - 5: Chn.txt)
 ; LangServer (6: Kor.txt (MuServer/KG_Data/Langs))
 ;==================================================
-ServerLanguage = 1
+ServerLanguage = 0
 
 ;==================================================
 ; Connection Settings
 ;==================================================
-DataServerAddress = 185.65.68.126
+DataServerAddress = 127.0.0.1
 DataServerPort = 55960
-JoinServerAddress = 185.65.68.126
+JoinServerAddress = 127.0.0.1
 JoinServerPort = 55970
 ConnectServerAddress = 185.65.68.126
 ConnectServerPort = 55557
@@ -438,7 +438,7 @@ DieMonsterSwitch = 1
 
 ;==================================================
 ; Online User System
-; Exibe mensagem de conexão Gm/Player.
+; Exibe mensagem de conexï¿½o Gm/Player.
 ;==================================================
 OnlineGmSwitch = 1
 OnlineUserSwitch = 1
@@ -446,13 +446,13 @@ OnlineUserSwitch = 1
 ;==================================================
 ; Disable exp message (Premium)
 ; Desabilita a mensagem de experiencia ganha ao matar um mob.
-; Só é exibida quando sobe de level.
+; Sï¿½ ï¿½ exibida quando sobe de level.
 ;==================================================
 DisableExpMessage = 1
 
 ;==================================================
 ; Remover Recuo (Premium)
-; Remove o recuo/empurrão das skills
+; Remove o recuo/empurrï¿½o das skills
 ;==================================================
 DisableLightningEffect = 0
 DisableCycloneEffect = 0
