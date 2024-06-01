@@ -15,5 +15,5 @@
             1            "Reset"           "Person:"    "Resets:"
 	    2            "Level"           	"Person:"    "Level:"
 	    3            "Blood Castle"   	"Person:"    "Points:"
-	    4            "Devil Square"    	Person:"    "Points:"
+	    4            "Devil Square"    	"Person:"    "Points:"
 end
