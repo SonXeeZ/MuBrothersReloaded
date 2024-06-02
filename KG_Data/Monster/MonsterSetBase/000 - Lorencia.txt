@@ -44,60 +44,60 @@ end
 //######################################################################################################################
 //#Monster    #MapNumber    #Range      #BeginPosX     #BeginPosY     #EndPosX    #EndPosY      #Direction     #Quantity
 //######################################################################################################################
-	3		0	0	187		132		187		132		-1		10	//Spider
-	3		0	0	194		125		194		125		-1		10	//Spider
-	3		0	0	199		130		199		130		-1		10	//Spider
-	3		0	0	183		129		183		129		-1		10	//Spider
-	2		0	0	186		112		186		112		-1		10	//Budge Dragon
-	2		0	0	195		141		195		141		-1		10	//Budge Dragon
-	2		0	0	188		155		188		155		-1		10	//Budge Dragon
-	2		0	0	200		144		200		144		-1		10	//Budge Dragon
-	2		0	0	204		139		204		139		-1		10	//Budge Dragon
-	2		0	0	208		130		208		130		-1		6	//Budge Dragon MIXED
-	3		0	0	208		130		208		130		-1		6	//Spider MIXED
-	3		0	0	192		137		192		137		-1		10	//Spider
-	4		0	0	142		37		142		37		-1		10	//Elite Bull Fighter
-	4		0	0	132		39		132		39		-1		10	//Elite Bull Fighter
-	4		0	0	134		41		134		41		-1		10	//Elite Bull Fighter
-	4		0	0	80		126		80		126		-1		10	//Elite Bull Fighter
-	4		0	0	72		117		72		117		-1		10	//Elite Bull Fighter
-	2		0	0	188		119		188		119		-1		10	//Budge Dragon
-	0		0	0	149		77		149		77		-1		10	//Bull Fighter
-	0		0	0	143		63		143		63		-1		10	//Bull Fighter
-	0		0	0	139		76		139		76		-1		10	//Bull Fighter
-	0		0	0	145		70		145		70		-1		10	//Bull Fighter
-	0		0	0	155		67		155		67		-1		10	//Bull Fighter
-	0		0	0	115		73		115		73		-1		20	//HOT SPOT
-	0		0	0	134		85		134		85		-1		10	//Bull Fighter
-	1		0	0	85		116		85		116		-1		10	//Hound
-	2		0	0	177		119		177		119		-1		10	//Budge Dragon
-	1		0	0	87		131		87		131		-1		10	//Hound
-	1		0	0	72		110		72		110		-1		10	//Hound
-	1		0	0	81		107		81		107		-1		10	//Hound
-	4		0	0	150		45		150		45		-1		10	//Elite Bull Fighter
-	1		0	0	90		94		90		94		-1		10	//HOT SPOT
-	4		0	0	90		94		90		94		-1		10	//HOT SPOT
-	5		0	0	95		159		95		159		-1		10	//Hell Hound
-	5		0	0	91		157		91		157		-1		10	//Hell Hound
-	14		0	0	136		183		136		183		-1		10	//Skeleton Warrior
-	14		0	0	130		189		130		189		-1		10	//Skeleton Warrior
-	0		0	0	163		86		163		86		-1		10	//Bull Fighter
-	6		0	0	126		205		126		205		-1		10	//Lich
-	6		0	0	123		209		123		209		-1		10	//Lich
-	8		0	0	168		62		168		62		-1		10	//Poison Bull
-	14		0	0	148		179		148		179		-1		10	//Skeleton Warrior
-	6		0	0	123		182		123		182		-1		10	//Lich
-	6		0	0	124     173		124		173		-1		10	//Lich
-	6		0	0	116		177		116		177		-1		10	//Lich
-	6		0	0	109		177		109		177		-1		10	//Lich
-	7		0	0	56		111		56		111		-1		10	//Giant
-	14		0	0	144		187		144		187		-1		10	//Skeleton Warrior
-	14		0	0	140		217		140		217		-1		10	//HOT SPOT
-	6		0	0	140		217		140		217		-1		10	//HOT SPOT
-	14		0	0	135		201		135		201		-1		6	//Mix Spot
-	6		0	0	135		201		135		201		-1		6	//Mix Spot
-	7		0	0	66		132		66		132		-1		10	//Giant
-	7		0	0	60		112		60		112		-1		10	//Giant
+	3		0	3	187		132		187		132		-1		3	//Spider
+	3		0	3	194		125		194		125		-1		3	//Spider
+	3		0	3	199		130		199		130		-1		3	//Spider
+	3		0	3	183		129		183		129		-1		3	//Spider
+	2		0	3	186		112		186		112		-1		3	//Budge Dragon
+	2		0	3	195		141		195		141		-1		3	//Budge Dragon
+	2		0	3	188		155		188		155		-1		3	//Budge Dragon
+	2		0	3	200		144		200		144		-1		3	//Budge Dragon
+	2		0	3	204		139		204		139		-1		3	//Budge Dragon
+	2		0	3	208		130		208		130		-1		2	//Budge Dragon MIXED
+	3		0	3	208		130		208		130		-1		1	//Spider MIXED
+	3		0	3	192		137		192		137		-1		3	//Spider
+	4		0	3	142		37		142		37		-1		3	//Elite Bull Fighter
+	4		0	3	132		39		132		39		-1		3	//Elite Bull Fighter
+	4		0	3	134		41		134		41		-1		3	//Elite Bull Fighter
+	4		0	3	80		126		80		126		-1		3	//Elite Bull Fighter
+	4		0	3	72		117		72		117		-1		3	//Elite Bull Fighter
+	2		0	3	188		119		188		119		-1		3	//Budge Dragon
+	0		0	3	149		77		149		77		-1		3	//Bull Fighter
+	0		0	3	143		63		143		63		-1		3	//Bull Fighter
+	0		0	3	139		76		139		76		-1		3	//Bull Fighter
+	0		0	3	145		70		145		70		-1		3	//Bull Fighter
+	0		0	3	155		67		155		67		-1		3	//Bull Fighter
+	0		0	3	115		73		115		73		-1		5	//HOT SPOT
+	0		0	3	134		85		134		85		-1		3	//Bull Fighter
+	1		0	3	85		116		85		116		-1		3	//Hound
+	2		0	3	177		119		177		119		-1		3	//Budge Dragon
+	1		0	3	87		131		87		131		-1		3	//Hound
+	1		0	3	72		110		72		110		-1		3	//Hound
+	1		0	3	81		107		81		107		-1		3	//Hound
+	4		0	3	150		45		150		45		-1		3	//Elite Bull Fighter
+	1		0	3	90		94		90		94		-1		5	//HOT SPOT
+	4		0	3	90		94		90		94		-1		5	//HOT SPOT
+	5		0	3	95		159		95		159		-1		3	//Hell Hound
+	5		0	3	91		157		91		157		-1		3	//Hell Hound
+	14		0	3	136		183		136		183		-1		3	//Skeleton Warrior
+	14		0	3	130		189		130		189		-1		3	//Skeleton Warrior
+	0		0	3	163		86		163		86		-1		3	//Bull Fighter
+	6		0	3	126		205		126		205		-1		3	//Lich
+	6		0	3	123		209		123		209		-1		3	//Lich
+	8		0	3	168		62		168		62		-1		3	//Poison Bull
+	14		0	3	148		179		148		179		-1		3	//Skeleton Warrior
+	6		0	3	123		182		123		182		-1		3	//Lich
+	6		0	3	124     173		124		173		-1		3	//Lich
+	6		0	3	116		177		116		177		-1		3	//Lich
+	6		0	3	109		177		109		177		-1		3	//Lich
+	7		0	3	56		111		56		111		-1		3	//Giant
+	14		0	3	144		187		144		187		-1		3	//Skeleton Warrior
+	14		0	3	140		217		140		217		-1		5	//HOT SPOT
+	6		0	3	140		217		140		217		-1		5	//HOT SPOT
+	14		0	3	135		201		135		201		-1		1	//Mix Spot
+	6		0	3	135		201		135		201		-1		2	//Mix Spot
+	7		0	3	66		132		66		132		-1		3	//Giant
+	7		0	3	60		112		60		112		-1		3	//Giant
 end
 
 2
