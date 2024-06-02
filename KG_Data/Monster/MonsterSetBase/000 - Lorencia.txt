@@ -30,7 +30,7 @@
 522            00             00         130            127            03             //Jerint the Assistant
 380            00             00         130            125            03             //TEAM X TEAM
 380            00             00         130            129            03             //GUILD X GUILD
-741            00             00         130            118            03             //Jin(RuudShop)
+741            00             00         130            121            03             //Jin(RuudShop)
 742            00             00         137            122            03             //Quest2
 743            00             00         137            133            03             //Quest1
 744            00             00         138            140            01             //MagicFount
