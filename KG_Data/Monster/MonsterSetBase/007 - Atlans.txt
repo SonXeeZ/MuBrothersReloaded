@@ -44,8 +44,6 @@ end
 52	7	3	115	90	115	90	-1	5	//Silver Valkyrie
 52	7	3	76	137	76	137	-1	5	//Silver Valkyrie
 52	7	3	109	138	109	138	-1	5	//Silver Valkyrie
-50	7	3	232	209	232	209	-1	5	//Sea Worm
-50	7	3	234	206	234	206	-1	5	//Sea Worm
 52	7	3	124	146	124	146	-1	5	//Silver Valkyrie
 52	7	3	198	103	198	103	-1	5	//Silver Valkyrie
 52	7	3	146	112	146	112	-1	5	//Silver Valkyrie
