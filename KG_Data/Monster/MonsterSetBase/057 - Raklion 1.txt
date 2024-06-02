@@ -14,39 +14,32 @@ end
 //######################################################################################################################
 //#Monster    #MapNumber    #Range      #BeginPosX     #BeginPosY     #EndPosX    #EndPosY      #Direction     #Quantity
 //######################################################################################################################
-455				57				3			165			222				165			222				-1				5			//spot de Drop Ex700
-455				57				3			182			210				182			210				-1				5			//spot de Drop Ex700
-455				57				3			137			216				137			216				-1				5			//spot de Drop Ex700
-455				57				3			154			184				154			184				-1				5			//spot de Drop Ex700
-562				57				3			42			206				42			206				-1				5			//spot de Drop Ex700
-563				57				3			33			194				33			194				-1				5			//spot de Drop Ex700
-454				57				3			183			188				183			188				-1				5			//spot de Drop Ex700
-562				57				3			48			196				48			196				-1				5			//spot de Drop Ex700
-458				57				3			109			187				109			187				-1				5			//spot de Drop Ex700
-458				57				3			129			185				129			185				-1				5			//spot de Drop Ex700
-458				57				3			95			201				95			201				-1				5			//spot de Drop Ex700
-458				57				3			98			181				98			181				-1				5			//spot de Drop Ex700
-456				57				3			169			193				169			193				-1				5			//spot de Drop Ex700
-456				57				3			157			204				157			204				-1				5			//spot de Drop Ex700
-457				57				3			149			211				149			211				-1				5			//spot de Drop Ex700
-457				57				3			143			198				143			198				-1				5			//spot de Drop Ex700
-563				57				3			25			205				25			205				-1				5			//spot de Drop Ex700
-564				57				3			109			17				109			17				-1				5			//spot de Drop Ex700
-564				57				3			124			17				124			17				-1				5			//spot de Drop Ex700
-565				57				3			87			26				87			26				-1				5			//spot de Drop Ex700
-565				57				3			96			36				96			36				-1				5			//spot de Drop Ex700
-562				57				3			141			32				141			32				-1				5			//spot de Drop Ex700
-562				57				3			137			20				137			20				-1				5			//spot de Drop Ex700
-563				57				3			122			46				122			46				-1				5			//spot de Drop Ex700
-563				57				3			135			46				135			46				-1				5			//spot de Drop Ex700
-564				57				3			43			234				43			234				-1				5			//spot de Drop Ex700
-564				57				3			29			233				29			233				-1				5			//spot de Drop Ex700
-565				57				3			53			209				53			209				-1				5			//spot de Drop Ex700
-565				57				3			53			221				53			221				-1				5			//spot de Drop Ex700
-564				57				3			76			38				76			38				-1				5			//spot de Drop Ex700
-565				57				3			76			25				76			25				-1				5			//spot de Drop Ex700
-562				57				3			61			41				61			41				-1				5			//spot de Drop Ex700
-563				57				3			64			31				64			31				-1				5			//spot de Drop Ex700
+//564		57	3	70	147	70	147	-1	5	//Bad Coolutin
+//563		57	3	75	87	75	87	-1	5	//Bad Ice Giant
+//457		57	3	69	24	69	24	-1	5	//Cooler
+//564		57	3	60	162	60	162	-1	5	//Bad Coolutin
+//563		57	3	32	146	32	146	-1	5	//Bad Ice Giant
+//562		57	3	31	64	31	64	-1	5	//Bad Giant Mammoth
+//562		57	3	36	47	36	47	-1	5	//Bad Giant Mammoth
+//563		57	3	30	115	30	115	-1	5	//Bad Ice Giant
+//562		57	3	41	78	41	78	-1	5	//Bad Giant Mammoth
+//458		57	3	238	115	238	115	-1	5	//Iron Knight
+//458		57	3	216	166	216	166	-1	5	//Iron Knight
+//458		57	3	177	66	177	66	-1	5	//Iron Knight
+//456		57	3	101	195	101	195	-1	5	//Ice Giant
+//458		57	3	181	62	181	62	-1	5	//Iron Knight
+//565		57	3	24	222	24	222	-1	5	//Bad Iron Knight
+//565		57	3	31	198	31	198	-1	5	//Bad Iron Knight
+//565		57	3	45	233	45	233	-1	5	//Bad Iron Knight
+//458		57	3	194	122	194	122	-1	5	//Iron Knight
+//565		57	3	53	215	53	215	-1	5	//Bad Iron Knight
+//457		57	3	135	19	135	19	-1	5	//Cooler
+//455		57	3	144	202	144	202	-1	5	//Giant Mammoth
+//455		57	3	156	202	156	202	-1	5	//Giant Mammoth
+//456		57	3	105	214	105	214	-1	5	//Ice Giant
+//455		57	3	147	224	147	224	-1	5	//Giant Mammoth
+//455		57	3	167	210	167	210	-1	5	//Giant Mammoth
+//454		57	3	186	208	186	208	-1	5	//Ice Walker
 end
 
 2
