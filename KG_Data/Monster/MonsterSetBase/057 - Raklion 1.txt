@@ -14,32 +14,32 @@ end
 //######################################################################################################################
 //#Monster    #MapNumber    #Range      #BeginPosX     #BeginPosY     #EndPosX    #EndPosY      #Direction     #Quantity
 //######################################################################################################################
-//564		57	3	70	147	70	147	-1	5	//Bad Coolutin
-//563		57	3	75	87	75	87	-1	5	//Bad Ice Giant
-//457		57	3	69	24	69	24	-1	5	//Cooler
-//564		57	3	60	162	60	162	-1	5	//Bad Coolutin
-//563		57	3	32	146	32	146	-1	5	//Bad Ice Giant
-//562		57	3	31	64	31	64	-1	5	//Bad Giant Mammoth
-//562		57	3	36	47	36	47	-1	5	//Bad Giant Mammoth
-//563		57	3	30	115	30	115	-1	5	//Bad Ice Giant
-//562		57	3	41	78	41	78	-1	5	//Bad Giant Mammoth
-//458		57	3	238	115	238	115	-1	5	//Iron Knight
-//458		57	3	216	166	216	166	-1	5	//Iron Knight
-//458		57	3	177	66	177	66	-1	5	//Iron Knight
-//456		57	3	101	195	101	195	-1	5	//Ice Giant
-//458		57	3	181	62	181	62	-1	5	//Iron Knight
-//565		57	3	24	222	24	222	-1	5	//Bad Iron Knight
-//565		57	3	31	198	31	198	-1	5	//Bad Iron Knight
-//565		57	3	45	233	45	233	-1	5	//Bad Iron Knight
-//458		57	3	194	122	194	122	-1	5	//Iron Knight
-//565		57	3	53	215	53	215	-1	5	//Bad Iron Knight
-//457		57	3	135	19	135	19	-1	5	//Cooler
-//455		57	3	144	202	144	202	-1	5	//Giant Mammoth
-//455		57	3	156	202	156	202	-1	5	//Giant Mammoth
-//456		57	3	105	214	105	214	-1	5	//Ice Giant
-//455		57	3	147	224	147	224	-1	5	//Giant Mammoth
-//455		57	3	167	210	167	210	-1	5	//Giant Mammoth
-//454		57	3	186	208	186	208	-1	5	//Ice Walker
+564		57	3	70	147	70	147	-1	5	//Bad Coolutin
+563		57	3	75	87	75	87	-1	5	//Bad Ice Giant
+457		57	3	69	24	69	24	-1	5	//Cooler
+564		57	3	60	162	60	162	-1	5	//Bad Coolutin
+563		57	3	32	146	32	146	-1	5	//Bad Ice Giant
+562		57	3	31	64	31	64	-1	5	//Bad Giant Mammoth
+562		57	3	36	47	36	47	-1	5	//Bad Giant Mammoth
+563		57	3	30	115	30	115	-1	5	//Bad Ice Giant
+562		57	3	41	78	41	78	-1	5	//Bad Giant Mammoth
+458		57	3	238	115	238	115	-1	5	//Iron Knight
+458		57	3	216	166	216	166	-1	5	//Iron Knight
+458		57	3	177	66	177	66	-1	5	//Iron Knight
+456		57	3	101	195	101	195	-1	5	//Ice Giant
+458		57	3	181	62	181	62	-1	5	//Iron Knight
+565		57	3	24	222	24	222	-1	5	//Bad Iron Knight
+565		57	3	31	198	31	198	-1	5	//Bad Iron Knight
+565		57	3	45	233	45	233	-1	5	//Bad Iron Knight
+458		57	3	194	122	194	122	-1	5	//Iron Knight
+565		57	3	53	215	53	215	-1	5	//Bad Iron Knight
+457		57	3	135	19	135	19	-1	5	//Cooler
+455		57	3	144	202	144	202	-1	5	//Giant Mammoth
+455		57	3	156	202	156	202	-1	5	//Giant Mammoth
+456		57	3	105	214	105	214	-1	5	//Ice Giant
+455		57	3	147	224	147	224	-1	5	//Giant Mammoth
+455		57	3	167	210	167	210	-1	5	//Giant Mammoth
+454		57	3	186	208	186	208	-1	5	//Ice Walker
 end
 
 2
