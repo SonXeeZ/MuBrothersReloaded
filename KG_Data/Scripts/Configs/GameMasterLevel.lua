@@ -5,7 +5,7 @@ Username - PlayerName - Level
 
 GAME_MASTER_LEVEL = {}
 
-GAME_MASTER_LEVEL['Admin'] = { characterName = 'Admin', level = 2 }
+GAME_MASTER_LEVEL['Admin'] = { characterName = 'Admin', level = 1 }
 
 function CheckGameMasterLevel(account, name, level)
     local gamemaster = GAME_MASTER_LEVEL[account]
