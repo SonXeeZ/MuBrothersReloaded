@@ -16,18 +16,18 @@
 	//DirBot        = Direction the bot will be looking at.
     -->
     <CreateBot>
-	    <NewBot IndexBot="0" ClassBot="34" SucessRateBot="100" NameBot="Alchemist" IDMapBot="00" CoordXBot="128" CoordYBot="145" DirBot="1" />
+	    <NewBot IndexBot="1" ClassBot="2" SucessRateBot="100" NameBot="Trader Alchemist" IDMapBot="00" CoordXBot="138" CoordYBot="140" DirBot="1" />
     </CreateBot>
 	<!--
 	//SlotItemBot   = {1 Weapon, 2 Helm, 3 Amor, Pants, 5 Gloves, 6 Boots, 7 Wings, 8 Pet}
     -->
 	<ItemBot>
-	    <ItemsBot IndexBot="0" SlotItemBot="2" TypeItemBot="7" IndexItemBot="9" LevelItemBot="15" OptionItemBot="63"/>
 	    <ItemsBot IndexBot="0" SlotItemBot="3" TypeItemBot="8" IndexItemBot="9" LevelItemBot="15" OptionItemBot="63"/>
 	    <ItemsBot IndexBot="0" SlotItemBot="4" TypeItemBot="9" IndexItemBot="9" LevelItemBot="15" OptionItemBot="63"/>
 	    <ItemsBot IndexBot="0" SlotItemBot="5" TypeItemBot="10" IndexItemBot="9" LevelItemBot="15" OptionItemBot="63"/>
 	    <ItemsBot IndexBot="0" SlotItemBot="6" TypeItemBot="11" IndexItemBot="9" LevelItemBot="15" OptionItemBot="63"/>
-	    <ItemsBot IndexBot="0" SlotItemBot="7" TypeItemBot="12" IndexItemBot="36" LevelItemBot="15" OptionItemBot="63"/>
+	    <ItemsBot IndexBot="0" SlotItemBot="7" TypeItemBot="12" IndexItemBot="38" LevelItemBot="15" OptionItemBot="63"/>
+		<ItemsBot IndexBot="0" SlotItemBot="8" TypeItemBot="13" IndexItemBot="67" LevelItemBot="15" OptionItemBot="63"/>
     </ItemBot>
 	<!--
 	//MoveOpLevelBot  = Move the object level

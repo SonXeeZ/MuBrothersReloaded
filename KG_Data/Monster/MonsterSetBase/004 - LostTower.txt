@@ -160,30 +160,75 @@ end
 //######################################################################################################################
 //#Monster    #MapNumber    #Range      #BeginPosX     #BeginPosY     #EndPosX    #EndPosY      #Direction     #Quantity
 //######################################################################################################################
-35				4				3			105			169				105			169				1				5			//Death Gorgon
-35				4				3			14			87				14			87				1				5			//Death Gorgon
-40				4				3			31			88				31			88				1				5			//Death Knight
-34				4				3			96			177				96			177				1				5			//Cursed Wizard
-41				4				3			95			170				95			170				1				5			//Death Cow
-40				4				3			99			173				99			173				1				5			//Death Knight
-35				4				3			32			109				32			109				1				5			//Death Gorgon
-35				4				3			53			116				53			116				1				5			//Death Gorgon
-40				4				3			55			117				55			117				1				5			//Death Knight
-40				4				3			53			88				53			88				1				5			//Death Knight
-40				4				3			53			98				53			98				1				5			//Death Knight
-35				4				3			31			100				31			100				1				5			//Death Gorgon
-36				4				3			201			101				201			101				1				5			//Shadow
-34				4				3			193			111				193			111				1				5			//Cursed Wizard
-34				4				3			203			112				203			112				1				5			//Cursed Wizard
-36				4				3			200			88				200			88				1				5			//Shadow
-36				4				3			207			89				207			89				1				5			//Shadow
-36				4				3			213			89				213			89				1				5			//Shadow
-34				4				3			223			248				223			248				1				5			//Cursed Wizard
-34				4				3			206			249				206			249				1				5			//Cursed Wizard
-36				4				3			217			248				217			248				1				5			//Shadow
-34				4				3			239			240				239			240				1				5			//Cursed Wizard
-39				4				3			238			248				238			248				1				5			//Poison Shadow
-39				4				3			231			248				231			248				1				5			//Poison Shadow
+35	4	3	4	103	4	103	-1	5	//Death Gorgon
+35	4	3	53	116	53	116	-1	5	//Death Gorgon
+35	4	3	24	130	24	130	-1	5	//Death Gorgon
+35	4	3	16	131	16	131	-1	5	//Death Gorgon
+39	4	3	230	248	230	248	-1	5	//Poison Shadow
+39	4	3	215	248	215	248	-1	5	//Poison Shadow
+39	4	3	187	248	187	248	-1	5	//Poison Shadow
+39	4	3	178	248	178	248	-1	5	//Poison Shadow
+35	4	3	31	86	31	86	-1	5	//Death Gorgon
+38	4	3	37	234	37	234	-1	5	//Balrog
+38	4	3	22	214	22	214	-1	5	//Balrog
+35	4	3	52	136	52	136	-1	5	//Death Gorgon
+40	4	3	19	86	19	86	-1	5	//Death Knight
+35	4	3	54	49	54	49	-1	5	//Death Gorgon
+35	4	3	54	25	54	25	-1	5	//Death Gorgon
+35	4	3	31	33	31	33	-1	5	//Death Gorgon
+40	4	3	54	16	54	16	-1	5	//Death Knight
+40	4	3	130	41	130	41	-1	5	//Death Knight 
+40	4	3	130	41	130	41	-1	5	//Death Knight
+40	4	3	112	41	112	41	-1	5	//Death Knight
+40	4	3	99	41	99	41	-1	5	//Death Knight
+40	4	3	84	41	84	41	-1	5	//Death Knight
+40	4	3	85	25	85	25	-1	5	//Death Knight
+40	4	3	99	25	99	25	-1	5	//Death Knight
+40	4	3	112	25	112	25	-1	5	//Death Knight
+40	4	3	127	25	127	25	-1	5	//Death Knight
+40	4	3	125	8	125	8	-1	5	//Death Knight
+40	4	3	112	8	112	8	-1	5	//Death Knight
+40	4	3	84	8	84	8	-1	5	//Death Knight
+38	4	3	23	234	23	234	-1	5	//Balrog
+35	4	3	15	103	15	103	-1	5	//Death Gorgon
+35	4	3	6	18	6	18	-1	5	//Death Gorgon
+38	4	3	29	214	29	214	-1	5	//Balrog
+35	4	3	53	92	53	92	-1	5	//Death Gorgon
+39	4	3	164 126 164 126	-1	5	//Poison Shadow
+41	4	3	86	134	86	134	-1	5	//Death Cow
+39	4	3	238	241	238	241	-1	5	//Poison Shadow
+36	4	3	219 82 219 82	-1	5	//Shadow
+41	4	3	86	109	86	109	-1	5	//Death Cow
+41	4	3	133	89	133	89	-1	5	//Death Cow
+41	4	3	102	135	102	135	-1	5	//Death Cow
+34	4	3	114	210	114	210	-1	5	//Cursed Wizard
+34	4	3	107	171	107	171	-1	5	//Cursed Wizard
+34	4	3	96	171	96	171	-1	5	//Cursed Wizard
+34	4	3	83	193	83	193	-1	5	//Cursed Wizard
+34	4	3	83	211	83	211	-1	5	//Cursed Wizard
+41	4	3	84	246	84	246	-1	5	//Death Cow
+41	4	3	126	134	126	134	-1	5	//Death Cow
+41	4	3	133	115	133	115	-1	5	//Death Cow
+41	4	3	102	87	102	87	-1	5	//Death Cow
+41	4	3	120	87	120	87	-1	5	//Death Cow
+34	4	3	84	246	84	246	-1	5	//Cursed Wizard
+39	4	3	164 86 164 86	-1	5	//Poison Shadow
+39	4	3	206 235 206 235	-1	5	//Poison Shadow
+39	4	3	228	236	228	236	-1	5	//Poison Shadow
+39	4	3	211	213	211	213	-1	5	//Poison Shadow
+36	4	3	227 24 227 24	-1	5	//Shadow
+36	4	3	212	89	212	89	-1	5	//Shadow
+36	4	3	204	89	204	89	-1	5	//Shadow
+36	4	3	189	89	189	89	-1	5	//Shadow
+36	4	3	192	98	192	98	-1	5	//Shadow
+36	4	3	197	109	197	109	-1	5	//Shadow
+36	4	3	200	123	200	123	-1	5	//Shadow
+39	4	3	195	51	195	51	-1	7	//HOT SPOT
+36	4	3	210	104	210	104	-1	5	//Shadow
+36	4	3	227 48 	227 48	-1	5	//Shadow
+36	4	3	228	73	228	73	-1	5	//Shadow
+36	4	3	219 109 219 109	-1	5	//Shadow
+35	4	3	39	136	39	136	-1	5	//Death Gorgon
 end
 
 2
