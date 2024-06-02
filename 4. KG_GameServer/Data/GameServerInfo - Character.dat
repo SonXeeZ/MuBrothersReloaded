@@ -13,7 +13,7 @@ CastleSiegeDamageRate3 = 5
 GeneralDamageRatePvP = 100
 GeneralDamageRatePvM = 100
 ReflectDamageRatePvP = 30
-ReflectDamageRatePvM = 0
+ReflectDamageRatePvM = 200
 
 ;==================================================
 ; Character Class Damage Rate Settings
