@@ -3,4 +3,5 @@
 <GameMasterList>
 	<GameMaster Account="HunStarr" Character="Mocsokfej" Level="2" ShowSlogan="1" />
 	<GameMaster Account="SonXeeZ" Character="jolvan" Level="2" ShowSlogan="1" />
+	<GameMaster Account="Admin" Character="Admin" Level="2" ShowSlogan="1" />
 </GameMasterList>
