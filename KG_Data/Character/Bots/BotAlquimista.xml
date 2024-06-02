@@ -16,7 +16,7 @@
 	//DirBot        = Direction the bot will be looking at.
     -->
     <CreateBot>
-	    <NewBot IndexBot="0" ClassBot="2" SucessRateBot="100" NameBot="Alchemist" IDMapBot="00" CoordXBot="138" CoordYBot="140" DirBot="1" />
+	    <NewBot IndexBot="0" ClassBot="2" SucessRateBot="100" NameBot="Alchemist" IDMapBot="00" CoordXBot="140" CoordYBot="140" DirBot="1" />
     </CreateBot>
 	<!--
 	//SlotItemBot   = 1 Weapon, 2 Helm, 3 Amor, Pants, 5 Gloves, 6 Boots, 7 Wings, 8 Pet
