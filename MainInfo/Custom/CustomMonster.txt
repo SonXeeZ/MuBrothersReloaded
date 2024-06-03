@@ -7,4 +7,5 @@
 743		 0		 "Wizard Gillard"				"Data\\Custom\\Monster\\"	"Custom\\Monster\\"		"Gillard"			1.0
 744		 0		 "FountMagic"			    	"Data\\Custom\\Monster\\"	"Custom\\Monster\\"		"N848"		    	0.50
 745		 0		 "Relic Keeper"			    	"Data\\Custom\\Monster\\"	"Custom\\Monster\\"		"Storage01"		    1.0
+746		 0		 "Dl Shop"			    	    "Data\\Custom\\Monster\\"	"Custom\\Monster\\"		"Storage01"		    1.0
 end
