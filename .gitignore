@@ -20,3 +20,9 @@ KG-Emulator \[Tools\]/KG_Editor Monedas\+Ruud/
 4. KG_GameServer/LOG/TRADE_LOG/
 
 4. KG_GameServer/LOG/LUA_EVENT_DELAY_LOG/
+
+4. KG_GameServer/LOG/CHAOS_MIX_LOG/
+
+4. KG_GameServer/LOG/HACK_LOG/
+
+4. KG_GameServer/LOG/INVENTORY_LOG/
