@@ -637,7 +637,7 @@
 894 "You can't buy items with that number of days!"
 895 "Your inventory is full"
 896 "You can choose only %d Excellent Option"
-897 "[%s] Lack %d minutes to start the event"
+897 "[%s] The event starts in %d minutes."
 898 "The time to accept the petition expired."
 899 "You cannot marry at this moment!"
 900 "Your couple is gone."
