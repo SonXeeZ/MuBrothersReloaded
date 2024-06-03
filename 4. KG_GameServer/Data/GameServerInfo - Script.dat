@@ -2,10 +2,10 @@
 ;==========================================================================================================
 ; Scrip_Performance (Type: 0 -> Txt / Type: 1 -> Xml)
 ;==========================================================================================================
-Script_Performance_ItemList = 0
-Script_Performance_ItemType = 0
-Script_Performance_ItemOption = 0
-Script_Performance_ShopList = 0
+Script_Performance_ItemList = 1
+Script_Performance_ItemType = 1
+Script_Performance_ItemOption = 1
+Script_Performance_ShopList = 1
 
 ;==========================================================================================================
 ; MonsterSetBase (Type: 0) -> Monster/KanturuMonsterSetBase.txt - MonsterSetBase( - CS).txt

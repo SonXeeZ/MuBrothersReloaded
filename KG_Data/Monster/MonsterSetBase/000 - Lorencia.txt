@@ -35,7 +35,6 @@
 743            00             00         137            133            03             //Quest1
 744            00             00         138            140            01             //MagicFount
 745            00             00         130            134            03             //Relic Keeper (NpcRescueItems)
-746            00             00         124            144            01             //Dl Shop
 478		        0	           0	     130	        137		        3		      // Lucky Coin Delgado -
 258		        0	           0	     150	        140		        1		      // Leo The Helper - Last Man Standing NPC-
 256		        0	           0	     129	        118		        3		      // Lahap-
