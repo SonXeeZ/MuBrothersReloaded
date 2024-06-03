@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Shop>
+    <Item Cat="15" Index="3" Level="0" Durability="0" Skill="0" Luck="0" Option="0" ExcOp="0" SetOp="0" JoH="0" OEx="0" Socket1="255" Socket2="255" Socket3="255" Socket4="255" Socket5="255" ItemName="Scroll of Fire Ball" />
+    <Item Cat="15" Index="10" Level="0" Durability="0" Skill="0" Luck="0" Option="0" ExcOp="0" SetOp="0" JoH="0" OEx="0" Socket1="255" Socket2="255" Socket3="255" Socket4="255" Socket5="255" ItemName="Scroll of Power Wave" />
+    <Item Cat="15" Index="1" Level="0" Durability="0" Skill="0" Luck="0" Option="0" ExcOp="0" SetOp="0" JoH="0" OEx="0" Socket1="255" Socket2="255" Socket3="255" Socket4="255" Socket5="255" ItemName="Scroll of Meteorite" />
+    <Item Cat="15" Index="6" Level="0" Durability="0" Skill="0" Luck="0" Option="0" ExcOp="0" SetOp="0" JoH="0" OEx="0" Socket1="255" Socket2="255" Socket3="255" Socket4="255" Socket5="255" ItemName="Scroll of Ice" />
+    <Item Cat="15" Index="20" Level="0" Durability="0" Skill="0" Luck="0" Option="0" ExcOp="0" SetOp="0" JoH="0" OEx="0" Socket1="255" Socket2="255" Socket3="255" Socket4="255" Socket5="255" ItemName="Drain Life Parchment" />
+    <Item Cat="15" Index="21" Level="0" Durability="0" Skill="0" Luck="0" Option="0" ExcOp="0" SetOp="0" JoH="0" OEx="0" Socket1="255" Socket2="255" Socket3="255" Socket4="255" Socket5="255" ItemName="Lightning Shock Parchment" />
+    <Item Cat="15" Index="22" Level="0" Durability="0" Skill="0" Luck="0" Option="0" ExcOp="0" SetOp="0" JoH="0" OEx="0" Socket1="255" Socket2="255" Socket3="255" Socket4="255" Socket5="255" ItemName="Damage Reflection Parchment" />
+    <Item Cat="15" Index="23" Level="0" Durability="0" Skill="0" Luck="0" Option="0" ExcOp="0" SetOp="0" JoH="0" OEx="0" Socket1="255" Socket2="255" Socket3="255" Socket4="255" Socket5="255" ItemName="Berserker Parchment" />
+    <Item Cat="15" Index="24" Level="0" Durability="0" Skill="0" Luck="0" Option="0" ExcOp="0" SetOp="0" JoH="0" OEx="0" Socket1="255" Socket2="255" Socket3="255" Socket4="255" Socket5="255" ItemName="Sleep Parchment" />
+</Shop>

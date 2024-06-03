@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Shop>
+    <Item Cat="0" Index="16" Level="3" Durability="0" Skill="1" Luck="1" Option="3" ExcOp="0" SetOp="0" JoH="0" OEx="0" Socket1="255" Socket2="255" Socket3="255" Socket4="255" Socket5="255" ItemName="Sword of Destruction" />
+    <Item Cat="2" Index="8" Level="3" Durability="0" Skill="1" Luck="1" Option="3" ExcOp="0" SetOp="0" JoH="0" OEx="0" Socket1="255" Socket2="255" Socket3="255" Socket4="255" Socket5="255" ItemName="Battle Scepter" />
+    <Item Cat="2" Index="9" Level="3" Durability="0" Skill="1" Luck="1" Option="3" ExcOp="0" SetOp="0" JoH="0" OEx="0" Socket1="255" Socket2="255" Socket3="255" Socket4="255" Socket5="255" ItemName="Master Scepter" />
+    <Item Cat="4" Index="14" Level="3" Durability="0" Skill="1" Luck="1" Option="3" ExcOp="0" SetOp="0" JoH="0" OEx="0" Socket1="255" Socket2="255" Socket3="255" Socket4="255" Socket5="255" ItemName="Aquagold Crossbow" />
+    <Item Cat="4" Index="16" Level="3" Durability="0" Skill="1" Luck="1" Option="3" ExcOp="0" SetOp="0" JoH="0" OEx="0" Socket1="255" Socket2="255" Socket3="255" Socket4="255" Socket5="255" ItemName="Saint Crossbow" />
+    <Item Cat="5" Index="6" Level="3" Durability="0" Skill="0" Luck="1" Option="3" ExcOp="0" SetOp="0" JoH="0" OEx="0" Socket1="255" Socket2="255" Socket3="255" Socket4="255" Socket5="255" ItemName="Staff of Resurrection" />
+</Shop>

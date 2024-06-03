@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Shop>
+    <Item Cat="7" Index="12" Level="7" Durability="100" Skill="0" Luck="0" Option="1" ExcOp="0" SetOp="0" JoH="0" OEx="0" Socket1="255" Socket2="255" Socket3="255" Socket4="255" Socket5="255" ItemName="Wind Helm" />
+    <Item Cat="7" Index="2" Level="7" Durability="100" Skill="0" Luck="0" Option="1" ExcOp="0" SetOp="0" JoH="0" OEx="0" Socket1="255" Socket2="255" Socket3="255" Socket4="255" Socket5="255" ItemName="Pad Helm" />
+    <Item Cat="7" Index="0" Level="7" Durability="100" Skill="0" Luck="0" Option="1" ExcOp="0" SetOp="0" JoH="0" OEx="0" Socket1="255" Socket2="255" Socket3="255" Socket4="255" Socket5="255" ItemName="Bronze Helm" />
+    <Item Cat="6" Index="13" Level="7" Durability="100" Skill="0" Luck="0" Option="1" ExcOp="0" SetOp="0" JoH="0" OEx="0" Socket1="255" Socket2="255" Socket3="255" Socket4="255" Socket5="255" ItemName="Dragon Shield" />
+    <Item Cat="8" Index="12" Level="7" Durability="100" Skill="0" Luck="0" Option="1" ExcOp="0" SetOp="0" JoH="0" OEx="0" Socket1="255" Socket2="255" Socket3="255" Socket4="255" Socket5="255" ItemName="Wind Armor" />
+    <Item Cat="8" Index="2" Level="7" Durability="100" Skill="0" Luck="0" Option="1" ExcOp="0" SetOp="0" JoH="0" OEx="0" Socket1="255" Socket2="255" Socket3="255" Socket4="255" Socket5="255" ItemName="Pad Armor" />
+    <Item Cat="8" Index="0" Level="7" Durability="100" Skill="0" Luck="0" Option="1" ExcOp="0" SetOp="0" JoH="0" OEx="0" Socket1="255" Socket2="255" Socket3="255" Socket4="255" Socket5="255" ItemName="Bronze Armor" />
+    <Item Cat="8" Index="15" Level="7" Durability="100" Skill="0" Luck="0" Option="1" ExcOp="0" SetOp="0" JoH="0" OEx="0" Socket1="255" Socket2="255" Socket3="255" Socket4="255" Socket5="255" ItemName="Storm Crow Armor" />
+    <Item Cat="9" Index="12" Level="7" Durability="100" Skill="0" Luck="0" Option="1" ExcOp="0" SetOp="0" JoH="0" OEx="0" Socket1="255" Socket2="255" Socket3="255" Socket4="255" Socket5="255" ItemName="Wind Pants" />
+    <Item Cat="9" Index="2" Level="7" Durability="100" Skill="0" Luck="0" Option="1" ExcOp="0" SetOp="0" JoH="0" OEx="0" Socket1="255" Socket2="255" Socket3="255" Socket4="255" Socket5="255" ItemName="Pad Pants" />
+    <Item Cat="9" Index="0" Level="7" Durability="100" Skill="0" Luck="0" Option="1" ExcOp="0" SetOp="0" JoH="0" OEx="0" Socket1="255" Socket2="255" Socket3="255" Socket4="255" Socket5="255" ItemName="Bronze Pants" />
+    <Item Cat="9" Index="15" Level="7" Durability="100" Skill="0" Luck="0" Option="1" ExcOp="0" SetOp="0" JoH="0" OEx="0" Socket1="255" Socket2="255" Socket3="255" Socket4="255" Socket5="255" ItemName="Storm Crow Pants" />
+    <Item Cat="10" Index="12" Level="7" Durability="100" Skill="0" Luck="0" Option="1" ExcOp="0" SetOp="0" JoH="0" OEx="0" Socket1="255" Socket2="255" Socket3="255" Socket4="255" Socket5="255" ItemName="Wind Gloves" />
+    <Item Cat="10" Index="2" Level="7" Durability="100" Skill="0" Luck="0" Option="1" ExcOp="0" SetOp="0" JoH="0" OEx="0" Socket1="255" Socket2="255" Socket3="255" Socket4="255" Socket5="255" ItemName="Pad Gloves" />
+    <Item Cat="10" Index="0" Level="7" Durability="100" Skill="0" Luck="0" Option="1" ExcOp="0" SetOp="0" JoH="0" OEx="0" Socket1="255" Socket2="255" Socket3="255" Socket4="255" Socket5="255" ItemName="Bronze Gloves" />
+    <Item Cat="10" Index="15" Level="7" Durability="100" Skill="0" Luck="0" Option="1" ExcOp="0" SetOp="0" JoH="0" OEx="0" Socket1="255" Socket2="255" Socket3="255" Socket4="255" Socket5="255" ItemName="Storm Crow Gloves" />
+    <Item Cat="11" Index="12" Level="7" Durability="100" Skill="0" Luck="0" Option="1" ExcOp="0" SetOp="0" JoH="0" OEx="0" Socket1="255" Socket2="255" Socket3="255" Socket4="255" Socket5="255" ItemName="Wind Boots" />
+    <Item Cat="11" Index="2" Level="7" Durability="100" Skill="0" Luck="0" Option="1" ExcOp="0" SetOp="0" JoH="0" OEx="0" Socket1="255" Socket2="255" Socket3="255" Socket4="255" Socket5="255" ItemName="Pad Boots" />
+    <Item Cat="11" Index="0" Level="7" Durability="100" Skill="0" Luck="0" Option="1" ExcOp="0" SetOp="0" JoH="0" OEx="0" Socket1="255" Socket2="255" Socket3="255" Socket4="255" Socket5="255" ItemName="Bronze Boots" />
+    <Item Cat="11" Index="15" Level="7" Durability="100" Skill="0" Luck="0" Option="1" ExcOp="0" SetOp="0" JoH="0" OEx="0" Socket1="255" Socket2="255" Socket3="255" Socket4="255" Socket5="255" ItemName="Storm Crow Boots" />
+</Shop>

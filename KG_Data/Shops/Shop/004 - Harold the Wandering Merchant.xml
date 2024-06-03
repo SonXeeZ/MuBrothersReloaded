@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Shop>
+    <Item Cat="12" Index="21" Level="0" Durability="0" Skill="0" Luck="0" Option="0" ExcOp="0" SetOp="0" JoH="0" OEx="0" Socket1="255" Socket2="255" Socket3="255" Socket4="255" Socket5="255" ItemName="Scroll of FireBurst" />
+    <Item Cat="12" Index="22" Level="0" Durability="0" Skill="0" Luck="0" Option="0" ExcOp="0" SetOp="0" JoH="0" OEx="0" Socket1="255" Socket2="255" Socket3="255" Socket4="255" Socket5="255" ItemName="Scroll of Summon" />
+    <Item Cat="12" Index="23" Level="0" Durability="0" Skill="0" Luck="0" Option="0" ExcOp="0" SetOp="0" JoH="0" OEx="0" Socket1="255" Socket2="255" Socket3="255" Socket4="255" Socket5="255" ItemName="Scroll of Critical Damage" />
+    <Item Cat="12" Index="24" Level="0" Durability="0" Skill="0" Luck="0" Option="0" ExcOp="0" SetOp="0" JoH="0" OEx="0" Socket1="255" Socket2="255" Socket3="255" Socket4="255" Socket5="255" ItemName="Scroll of Electric Spark" />
+    <Item Cat="12" Index="35" Level="0" Durability="0" Skill="0" Luck="0" Option="0" ExcOp="0" SetOp="0" JoH="0" OEx="0" Socket1="255" Socket2="255" Socket3="255" Socket4="255" Socket5="255" ItemName="Scroll of Fire Scream" />
+    <Item Cat="12" Index="48" Level="0" Durability="0" Skill="0" Luck="0" Option="0" ExcOp="0" SetOp="0" JoH="0" OEx="0" Socket1="255" Socket2="255" Socket3="255" Socket4="255" Socket5="255" ItemName="Scroll of Chaotic Diseier" />
+    <Item Cat="7" Index="25" Level="7" Durability="100" Skill="0" Luck="0" Option="2" ExcOp="0" SetOp="0" JoH="0" OEx="0" Socket1="255" Socket2="255" Socket3="255" Socket4="255" Socket5="255" ItemName="Light Plate Mask" />
+    <Item Cat="8" Index="25" Level="7" Durability="100" Skill="0" Luck="0" Option="1" ExcOp="0" SetOp="0" JoH="0" OEx="0" Socket1="255" Socket2="255" Socket3="255" Socket4="255" Socket5="255" ItemName="Light Plate Armor" />
+    <Item Cat="9" Index="25" Level="7" Durability="100" Skill="0" Luck="0" Option="1" ExcOp="0" SetOp="0" JoH="0" OEx="0" Socket1="255" Socket2="255" Socket3="255" Socket4="255" Socket5="255" ItemName="Light Plate Pants" />
+    <Item Cat="10" Index="25" Level="7" Durability="100" Skill="0" Luck="0" Option="1" ExcOp="0" SetOp="0" JoH="0" OEx="0" Socket1="255" Socket2="255" Socket3="255" Socket4="255" Socket5="255" ItemName="Light Plate Gloves" />
+    <Item Cat="11" Index="25" Level="7" Durability="100" Skill="0" Luck="0" Option="1" ExcOp="0" SetOp="0" JoH="0" OEx="0" Socket1="255" Socket2="255" Socket3="255" Socket4="255" Socket5="255" ItemName="Light Plate Boots" />
+    <Item Cat="6" Index="5" Level="7" Durability="100" Skill="0" Luck="0" Option="1" ExcOp="0" SetOp="0" JoH="0" OEx="0" Socket1="255" Socket2="255" Socket3="255" Socket4="255" Socket5="255" ItemName="Dragon Slayer Shield" />
+    <Item Cat="6" Index="6" Level="7" Durability="100" Skill="0" Luck="0" Option="1" ExcOp="0" SetOp="0" JoH="0" OEx="0" Socket1="255" Socket2="255" Socket3="255" Socket4="255" Socket5="255" ItemName="Skull Shield" />
+    <Item Cat="6" Index="7" Level="7" Durability="100" Skill="0" Luck="0" Option="1" ExcOp="0" SetOp="0" JoH="0" OEx="0" Socket1="255" Socket2="255" Socket3="255" Socket4="255" Socket5="255" ItemName="Spiked Shield" />
+    <Item Cat="6" Index="8" Level="7" Durability="100" Skill="0" Luck="0" Option="1" ExcOp="0" SetOp="0" JoH="0" OEx="0" Socket1="255" Socket2="255" Socket3="255" Socket4="255" Socket5="255" ItemName="Tower Shield" />
+    <Item Cat="6" Index="9" Level="7" Durability="100" Skill="0" Luck="0" Option="1" ExcOp="0" SetOp="0" JoH="0" OEx="0" Socket1="255" Socket2="255" Socket3="255" Socket4="255" Socket5="255" ItemName="Plate Shield" />
+    <Item Cat="6" Index="10" Level="7" Durability="100" Skill="0" Luck="0" Option="1" ExcOp="0" SetOp="0" JoH="0" OEx="0" Socket1="255" Socket2="255" Socket3="255" Socket4="255" Socket5="255" ItemName="Large Round Shield" />
+    <Item Cat="6" Index="11" Level="7" Durability="100" Skill="0" Luck="0" Option="1" ExcOp="0" SetOp="0" JoH="0" OEx="0" Socket1="255" Socket2="255" Socket3="255" Socket4="255" Socket5="255" ItemName="Serpent Shield" />
+    <Item Cat="6" Index="12" Level="7" Durability="100" Skill="0" Luck="0" Option="1" ExcOp="0" SetOp="0" JoH="0" OEx="0" Socket1="255" Socket2="255" Socket3="255" Socket4="255" Socket5="255" ItemName="Bronze Shield" />
+    <Item Cat="6" Index="13" Level="7" Durability="100" Skill="0" Luck="0" Option="1" ExcOp="0" SetOp="0" JoH="0" OEx="0" Socket1="255" Socket2="255" Socket3="255" Socket4="255" Socket5="255" ItemName="Dragon Shield" />
+    <Item Cat="6" Index="14" Level="7" Durability="100" Skill="0" Luck="0" Option="1" ExcOp="0" SetOp="0" JoH="0" OEx="0" Socket1="255" Socket2="255" Socket3="255" Socket4="255" Socket5="255" ItemName="Legendary Shield" />
+</Shop>

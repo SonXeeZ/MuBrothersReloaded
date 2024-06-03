@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Shop>
+    <Item Cat="15" Index="0" Level="0" Durability="1" Skill="0" Luck="0" Option="0" ExcOp="0" SetOp="0" JoH="0" OEx="0" Socket1="255" Socket2="255" Socket3="255" Socket4="255" Socket5="255" ItemName="Scroll of Poison" />
+    <Item Cat="15" Index="1" Level="0" Durability="1" Skill="0" Luck="0" Option="0" ExcOp="0" SetOp="0" JoH="0" OEx="0" Socket1="255" Socket2="255" Socket3="255" Socket4="255" Socket5="255" ItemName="Scroll of Meteorite" />
+    <Item Cat="15" Index="2" Level="0" Durability="1" Skill="0" Luck="0" Option="0" ExcOp="0" SetOp="0" JoH="0" OEx="0" Socket1="255" Socket2="255" Socket3="255" Socket4="255" Socket5="255" ItemName="Scroll of Lighting" />
+    <Item Cat="15" Index="3" Level="0" Durability="1" Skill="0" Luck="0" Option="0" ExcOp="0" SetOp="0" JoH="0" OEx="0" Socket1="255" Socket2="255" Socket3="255" Socket4="255" Socket5="255" ItemName="Scroll of Fire Ball" />
+    <Item Cat="15" Index="4" Level="0" Durability="1" Skill="0" Luck="0" Option="0" ExcOp="0" SetOp="0" JoH="0" OEx="0" Socket1="255" Socket2="255" Socket3="255" Socket4="255" Socket5="255" ItemName="Scroll of Flame" />
+    <Item Cat="15" Index="5" Level="0" Durability="1" Skill="0" Luck="0" Option="0" ExcOp="0" SetOp="0" JoH="0" OEx="0" Socket1="255" Socket2="255" Socket3="255" Socket4="255" Socket5="255" ItemName="Scroll of Teleport" />
+    <Item Cat="15" Index="6" Level="0" Durability="1" Skill="0" Luck="0" Option="0" ExcOp="0" SetOp="0" JoH="0" OEx="0" Socket1="255" Socket2="255" Socket3="255" Socket4="255" Socket5="255" ItemName="Scroll of Ice" />
+    <Item Cat="15" Index="7" Level="0" Durability="1" Skill="0" Luck="0" Option="0" ExcOp="0" SetOp="0" JoH="0" OEx="0" Socket1="255" Socket2="255" Socket3="255" Socket4="255" Socket5="255" ItemName="Scroll of Twister" />
+    <Item Cat="15" Index="8" Level="0" Durability="1" Skill="0" Luck="0" Option="0" ExcOp="0" SetOp="0" JoH="0" OEx="0" Socket1="255" Socket2="255" Socket3="255" Socket4="255" Socket5="255" ItemName="Scroll of Evil Spirit" />
+    <Item Cat="15" Index="9" Level="0" Durability="1" Skill="0" Luck="0" Option="0" ExcOp="0" SetOp="0" JoH="0" OEx="0" Socket1="255" Socket2="255" Socket3="255" Socket4="255" Socket5="255" ItemName="Scroll of Hellfire" />
+    <Item Cat="15" Index="10" Level="0" Durability="1" Skill="0" Luck="0" Option="0" ExcOp="0" SetOp="0" JoH="0" OEx="0" Socket1="255" Socket2="255" Socket3="255" Socket4="255" Socket5="255" ItemName="Scroll of Power Wave" />
+    <Item Cat="15" Index="11" Level="0" Durability="1" Skill="0" Luck="0" Option="0" ExcOp="0" SetOp="0" JoH="0" OEx="0" Socket1="255" Socket2="255" Socket3="255" Socket4="255" Socket5="255" ItemName="Scroll of Aqua Beam" />
+    <Item Cat="15" Index="12" Level="0" Durability="1" Skill="0" Luck="0" Option="0" ExcOp="0" SetOp="0" JoH="0" OEx="0" Socket1="255" Socket2="255" Socket3="255" Socket4="255" Socket5="255" ItemName="Scroll of Cometfall" />
+    <Item Cat="15" Index="13" Level="0" Durability="1" Skill="0" Luck="0" Option="0" ExcOp="0" SetOp="0" JoH="0" OEx="0" Socket1="255" Socket2="255" Socket3="255" Socket4="255" Socket5="255" ItemName="Scroll of Inferno" />
+    <Item Cat="15" Index="14" Level="0" Durability="1" Skill="0" Luck="0" Option="0" ExcOp="0" SetOp="0" JoH="0" OEx="0" Socket1="255" Socket2="255" Socket3="255" Socket4="255" Socket5="255" ItemName="Scroll of Teleport Ally" />
+    <Item Cat="15" Index="15" Level="0" Durability="1" Skill="0" Luck="0" Option="0" ExcOp="0" SetOp="0" JoH="0" OEx="0" Socket1="255" Socket2="255" Socket3="255" Socket4="255" Socket5="255" ItemName="Scroll of Soul Barrier" />
+    <Item Cat="15" Index="16" Level="0" Durability="1" Skill="0" Luck="0" Option="0" ExcOp="0" SetOp="0" JoH="0" OEx="0" Socket1="255" Socket2="255" Socket3="255" Socket4="255" Socket5="255" ItemName="Scroll of Decay" />
+    <Item Cat="15" Index="17" Level="0" Durability="1" Skill="0" Luck="0" Option="0" ExcOp="0" SetOp="0" JoH="0" OEx="0" Socket1="255" Socket2="255" Socket3="255" Socket4="255" Socket5="255" ItemName="Scroll of Ice Storm" />
+    <Item Cat="15" Index="18" Level="0" Durability="1" Skill="0" Luck="0" Option="0" ExcOp="0" SetOp="0" JoH="0" OEx="0" Socket1="255" Socket2="255" Socket3="255" Socket4="255" Socket5="255" ItemName="Scroll of Nova" />
+    <Item Cat="15" Index="28" Level="0" Durability="0" Skill="0" Luck="0" Option="0" ExcOp="0" SetOp="0" JoH="0" OEx="0" Socket1="255" Socket2="255" Socket3="255" Socket4="255" Socket5="255" ItemName="Scroll of Wizardry Enhance" />
+    <Item Cat="15" Index="29" Level="0" Durability="0" Skill="0" Luck="0" Option="0" ExcOp="0" SetOp="0" JoH="0" OEx="0" Socket1="255" Socket2="255" Socket3="255" Socket4="255" Socket5="255" ItemName="Scroll of Gigantic Storm" />
+    <Item Cat="14" Index="10" Level="0" Durability="0" Skill="0" Luck="0" Option="0" ExcOp="0" SetOp="0" JoH="0" OEx="0" Socket1="255" Socket2="255" Socket3="255" Socket4="255" Socket5="255" ItemName="Town Portal Scroll" />
+    <Item Cat="6" Index="14" Level="7" Durability="0" Skill="0" Luck="0" Option="0" ExcOp="0" SetOp="0" JoH="0" OEx="0" Socket1="255" Socket2="255" Socket3="255" Socket4="255" Socket5="255" ItemName="Legendary Shield" />
+    <Item Cat="5" Index="5" Level="7" Durability="0" Skill="0" Luck="1" Option="1" ExcOp="0" SetOp="0" JoH="0" OEx="0" Socket1="255" Socket2="255" Socket3="255" Socket4="255" Socket5="255" ItemName="Legendary Staff" />
+    <Item Cat="5" Index="6" Level="7" Durability="0" Skill="0" Luck="0" Option="1" ExcOp="0" SetOp="0" JoH="0" OEx="0" Socket1="255" Socket2="255" Socket3="255" Socket4="255" Socket5="255" ItemName="Staff of Resurrection" />
+</Shop>

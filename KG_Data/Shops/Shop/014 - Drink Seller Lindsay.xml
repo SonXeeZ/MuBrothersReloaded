@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Shop>
+    <Item Cat="4" Index="7" Level="0" Durability="255" Skill="0" Luck="0" Option="0" ExcOp="0" SetOp="0" JoH="0" OEx="0" Socket1="255" Socket2="255" Socket3="255" Socket4="255" Socket5="255" ItemName="Bolt" />
+    <Item Cat="4" Index="7" Level="1" Durability="255" Skill="0" Luck="0" Option="0" ExcOp="0" SetOp="0" JoH="0" OEx="0" Socket1="255" Socket2="255" Socket3="255" Socket4="255" Socket5="255" ItemName="Bolt" />
+    <Item Cat="4" Index="7" Level="2" Durability="255" Skill="0" Luck="0" Option="0" ExcOp="0" SetOp="0" JoH="0" OEx="0" Socket1="255" Socket2="255" Socket3="255" Socket4="255" Socket5="255" ItemName="Bolt" />
+    <Item Cat="4" Index="7" Level="3" Durability="255" Skill="0" Luck="0" Option="0" ExcOp="0" SetOp="0" JoH="0" OEx="0" Socket1="255" Socket2="255" Socket3="255" Socket4="255" Socket5="255" ItemName="Bolt" />
+    <Item Cat="4" Index="15" Level="0" Durability="255" Skill="0" Luck="0" Option="0" ExcOp="0" SetOp="0" JoH="0" OEx="0" Socket1="255" Socket2="255" Socket3="255" Socket4="255" Socket5="255" ItemName="Arrow" />
+    <Item Cat="4" Index="15" Level="1" Durability="255" Skill="0" Luck="0" Option="0" ExcOp="0" SetOp="0" JoH="0" OEx="0" Socket1="255" Socket2="255" Socket3="255" Socket4="255" Socket5="255" ItemName="Arrow" />
+    <Item Cat="4" Index="15" Level="2" Durability="255" Skill="0" Luck="0" Option="0" ExcOp="0" SetOp="0" JoH="0" OEx="0" Socket1="255" Socket2="255" Socket3="255" Socket4="255" Socket5="255" ItemName="Arrow" />
+    <Item Cat="4" Index="15" Level="3" Durability="255" Skill="0" Luck="0" Option="0" ExcOp="0" SetOp="0" JoH="0" OEx="0" Socket1="255" Socket2="255" Socket3="255" Socket4="255" Socket5="255" ItemName="Arrow" />
+    <Item Cat="13" Index="7" Level="0" Durability="1" Skill="0" Luck="0" Option="0" ExcOp="0" SetOp="0" JoH="0" OEx="0" Socket1="255" Socket2="255" Socket3="255" Socket4="255" Socket5="255" ItemName="Contract (Summon)" />
+    <Item Cat="13" Index="7" Level="1" Durability="1" Skill="0" Luck="0" Option="0" ExcOp="0" SetOp="0" JoH="0" OEx="0" Socket1="255" Socket2="255" Socket3="255" Socket4="255" Socket5="255" ItemName="Contract (Summon)" />
+    <Item Cat="14" Index="10" Level="0" Durability="1" Skill="0" Luck="0" Option="0" ExcOp="0" SetOp="0" JoH="0" OEx="0" Socket1="255" Socket2="255" Socket3="255" Socket4="255" Socket5="255" ItemName="Town Portal Scroll" />
+    <Item Cat="13" Index="29" Level="0" Durability="1" Skill="0" Luck="0" Option="0" ExcOp="0" SetOp="0" JoH="0" OEx="0" Socket1="255" Socket2="255" Socket3="255" Socket4="255" Socket5="255" ItemName="Armor of Guardsman" />
+</Shop>
