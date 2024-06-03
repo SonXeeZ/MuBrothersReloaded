@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<Shop>
+	<Item Cat="7" Index="2" Level="1" Durability="0" Skill="0" Luck="0" Option="1" 	 ExcOp="0" SetOp="0" JoH="0" OEx="0" Socket1="255" Socket2="255" Socket3="255" Socket4="255" Socket5="255" />	<!--Legendary Helm-->
+	<Item Cat="7" Index="4" Level="1" Durability="0" Skill="0" Luck="0" Option="1" 	 ExcOp="0" SetOp="0" JoH="0" OEx="0" Socket1="255" Socket2="255" Socket3="255" Socket4="255" Socket5="255" />	<!--Bone Helm-->
+	<Item Cat="7" Index="7" Level="1" Durability="0" Skill="0" Luck="0" Option="1" 	 ExcOp="0" SetOp="0" JoH="0" OEx="0" Socket1="255" Socket2="255" Socket3="255" Socket4="255" Socket5="255" />	<!--Scroll of Poison-->
+	<Item Cat="15" Index="0" Level="0" Durability="0" Skill="0" Luck="0" Option="0"	 ExcOp="0" SetOp="0" JoH="0" OEx="0" Socket1="255" Socket2="255" Socket3="255" Socket4="255" Socket5="255" />	<!--Scroll of Meteorite-->
+	<Item Cat="15" Index="1" Level="0" Durability="0" Skill="0" Luck="0" Option="0"	 ExcOp="0" SetOp="0" JoH="0" OEx="0" Socket1="255" Socket2="255" Socket3="255" Socket4="255" Socket5="255" />	<!--Scroll of Lighting-->
+	<Item Cat="8" Index="2" Level="1" Durability="0" Skill="0" Luck="0" Option="1" 	 ExcOp="0" SetOp="0" JoH="0" OEx="0" Socket1="255" Socket2="255" Socket3="255" Socket4="255" Socket5="255" />	<!--Scroll of Fire Ball-->
+	<Item Cat="8" Index="4" Level="1" Durability="0" Skill="0" Luck="0" Option="1" 	 ExcOp="0" SetOp="0" JoH="0" OEx="0" Socket1="255" Socket2="255" Socket3="255" Socket4="255" Socket5="255" />	<!--Legendary Armor-->
+	<Item Cat="8" Index="7" Level="1" Durability="0" Skill="0" Luck="0" Option="1" 	 ExcOp="0" SetOp="0" JoH="0" OEx="0" Socket1="255" Socket2="255" Socket3="255" Socket4="255" Socket5="255" />	<!--Bone Armor-->
+	<Item Cat="15" Index="2" Level="0" Durability="0" Skill="0" Luck="0" Option="0"	 ExcOp="0" SetOp="0" JoH="0" OEx="0" Socket1="255" Socket2="255" Socket3="255" Socket4="255" Socket5="255" />	<!--Scroll of Flame-->
+	<Item Cat="15" Index="3" Level="0" Durability="0" Skill="0" Luck="0" Option="0"	 ExcOp="0" SetOp="0" JoH="0" OEx="0" Socket1="255" Socket2="255" Socket3="255" Socket4="255" Socket5="255" />	<!--Scroll of Teleport-->
+	<Item Cat="9" Index="2" Level="1" Durability="0" Skill="0" Luck="0" Option="1" 	 ExcOp="0" SetOp="0" JoH="0" OEx="0" Socket1="255" Socket2="255" Socket3="255" Socket4="255" Socket5="255" />	<!--Scroll of Ice-->
+	<Item Cat="9" Index="4" Level="1" Durability="0" Skill="0" Luck="0" Option="1" 	 ExcOp="0" SetOp="0" JoH="0" OEx="0" Socket1="255" Socket2="255" Socket3="255" Socket4="255" Socket5="255" />	<!--Scroll of Twister-->
+	<Item Cat="15" Index="4" Level="0" Durability="0" Skill="0" Luck="0" Option="0"	 ExcOp="0" SetOp="0" JoH="0" OEx="0" Socket1="255" Socket2="255" Socket3="255" Socket4="255" Socket5="255" />	<!--Legendary Pants-->
+	<Item Cat="15" Index="5" Level="0" Durability="0" Skill="0" Luck="0" Option="0"	 ExcOp="0" SetOp="0" JoH="0" OEx="0" Socket1="255" Socket2="255" Socket3="255" Socket4="255" Socket5="255" />	<!--Bone Pants-->
+	<Item Cat="9" Index="7" Level="1" Durability="0" Skill="0" Luck="0" Option="1" 	 ExcOp="0" SetOp="0" JoH="0" OEx="0" Socket1="255" Socket2="255" Socket3="255" Socket4="255" Socket5="255" />	<!--Scroll of Evil Spirit-->
+	<Item Cat="10" Index="2" Level="1" Durability="0" Skill="0" Luck="0" Option="1"	 ExcOp="0" SetOp="0" JoH="0" OEx="0" Socket1="255" Socket2="255" Socket3="255" Socket4="255" Socket5="255" />	<!--Scroll of Hellfire-->
+	<Item Cat="10" Index="4" Level="1" Durability="0" Skill="0" Luck="0" Option="1"	 ExcOp="0" SetOp="0" JoH="0" OEx="0" Socket1="255" Socket2="255" Socket3="255" Socket4="255" Socket5="255" />	<!--Scroll of Power Wave-->
+	<Item Cat="15" Index="6" Level="0" Durability="0" Skill="0" Luck="0" Option="0"	 ExcOp="0" SetOp="0" JoH="0" OEx="0" Socket1="255" Socket2="255" Socket3="255" Socket4="255" Socket5="255" />	<!--Scroll of Aqua Beam-->
+	<Item Cat="15" Index="7" Level="0" Durability="0" Skill="0" Luck="0" Option="0"	 ExcOp="0" SetOp="0" JoH="0" OEx="0" Socket1="255" Socket2="255" Socket3="255" Socket4="255" Socket5="255" />	<!--Legendary Gloves-->
+	<Item Cat="10" Index="7" Level="1" Durability="0" Skill="0" Luck="0" Option="1"	 ExcOp="0" SetOp="0" JoH="0" OEx="0" Socket1="255" Socket2="255" Socket3="255" Socket4="255" Socket5="255" />	<!--Bone Gloves-->
+	<Item Cat="11" Index="2" Level="1" Durability="0" Skill="0" Luck="0" Option="1"	 ExcOp="0" SetOp="0" JoH="0" OEx="0" Socket1="255" Socket2="255" Socket3="255" Socket4="255" Socket5="255" />	<!--Scroll of Cometfall-->
+	<Item Cat="11" Index="4" Level="1" Durability="0" Skill="0" Luck="0" Option="1"	 ExcOp="0" SetOp="0" JoH="0" OEx="0" Socket1="255" Socket2="255" Socket3="255" Socket4="255" Socket5="255" />	<!--Scroll of Inferno-->
+	<Item Cat="15" Index="8" Level="0" Durability="0" Skill="0" Luck="0" Option="0"	 ExcOp="0" SetOp="0" JoH="0" OEx="0" Socket1="255" Socket2="255" Socket3="255" Socket4="255" Socket5="255" />	<!--Scroll of Teleport Ally-->
+	<Item Cat="15" Index="9" Level="0" Durability="0" Skill="0" Luck="0" Option="0"	 ExcOp="0" SetOp="0" JoH="0" OEx="0" Socket1="255" Socket2="255" Socket3="255" Socket4="255" Socket5="255" />	<!--Scroll of Soul Barrier-->
+	<Item Cat="11" Index="7" Level="1" Durability="0" Skill="0" Luck="0" Option="1"	 ExcOp="0" SetOp="0" JoH="0" OEx="0" Socket1="255" Socket2="255" Socket3="255" Socket4="255" Socket5="255" />	<!--Legendary Boots-->
+	<Item Cat="15" Index="10" Level="0" Durability="0" Skill="0" Luck="0" Option="0" ExcOp="0" SetOp="0" JoH="0" OEx="0" Socket1="255" Socket2="255" Socket3="255" Socket4="255" Socket5="255" />	<!--Bone Boots-->
+	<Item Cat="15" Index="11" Level="0" Durability="0" Skill="0" Luck="0" Option="0" ExcOp="0" SetOp="0" JoH="0" OEx="0" Socket1="255" Socket2="255" Socket3="255" Socket4="255" Socket5="255" />	<!--Scroll of Decay-->
+	<Item Cat="15" Index="12" Level="0" Durability="0" Skill="0" Luck="0" Option="0" ExcOp="0" SetOp="0" JoH="0" OEx="0" Socket1="255" Socket2="255" Socket3="255" Socket4="255" Socket5="255" />	<!--Scroll of Ice Storm-->
+	<Item Cat="15" Index="13" Level="0" Durability="0" Skill="0" Luck="0" Option="0" ExcOp="0" SetOp="0" JoH="0" OEx="0" Socket1="255" Socket2="255" Socket3="255" Socket4="255" Socket5="255" />	<!--Scroll of Nova-->
+	<Item Cat="5" Index="5" Level="0" Durability="0" Skill="0" Luck="0" Option="0" 	 ExcOp="0" SetOp="0" JoH="0" OEx="0" Socket1="255" Socket2="255" Socket3="255" Socket4="255" Socket5="255" />	<!--Scroll of Wizardry Enhance-->
+	<Item Cat="5" Index="9" Level="0" Durability="0" Skill="0" Luck="0" Option="0" 	 ExcOp="0" SetOp="0" JoH="0" OEx="0" Socket1="255" Socket2="255" Socket3="255" Socket4="255" Socket5="255" />	<!--Legendary Staff-->
+	<Item Cat="15" Index="16" Level="0" Durability="0" Skill="0" Luck="0" Option="0" ExcOp="0" SetOp="0" JoH="0" OEx="0" Socket1="255" Socket2="255" Socket3="255" Socket4="255" Socket5="255" />	<!--Staff of Resurrection-->
+	<Item Cat="15" Index="17" Level="0" Durability="0" Skill="0" Luck="0" Option="0" ExcOp="0" SetOp="0" JoH="0" OEx="0" Socket1="255" Socket2="255" Socket3="255" Socket4="255" Socket5="255" />	<!--Legendary Shield-->
+	<Item Cat="15" Index="28" Level="0" Durability="0" Skill="0" Luck="0" Option="0" ExcOp="0" SetOp="0" JoH="0" OEx="0" Socket1="255" Socket2="255" Socket3="255" Socket4="255" Socket5="255" />	<!--Scroll of Gigantic Storm-->
+	<Item Cat="15" Index="18" Level="0" Durability="0" Skill="0" Luck="0" Option="0" ExcOp="0" SetOp="0" JoH="0" OEx="0" Socket1="255" Socket2="255" Socket3="255" Socket4="255" Socket5="255" />	<!--Scroll of Cometfall-->
+	<Item Cat="15" Index="14" Level="0" Durability="0" Skill="0" Luck="0" Option="0" ExcOp="0" SetOp="0" JoH="0" OEx="0" Socket1="255" Socket2="255" Socket3="255" Socket4="255" Socket5="255" />	<!--Scroll of Inferno-->
+	<Item Cat="15" Index="15" Level="0" Durability="0" Skill="0" Luck="0" Option="0" ExcOp="0" SetOp="0" JoH="0" OEx="0" Socket1="255" Socket2="255" Socket3="255" Socket4="255" Socket5="255" />	<!--Scroll of Teleport Ally-->
+	<Item Cat="13" Index="0" Level="0" Durability="0" Skill="0" Luck="0" Option="0"  ExcOp="0" SetOp="0" JoH="0" OEx="0" Socket1="255" Socket2="255" Socket3="255" Socket4="255" Socket5="255" />	<!--Scroll of Soul Barrier-->
+	<Item Cat="13" Index="1" Level="0" Durability="0" Skill="0" Luck="0" Option="0"  ExcOp="0" SetOp="0" JoH="0" OEx="0" Socket1="255" Socket2="255" Socket3="255" Socket4="255" Socket5="255" />	<!--Legendary Boots-->
+
+</Shop>

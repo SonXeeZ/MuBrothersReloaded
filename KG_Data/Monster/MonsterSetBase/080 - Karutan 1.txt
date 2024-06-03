@@ -8,8 +8,8 @@
 //######################################################################################################################
 //#Monster    #MapNumber    #Range     #PositionX     #PositionY   #Direction    #Comment
 //######################################################################################################################
-577            80             00         121            102            03             //Leina the General Goods Merchan
-578            80             00         117            126            03             //Weapons Merchant Bolo
+//577            80             00         121            102            03             //Leina the General Goods Merchan
+//578            80             00         117            126            03             //Weapons Merchant Bolo
 240            80             00         123            132            02             //Safety Guardian
 240            80             00         122            096            03             //Safety Guardian
 240            80             00         157            127            01             //Safety Guardian

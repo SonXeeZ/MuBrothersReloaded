@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<Shop>
+	<Item Cat="7" Index="6" Level="1" Durability="0" Skill="0" Luck="0" Option="1"	 ExcOp="0" SetOp="0" JoH="0" OEx="0" Socket1="255" Socket2="255" Socket3="255" Socket4="255" Socket5="255" />	<!--Bronze Helm-->
+	<Item Cat="7" Index="8" Level="1" Durability="0" Skill="0" Luck="0" Option="1"	 ExcOp="0" SetOp="0" JoH="0" OEx="0" Socket1="255" Socket2="255" Socket3="255" Socket4="255" Socket5="255" />	<!--Dragon Helm-->
+	<Item Cat="7" Index="9" Level="1" Durability="0" Skill="0" Luck="0" Option="1"	 ExcOp="0" SetOp="0" JoH="0" OEx="0" Socket1="255" Socket2="255" Socket3="255" Socket4="255" Socket5="255" />	<!--Leather Helm-->
+	<Item Cat="0" Index="32" Level="0" Durability="0" Skill="1" Luck="0" Option="0"  ExcOp="0" SetOp="0" JoH="0" OEx="0" Socket1="255" Socket2="255" Socket3="255" Socket4="255" Socket5="255" />	<!--Scale Helm-->
+	<Item Cat="0" Index="32" Level="0" Durability="0" Skill="1" Luck="0" Option="0"  ExcOp="0" SetOp="0" JoH="0" OEx="0" Socket1="255" Socket2="255" Socket3="255" Socket4="255" Socket5="255" />	<!--Bronze Armor-->
+	<Item Cat="8" Index="6" Level="1" Durability="0" Skill="0" Luck="0" Option="1" 	 ExcOp="0" SetOp="0" JoH="0" OEx="0" Socket1="255" Socket2="255" Socket3="255" Socket4="255" Socket5="255" />	<!--Dragon Armor-->
+	<Item Cat="8" Index="8" Level="1" Durability="0" Skill="0" Luck="0" Option="1" 	 ExcOp="0" SetOp="0" JoH="0" OEx="0" Socket1="255" Socket2="255" Socket3="255" Socket4="255" Socket5="255" />	<!--Leather Armor-->
+	<Item Cat="8" Index="9" Level="1" Durability="0" Skill="0" Luck="0" Option="1" 	 ExcOp="0" SetOp="0" JoH="0" OEx="0" Socket1="255" Socket2="255" Socket3="255" Socket4="255" Socket5="255" />	<!--Scale Armor-->
+	<Item Cat="15" Index="30" Level="0" Durability="0" Skill="0" Luck="0" Option="0" ExcOp="0" SetOp="0" JoH="0" OEx="0" Socket1="255" Socket2="255" Socket3="255" Socket4="255" Socket5="255" />	<!--Bronze Gloves-->
+	<Item Cat="15" Index="31" Level="0" Durability="0" Skill="0" Luck="0" Option="0" ExcOp="0" SetOp="0" JoH="0" OEx="0" Socket1="255" Socket2="255" Socket3="255" Socket4="255" Socket5="255" />	<!--Scale Gloves-->
+	<Item Cat="9" Index="6" Level="1" Durability="0" Skill="0" Luck="0" Option="1"	 ExcOp="0" SetOp="0" JoH="0" OEx="0" Socket1="255" Socket2="255" Socket3="255" Socket4="255" Socket5="255" />	<!--Dragon Gloves-->
+	<Item Cat="9" Index="8" Level="1" Durability="0" Skill="0" Luck="0" Option="1"	 ExcOp="0" SetOp="0" JoH="0" OEx="0" Socket1="255" Socket2="255" Socket3="255" Socket4="255" Socket5="255" />	<!--Leather Gloves-->
+	<Item Cat="9" Index="9" Level="1" Durability="0" Skill="0" Luck="0" Option="1"	 ExcOp="0" SetOp="0" JoH="0" OEx="0" Socket1="255" Socket2="255" Socket3="255" Socket4="255" Socket5="255" />	<!--Bronze Pants-->
+	<Item Cat="15" Index="32" Level="0" Durability="0" Skill="0" Luck="0" Option="0" ExcOp="0" SetOp="0" JoH="0" OEx="0" Socket1="255" Socket2="255" Socket3="255" Socket4="255" Socket5="255" />	<!--Scale Pants-->
+	<Item Cat="15" Index="34" Level="0" Durability="0" Skill="0" Luck="0" Option="0" ExcOp="0" SetOp="0" JoH="0" OEx="0" Socket1="255" Socket2="255" Socket3="255" Socket4="255" Socket5="255" />	<!--Dragon Pants-->
+	<Item Cat="10" Index="6" Level="1" Durability="0" Skill="0" Luck="0" Option="1"  ExcOp="0" SetOp="0" JoH="0" OEx="0" Socket1="255" Socket2="255" Socket3="255" Socket4="255" Socket5="255" />	<!--Leather Pants-->
+	<Item Cat="10" Index="8" Level="1" Durability="0" Skill="0" Luck="0" Option="1"  ExcOp="0" SetOp="0" JoH="0" OEx="0" Socket1="255" Socket2="255" Socket3="255" Socket4="255" Socket5="255" />	<!--Bronze Boots-->
+	<Item Cat="10" Index="9" Level="1" Durability="0" Skill="0" Luck="0" Option="1"  ExcOp="0" SetOp="0" JoH="0" OEx="0" Socket1="255" Socket2="255" Socket3="255" Socket4="255" Socket5="255" />	<!--Scale Boots-->
+	<Item Cat="15" Index="35" Level="0" Durability="0" Skill="0" Luck="0" Option="0" ExcOp="0" SetOp="0" JoH="0" OEx="0" Socket1="255" Socket2="255" Socket3="255" Socket4="255" Socket5="255" />	<!--Dragon Boots-->
+	<Item Cat="15" Index="36" Level="0" Durability="0" Skill="0" Luck="0" Option="0" ExcOp="0" SetOp="0" JoH="0" OEx="0" Socket1="255" Socket2="255" Socket3="255" Socket4="255" Socket5="255" />	<!--Leather Boots-->
+	<Item Cat="11" Index="6" Level="1" Durability="0" Skill="0" Luck="0" Option="1"  ExcOp="0" SetOp="0" JoH="0" OEx="0" Socket1="255" Socket2="255" Socket3="255" Socket4="255" Socket5="255" />	<!--Orb of Twisting Slash-->
+	<Item Cat="11" Index="8" Level="1" Durability="0" Skill="0" Luck="0" Option="1"  ExcOp="0" SetOp="0" JoH="0" OEx="0" Socket1="255" Socket2="255" Socket3="255" Socket4="255" Socket5="255" />	<!--Orb of Greater Fortitude-->
+	<Item Cat="11" Index="9" Level="1" Durability="0" Skill="0" Luck="0" Option="1"  ExcOp="0" SetOp="0" JoH="0" OEx="0" Socket1="255" Socket2="255" Socket3="255" Socket4="255" Socket5="255" />	<!--Orb of Rageful Blow-->
+</Shop>

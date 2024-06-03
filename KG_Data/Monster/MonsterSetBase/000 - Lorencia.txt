@@ -9,9 +9,9 @@
 //#Monster    #MapNumber    #Range     #PositionX     #PositionY   #Direction    #Comment
 //######################################################################################################################
 226            00             00         122            110            03             //Trainer
-250            00             00         183            137            02             //Wandering Merchant
+250            00             00         124            144            01             //Wandering Merchant
 253            00             00         127            086            02             //Potion Girl Amy
-251            00             00         116            141            03             //Hanzo the Blacksmith
+251            00             00         116            141            03             //Hanzo the Blacksmith - DL SHOP
 255            00             00         123            135            01             //Lumen the Barmaid
 254            00             00         118            113            03             //Pasi the Mage
 249            00             10         131            088            01             //Guard
@@ -38,6 +38,9 @@
 478		        0	           0	     130	        137		        3		      // Lucky Coin Delgado -
 258		        0	           0	     150	        140		        1		      // Leo The Helper - Last Man Standing NPC-
 256		        0	           0	     129	        118		        3		      // Lahap-
+
+578            00             00         126            144            01             //Weapons Merchant Bolo - RF SHOP
+577            00             00         128            144            01             //Leina - MG SHOP
 end
 
 1

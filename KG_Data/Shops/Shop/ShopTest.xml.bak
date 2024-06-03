@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<Shop>
+<!-- Jewel Jewel --> <Item Cat="14"  Index="13" Level="0" Durability="255" Skill="0" Luck="0" Option="0" ExcOp="0" SetOp="0" JoH="0" OEx="0" Socket1="255" Socket2="255" Socket3="255" Socket4="255" Socket5="255" />
+<!-- Jewel Bundle Jewel+10 --> <Item Cat="12"  Index="30" Level="0" Durability="255" Skill="0" Luck="0" Option="0" ExcOp="0" SetOp="0" JoH="0" OEx="0" Socket1="255" Socket2="255" Socket3="255" Socket4="255" Socket5="255" />
+<!-- Jewel Bundle Jewel+20 --> <Item Cat="12"  Index="30" Level="1" Durability="255" Skill="0" Luck="0" Option="0" ExcOp="0" SetOp="0" JoH="0" OEx="0" Socket1="255" Socket2="255" Socket3="255" Socket4="255" Socket5="255" />
+<!-- Jewel Bundle Jewel+30 --> <Item Cat="12"  Index="30" Level="2" Durability="255" Skill="0" Luck="0" Option="0" ExcOp="0" SetOp="0" JoH="0" OEx="0" Socket1="255" Socket2="255" Socket3="255" Socket4="255" Socket5="255" />
+<!-- Jewel Soul--> <Item Cat="14"  Index="14" Level="0" Durability="255" Skill="0" Luck="0" Option="0" ExcOp="0" SetOp="0" JoH="0" OEx="0" Socket1="255" Socket2="255" Socket3="255" Socket4="255" Socket5="255" />
+<!-- Jewel Bundle Soul +10--> <Item Cat="12"  Index="31" Level="0" Durability="255" Skill="0" Luck="0" Option="0" ExcOp="0" SetOp="0" JoH="0" OEx="0" Socket1="255" Socket2="255" Socket3="255" Socket4="255" Socket5="255" />
+<!-- Jewel Bundle Soul +20--> <Item Cat="12"  Index="31" Level="1" Durability="255" Skill="0" Luck="0" Option="0" ExcOp="0" SetOp="0" JoH="0" OEx="0" Socket1="255" Socket2="255" Socket3="255" Socket4="255" Socket5="255" />
+<!-- Jewel Bundle Soul +30--> <Item Cat="12"  Index="31" Level="2" Durability="255" Skill="0" Luck="0" Option="0" ExcOp="0" SetOp="0" JoH="0" OEx="0" Socket1="255" Socket2="255" Socket3="255" Socket4="255" Socket5="255" />
+<!-- Jewel Chaos --> <Item Cat="12"  Index="15" Level="0" Durability="255" Skill="0" Luck="0" Option="0" ExcOp="0" SetOp="0" JoH="0" OEx="0" Socket1="255" Socket2="255" Socket3="255" Socket4="255" Socket5="255" />
+<!-- Jewel Creation --> <Item Cat="14"  Index="22" Level="0" Durability="255" Skill="0" Luck="0" Option="0" ExcOp="0" SetOp="0" JoH="0" OEx="0" Socket1="255" Socket2="255" Socket3="255" Socket4="255" Socket5="255" />
+<!-- Brilliant Soul --> <Item Cat="14"  Index="284" Level="0" Durability="255" Skill="0" Luck="0" Option="0" ExcOp="0" SetOp="0" JoH="0" OEx="0" Socket1="255" Socket2="255" Socket3="255" Socket4="255" Socket5="255" />
+<!-- Brilliant Anvil --> <Item Cat="14"  Index="289" Level="0" Durability="255" Skill="0" Luck="0" Option="0" ExcOp="0" SetOp="0" JoH="0" OEx="0" Socket1="255" Socket2="255" Socket3="255" Socket4="255" Socket5="255" />
+<!-- Brilliant Anvil --> <Item Cat="14"  Index="285" Level="0" Durability="255" Skill="0" Luck="0" Option="0" ExcOp="0" SetOp="0" JoH="0" OEx="0" Socket1="255" Socket2="255" Socket3="255" Socket4="255" Socket5="255" />
+<!-- Note Snake (Green Lv.1) --> <Item Cat="14"  Index="233" Level="0" Durability="255" Skill="0" Luck="0" Option="0" ExcOp="0" SetOp="0" JoH="0" OEx="0" Socket1="255" Socket2="255" Socket3="255" Socket4="255" Socket5="255" />
+<!-- Note Horse (Green Lv.1) --> <Item Cat="14"  Index="237" Level="0" Durability="255" Skill="0" Luck="0" Option="0" ExcOp="0" SetOp="0" JoH="0" OEx="0" Socket1="255" Socket2="255" Socket3="255" Socket4="255" Socket5="255" />
+<!-- Note Goat (Green Lv.1) --> <Item Cat="14"  Index="241" Level="0" Durability="255" Skill="0" Luck="0" Option="0" ExcOp="0" SetOp="0" JoH="0" OEx="0" Socket1="255" Socket2="255" Socket3="255" Socket4="255" Socket5="255" />
+<!-- Note Monckey (Green Lv.1) --> <Item Cat="14"  Index="245" Level="0" Durability="255" Skill="0" Luck="0" Option="0" ExcOp="0" SetOp="0" JoH="0" OEx="0" Socket1="255" Socket2="255" Socket3="255" Socket4="255" Socket5="255" />
+<!-- Note Chicken (Green Lv.1) --> <Item Cat="14"  Index="249" Level="0" Durability="255" Skill="0" Luck="0" Option="0" ExcOp="0" SetOp="0" JoH="0" OEx="0" Socket1="255" Socket2="255" Socket3="255" Socket4="255" Socket5="255" />
+</Shop>

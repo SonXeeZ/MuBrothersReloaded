@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<Shop>
+	<Item Cat="7"  Index="25"  Level="15" Durability="255" Skill="1" Luck="1" Option="7" ExcOp="63" SetOp="0" JoH="0" OEx="0" Socket1="255" Socket2="255" Socket3="255" Socket4="255" Socket5="255" />	
+	<Item Cat="7"  Index="26"  Level="15" Durability="255" Skill="1" Luck="1" Option="7" ExcOp="63" SetOp="0" JoH="0" OEx="0" Socket1="255" Socket2="255" Socket3="255" Socket4="255" Socket5="255" />	
+	<Item Cat="7"  Index="27"  Level="15" Durability="255" Skill="1" Luck="1" Option="7" ExcOp="63" SetOp="0" JoH="0" OEx="0" Socket1="255" Socket2="255" Socket3="255" Socket4="255" Socket5="255" />	
+	<Item Cat="2"  Index="12"  Level="15" Durability="255" Skill="1" Luck="1" Option="7" ExcOp="63" SetOp="0" JoH="0" OEx="0" Socket1="255" Socket2="255" Socket3="255" Socket4="255" Socket5="255" />	
+	<Item Cat="2"  Index="13"  Level="15" Durability="255" Skill="1" Luck="1" Option="7" ExcOp="63" SetOp="0" JoH="0" OEx="0" Socket1="255" Socket2="255" Socket3="255" Socket4="255" Socket5="255" />	
+	<Item Cat="8"  Index="25"  Level="15" Durability="255" Skill="1" Luck="1" Option="7" ExcOp="63" SetOp="0" JoH="0" OEx="0" Socket1="255" Socket2="255" Socket3="255" Socket4="255" Socket5="255" />	
+	<Item Cat="8"  Index="26"  Level="15" Durability="255" Skill="1" Luck="1" Option="7" ExcOp="63" SetOp="0" JoH="0" OEx="0" Socket1="255" Socket2="255" Socket3="255" Socket4="255" Socket5="255" />	
+	<Item Cat="8"  Index="27"  Level="15" Durability="255" Skill="1" Luck="1" Option="7" ExcOp="63" SetOp="0" JoH="0" OEx="0" Socket1="255" Socket2="255" Socket3="255" Socket4="255" Socket5="255" />	
+	<Item Cat="2"  Index="11"  Level="15" Durability="255" Skill="1" Luck="1" Option="7" ExcOp="63" SetOp="0" JoH="0" OEx="0" Socket1="255" Socket2="255" Socket3="255" Socket4="255" Socket5="255" />	
+	<Item Cat="2"  Index="10"  Level="15" Durability="255" Skill="1" Luck="1" Option="7" ExcOp="63" SetOp="0" JoH="0" OEx="0" Socket1="255" Socket2="255" Socket3="255" Socket4="255" Socket5="255" />	
+	<Item Cat="9"  Index="25"  Level="15" Durability="255" Skill="1" Luck="1" Option="7" ExcOp="63" SetOp="0" JoH="0" OEx="0" Socket1="255" Socket2="255" Socket3="255" Socket4="255" Socket5="255" />
+	<Item Cat="9"  Index="26"  Level="15" Durability="255" Skill="1" Luck="1" Option="7" ExcOp="63" SetOp="0" JoH="0" OEx="0" Socket1="255" Socket2="255" Socket3="255" Socket4="255" Socket5="255" />
+	<Item Cat="9"  Index="27"  Level="15" Durability="255" Skill="1" Luck="1" Option="7" ExcOp="63" SetOp="0" JoH="0" OEx="0" Socket1="255" Socket2="255" Socket3="255" Socket4="255" Socket5="255" />
+	<Item Cat="10" Index="25"  Level="15" Durability="255" Skill="1" Luck="1" Option="7" ExcOp="63" SetOp="0" JoH="0" OEx="0" Socket1="255" Socket2="255" Socket3="255" Socket4="255" Socket5="255" />	
+	<Item Cat="10" Index="26"  Level="15" Durability="255" Skill="1" Luck="1" Option="7" ExcOp="63" SetOp="0" JoH="0" OEx="0" Socket1="255" Socket2="255" Socket3="255" Socket4="255" Socket5="255" />
+	<Item Cat="10" Index="27"  Level="15" Durability="255" Skill="1" Luck="1" Option="7" ExcOp="63" SetOp="0" JoH="0" OEx="0" Socket1="255" Socket2="255" Socket3="255" Socket4="255" Socket5="255" />
+	<Item Cat="6"  Index="7"   Level="15" Durability="255" Skill="1" Luck="1" Option="7" ExcOp="63" SetOp="0" JoH="0" OEx="0" Socket1="255" Socket2="255" Socket3="255" Socket4="255" Socket5="255" />
+	<Item Cat="11" Index="25"  Level="15" Durability="255" Skill="1" Luck="1" Option="7" ExcOp="63" SetOp="0" JoH="0" OEx="0" Socket1="255" Socket2="255" Socket3="255" Socket4="255" Socket5="255" />
+	<Item Cat="11" Index="26"  Level="15" Durability="255" Skill="1" Luck="1" Option="7" ExcOp="63" SetOp="0" JoH="0" OEx="0" Socket1="255" Socket2="255" Socket3="255" Socket4="255" Socket5="255" />
+	<Item Cat="11" Index="27"  Level="15" Durability="255" Skill="1" Luck="1" Option="7" ExcOp="63" SetOp="0" JoH="0" OEx="0" Socket1="255" Socket2="255" Socket3="255" Socket4="255" Socket5="255" />
+	<Item Cat="6"  Index="5"   Level="15" Durability="255" Skill="1" Luck="1" Option="7" ExcOp="63" SetOp="0" JoH="0" OEx="0" Socket1="255" Socket2="255" Socket3="255" Socket4="255" Socket5="255" />
+	<Item Cat="12" Index="21"  Level="0"  Durability="0"   Skill="0" Luck="0" Option="0" ExcOp="63" SetOp="0" JoH="0" OEx="0" Socket1="255" Socket2="255" Socket3="255" Socket4="255" Socket5="255" />	
+	<Item Cat="12" Index="22"  Level="0"  Durability="0"   Skill="0" Luck="0" Option="0" ExcOp="63" SetOp="0" JoH="0" OEx="0" Socket1="255" Socket2="255" Socket3="255" Socket4="255" Socket5="255" />	
+	<Item Cat="12" Index="23"  Level="0"  Durability="0"   Skill="0" Luck="0" Option="0" ExcOp="63" SetOp="0" JoH="0" OEx="0" Socket1="255" Socket2="255" Socket3="255" Socket4="255" Socket5="255" />	
+	<Item Cat="12" Index="24"  Level="0"  Durability="0"   Skill="0" Luck="0" Option="0" ExcOp="63" SetOp="0" JoH="0" OEx="0" Socket1="255" Socket2="255" Socket3="255" Socket4="255" Socket5="255" />	
+	<Item Cat="12" Index="35"  Level="0"  Durability="0"   Skill="0" Luck="0" Option="0" ExcOp="63" SetOp="0" JoH="0" OEx="0" Socket1="255" Socket2="255" Socket3="255" Socket4="255" Socket5="255" />	
+	<Item Cat="12" Index="48"  Level="0"  Durability="0"   Skill="0" Luck="0" Option="0" ExcOp="63" SetOp="0" JoH="0" OEx="0" Socket1="255" Socket2="255" Socket3="255" Socket4="255" Socket5="255" />	
+</Shop>

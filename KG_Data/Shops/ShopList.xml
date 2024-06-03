@@ -1,5 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 
- <ShopManager>
-    <Shop MonsterIndex="251" MapNumber="00" PosX="116" PosY="141" Dir="3" AccountLevel="0" FileName="Hanzo_the_Blacksmith(116,141)" Comment="Lorencia(116,141)" />
- </ShopManager>
+<ShopManager>
+    <!-- Lorencia -->
+	<Shop MonsterIndex="251" MapNumber="00"  PosX="116" PosY="141" Dir="3" AccountLevel="0" FileName="Hanzo_the_Blacksmith(116,141).xml" Comment="Lorencia(116,141)" />
+	<Shop MonsterIndex="255" MapNumber="00"  PosX="123" PosY="135" Dir="1" AccountLevel="0" FileName="Lumen_The_Barmaid(123,135).xml" Comment="Lorencia(123,135)" />
+	<Shop MonsterIndex="254" MapNumber="00"  PosX="*" 	PosY="*"   Dir="1" AccountLevel="0" FileName="Pasi_the_Wizard.xml" Comment="Pasi_the_Wizard" />
+	<Shop MonsterIndex="231" MapNumber="00"  PosX="*" 	PosY="*"   Dir="1" AccountLevel="0" FileName="Thompson_Kenel.xml" Comment="Thompson Kenel(RF SHOP)" />
+	<Shop MonsterIndex="250" MapNumber="00"  PosX="124" PosY="144" Dir="1" AccountLevel="0" FileName="Hanzo_the_Blacksmith_dlshop(124,144).xml" Comment="Lorencia(124,144)" />
+	<Shop MonsterIndex="578" MapNumber="00"  PosX="126" PosY="144" Dir="1" AccountLevel="0" FileName="Hanzo_the_Blacksmith_rfshop(126,144).xml" Comment="Lorencia(126,144)" />
+	<Shop MonsterIndex="577" MapNumber="00"  PosX="128" PosY="144" Dir="1" AccountLevel="0" FileName="Hanzo_the_Blacksmith_mgshop(128,144).xml" Comment="Lorencia(128,144)" />
+	<!-- Noria -->
+	<Shop MonsterIndex="242" MapNumber="03"  PosX="173" PosY="125" Dir="1" AccountLevel="0" FileName="Elf_Lala(173,125).xml" Comment="Noria(173,125)" />
+	<Shop MonsterIndex="242" MapNumber="03"  PosX="173" PosY="125" Dir="1" AccountLevel="0" FileName="Elf_Lala(173,125).xml" Comment="Noria(173,125)" />
+	<Shop MonsterIndex="743" MapNumber="03"  PosX="180" PosY="99" Dir="2" AccountLevel="0" FileName="ShopTest.xml" Comment="Noria(195,124)" />
+	<!-- Elbeland -->
+	<Shop MonsterIndex="492" MapNumber="*"  PosX="*" PosY="*" Dir="1" AccountLevel="0" FileName="MossMerchant.xml" Comment="Elbeland(55,199)" />
+
+</ShopManager>

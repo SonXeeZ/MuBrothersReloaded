@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<Item380Option>
+	<Option Index="1" Value="10"  Name="Add Attack Success Rate PvP" />
+	<Option Index="2" Value="200" Name="Add Damage PvP" />
+	<Option Index="3" Value="10"  Name="Add Defense Success Rate PvP" />
+	<Option Index="4" Value="200" Name="Add Defense PvP" />
+	<Option Index="5" Value="200" Name="Add Max HP" />
+	<Option Index="6" Value="700" Name="Add Max SD" />
+	<Option Index="7" Value="1"   Name="Set SD Recovery Type" />
+	<Option Index="8" Value="2"   Name="Add SD Recovery Rate" />
+</Item380Option>

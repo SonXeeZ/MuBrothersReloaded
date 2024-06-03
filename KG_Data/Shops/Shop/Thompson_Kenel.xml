@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<Shop>
+	<Item Cat="7"    Index="59"   Level="7" Durability="255" Skill="1" Luck="1" Option="1" ExcOp="0" SetOp="0" JoH="0" OEx="0" Socket1="255" Socket2="255" Socket3="255" Socket4="255" Socket5="255" />	<!--Legendary Helm-->
+	<Item Cat="7"    Index="60"   Level="7" Durability="255" Skill="1" Luck="1" Option="1" ExcOp="0" SetOp="0" JoH="0" OEx="0" Socket1="255" Socket2="255" Socket3="255" Socket4="255" Socket5="255" />	<!--Legendary Helm-->
+	<Item Cat="7"    Index="61"   Level="7" Durability="255" Skill="1" Luck="1" Option="1" ExcOp="0" SetOp="0" JoH="0" OEx="0" Socket1="255" Socket2="255" Socket3="255" Socket4="255" Socket5="255" />	<!--Legendary Helm-->
+	<Item Cat="7"    Index="73"   Level="7" Durability="255" Skill="1" Luck="1" Option="1" ExcOp="0" SetOp="0" JoH="0" OEx="0" Socket1="255" Socket2="255" Socket3="255" Socket4="255" Socket5="255" />	<!--Legendary Helm-->
+	<Item Cat="8"    Index="59"   Level="7" Durability="255" Skill="1" Luck="1" Option="1" ExcOp="0" SetOp="0" JoH="0" OEx="0" Socket1="255" Socket2="255" Socket3="255" Socket4="255" Socket5="255" />	<!--Legendary Helm-->
+	<Item Cat="8"    Index="60"   Level="7" Durability="255" Skill="1" Luck="1" Option="1" ExcOp="0" SetOp="0" JoH="0" OEx="0" Socket1="255" Socket2="255" Socket3="255" Socket4="255" Socket5="255" />	<!--Legendary Helm-->
+	<Item Cat="8"    Index="61"   Level="7" Durability="255" Skill="1" Luck="1" Option="1" ExcOp="0" SetOp="0" JoH="0" OEx="0" Socket1="255" Socket2="255" Socket3="255" Socket4="255" Socket5="255" />	<!--Legendary Helm-->
+	<Item Cat="8"    Index="73"   Level="7" Durability="255" Skill="1" Luck="1" Option="1" ExcOp="0" SetOp="0" JoH="0" OEx="0" Socket1="255" Socket2="255" Socket3="255" Socket4="255" Socket5="255" />	<!--Legendary Helm-->
+	<Item Cat="9"    Index="59"   Level="7" Durability="255" Skill="1" Luck="1" Option="1" ExcOp="0" SetOp="0" JoH="0" OEx="0" Socket1="255" Socket2="255" Socket3="255" Socket4="255" Socket5="255" />	<!--Legendary Helm-->
+	<Item Cat="9"    Index="60"   Level="7" Durability="255" Skill="1" Luck="1" Option="1" ExcOp="0" SetOp="0" JoH="0" OEx="0" Socket1="255" Socket2="255" Socket3="255" Socket4="255" Socket5="255" />	<!--Legendary Helm-->
+	<Item Cat="9"    Index="60"   Level="7" Durability="255" Skill="1" Luck="1" Option="1" ExcOp="0" SetOp="0" JoH="0" OEx="0" Socket1="255" Socket2="255" Socket3="255" Socket4="255" Socket5="255" />	<!--Legendary Helm-->
+	<Item Cat="9"    Index="73"   Level="7" Durability="255" Skill="1" Luck="1" Option="1" ExcOp="0" SetOp="0" JoH="0" OEx="0" Socket1="255" Socket2="255" Socket3="255" Socket4="255" Socket5="255" />	<!--Legendary Helm-->
+	<Item Cat="11"   Index="59"   Level="7" Durability="255" Skill="1" Luck="1" Option="1" ExcOp="0" SetOp="0" JoH="0" OEx="0" Socket1="255" Socket2="255" Socket3="255" Socket4="255" Socket5="255" />	<!--Legendary Helm-->
+	<Item Cat="11"   Index="60"   Level="7" Durability="255" Skill="1" Luck="1" Option="1" ExcOp="0" SetOp="0" JoH="0" OEx="0" Socket1="255" Socket2="255" Socket3="255" Socket4="255" Socket5="255" />	<!--Legendary Helm-->
+	<Item Cat="11"   Index="61"   Level="7" Durability="255" Skill="1" Luck="1" Option="1" ExcOp="0" SetOp="0" JoH="0" OEx="0" Socket1="255" Socket2="255" Socket3="255" Socket4="255" Socket5="255" />	<!--Legendary Helm-->
+	<Item Cat="11"   Index="73"   Level="7" Durability="255" Skill="1" Luck="1" Option="1" ExcOp="0" SetOp="0" JoH="0" OEx="0" Socket1="255" Socket2="255" Socket3="255" Socket4="255" Socket5="255" />	<!--Legendary Helm-->
+	<Item Cat="0"    Index="32"   Level="7" Durability="255" Skill="1" Luck="1" Option="1" ExcOp="0" SetOp="0" JoH="0" OEx="0" Socket1="255" Socket2="255" Socket3="255" Socket4="255" Socket5="255" />	<!--Legendary Helm-->
+	<Item Cat="0"    Index="32"   Level="7" Durability="255" Skill="1" Luck="1" Option="1" ExcOp="0" SetOp="0" JoH="0" OEx="0" Socket1="255" Socket2="255" Socket3="255" Socket4="255" Socket5="255" />	<!--Legendary Helm-->
+	<Item Cat="0"    Index="33"   Level="7" Durability="255" Skill="1" Luck="1" Option="1" ExcOp="0" SetOp="0" JoH="0" OEx="0" Socket1="255" Socket2="255" Socket3="255" Socket4="255" Socket5="255" />	<!--Legendary Helm-->
+	<Item Cat="0"    Index="33"   Level="7" Durability="255" Skill="1" Luck="1" Option="1" ExcOp="0" SetOp="0" JoH="0" OEx="0" Socket1="255" Socket2="255" Socket3="255" Socket4="255" Socket5="255" />	<!--Legendary Helm-->
+	<Item Cat="0"    Index="34"   Level="7" Durability="255" Skill="1" Luck="1" Option="1" ExcOp="0" SetOp="0" JoH="0" OEx="0" Socket1="255" Socket2="255" Socket3="255" Socket4="255" Socket5="255" />	<!--Legendary Helm-->
+	<Item Cat="0"    Index="34"   Level="7" Durability="255" Skill="1" Luck="1" Option="1" ExcOp="0" SetOp="0" JoH="0" OEx="0" Socket1="255" Socket2="255" Socket3="255" Socket4="255" Socket5="255" />	<!--Legendary Helm-->
+	<Item Cat="0"    Index="35"   Level="7" Durability="255" Skill="1" Luck="1" Option="1" ExcOp="0" SetOp="0" JoH="0" OEx="0" Socket1="255" Socket2="255" Socket3="255" Socket4="255" Socket5="255" />	<!--Legendary Helm-->
+	<Item Cat="0"    Index="35"   Level="7" Durability="255" Skill="1" Luck="1" Option="1" ExcOp="0" SetOp="0" JoH="0" OEx="0" Socket1="255" Socket2="255" Socket3="255" Socket4="255" Socket5="255" />	<!--Legendary Helm-->
+	<Item Cat="15"   Index="30"   Level="0" Durability="255" Skill="0" Luck="0" Option="0" ExcOp="0" SetOp="0" JoH="0" OEx="0" Socket1="255" Socket2="255" Socket3="255" Socket4="255" Socket5="255" />	<!--Legendary Helm-->
+	<Item Cat="15"   Index="31"   Level="0" Durability="255" Skill="0" Luck="0" Option="0" ExcOp="0" SetOp="0" JoH="0" OEx="0" Socket1="255" Socket2="255" Socket3="255" Socket4="255" Socket5="255" />	<!--Legendary Helm-->
+	<Item Cat="15"   Index="32"   Level="0" Durability="255" Skill="0" Luck="0" Option="0" ExcOp="0" SetOp="0" JoH="0" OEx="0" Socket1="255" Socket2="255" Socket3="255" Socket4="255" Socket5="255" />	<!--Legendary Helm-->
+	<Item Cat="15"   Index="33"   Level="0" Durability="255" Skill="0" Luck="0" Option="0" ExcOp="0" SetOp="0" JoH="0" OEx="0" Socket1="255" Socket2="255" Socket3="255" Socket4="255" Socket5="255" />	<!--Legendary Helm-->
+	<Item Cat="15"   Index="34"   Level="0" Durability="255" Skill="0" Luck="0" Option="0" ExcOp="0" SetOp="0" JoH="0" OEx="0" Socket1="255" Socket2="255" Socket3="255" Socket4="255" Socket5="255" />	<!--Legendary Helm-->
+	<Item Cat="15"   Index="35"   Level="0" Durability="255" Skill="0" Luck="0" Option="0" ExcOp="0" SetOp="0" JoH="0" OEx="0" Socket1="255" Socket2="255" Socket3="255" Socket4="255" Socket5="255" />	<!--Legendary Helm-->
+	<Item Cat="15"   Index="36"   Level="0" Durability="255" Skill="0" Luck="0" Option="0" ExcOp="0" SetOp="0" JoH="0" OEx="0" Socket1="255" Socket2="255" Socket3="255" Socket4="255" Socket5="255" />	<!--Legendary Helm-->
+
+</Shop>

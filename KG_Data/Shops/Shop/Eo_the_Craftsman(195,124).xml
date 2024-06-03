@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<Shop>
+	<Item Cat="14" Index="1" Level="0" Durability="200" Skill="0" Luck="0" Option="0" 	 ExcOp="0" SetOp="0" JoH="0" OEx="0" Socket1="255" Socket2="255" Socket3="255" Socket4="255" Socket5="255" />	<!--Short Bow-->
+	<Item Cat="14" Index="2" Level="0" Durability="200" Skill="0" Luck="0" Option="0" 	 ExcOp="0" SetOp="0" JoH="0" OEx="0" Socket1="255" Socket2="255" Socket3="255" Socket4="255" Socket5="255" />	<!--Bow-->
+	<Item Cat="14" Index="3" Level="0" Durability="200" Skill="0" Luck="0" Option="0" 	 ExcOp="0" SetOp="0" JoH="0" OEx="0" Socket1="255" Socket2="255" Socket3="255" Socket4="255" Socket5="255" />	<!--Elven Bow-->
+	<Item Cat="14" Index="4" Level="0" Durability="200" Skill="0" Luck="0" Option="0" 	 ExcOp="0" SetOp="0" JoH="0" OEx="0" Socket1="255" Socket2="255" Socket3="255" Socket4="255" Socket5="255" />	<!--Tiger Bow-->
+	<Item Cat="14" Index="5" Level="0" Durability="200" Skill="0" Luck="0" Option="0" 	 ExcOp="0" SetOp="0" JoH="0" OEx="0" Socket1="255" Socket2="255" Socket3="255" Socket4="255" Socket5="255" />	<!--Chaos Nature Bow-->
+	<Item Cat="14" Index="6" Level="0" Durability="200" Skill="0" Luck="0" Option="0" 	 ExcOp="0" SetOp="0" JoH="0" OEx="0" Socket1="255" Socket2="255" Socket3="255" Socket4="255" Socket5="255" />	<!--Saint CrossBow-->
+	<Item Cat="14" Index="8" Level="0" Durability="200" Skill="0" Luck="0" Option="0" 	 ExcOp="0" SetOp="0" JoH="0" OEx="0" Socket1="255" Socket2="255" Socket3="255" Socket4="255" Socket5="255" />	<!--Short Bow-->
+	<Item Cat="14" Index="63" Level="0" Durability="200" Skill="0" Luck="0" Option="0"	 ExcOp="0" SetOp="0" JoH="0" OEx="0" Socket1="255" Socket2="255" Socket3="255" Socket4="255" Socket5="255" />	<!--Bow-->
+	<Item Cat="13" Index="0" Level="0" Durability="0" Skill="0" Luck="0" Option="0" 	 ExcOp="0" SetOp="0" JoH="0" OEx="0" Socket1="255" Socket2="255" Socket3="255" Socket4="255" Socket5="255" />	<!--Elven Bow-->
+	<Item Cat="13" Index="1" Level="0" Durability="0" Skill="0" Luck="0" Option="0" 	 ExcOp="0" SetOp="0" JoH="0" OEx="0" Socket1="255" Socket2="255" Socket3="255" Socket4="255" Socket5="255" />	<!--Tiger Bow-->
+	<Item Cat="14" Index="66" Level="0" Durability="0" Skill="0" Luck="0" Option="0"	 ExcOp="0" SetOp="0" JoH="0" OEx="0" Socket1="255" Socket2="255" Socket3="255" Socket4="255" Socket5="255" />	<!--Chaos Nature Bow-->
+	<Item Cat="14" Index="67" Level="0" Durability="0" Skill="0" Luck="0" Option="0"	 ExcOp="0" SetOp="0" JoH="0" OEx="0" Socket1="255" Socket2="255" Socket3="255" Socket4="255" Socket5="255" />	<!--Saint CrossBow-->
+	<Item Cat="14" Index="65" Level="0" Durability="0" Skill="0" Luck="0" Option="0"	 ExcOp="0" SetOp="0" JoH="0" OEx="0" Socket1="255" Socket2="255" Socket3="255" Socket4="255" Socket5="255" />	<!--Short Bow-->
+	<Item Cat="13" Index="67" Level="0" Durability="0" Skill="0" Luck="0" Option="0"	 ExcOp="0" SetOp="0" JoH="0" OEx="0" Socket1="255" Socket2="255" Socket3="255" Socket4="255" Socket5="255" />	<!--Bow-->
+	<Item Cat="13" Index="29" Level="0" Durability="0" Skill="0" Luck="0" Option="0"	 ExcOp="0" SetOp="0" JoH="0" OEx="0" Socket1="255" Socket2="255" Socket3="255" Socket4="255" Socket5="255" />	<!--Elven Bow-->
+	<Item Cat="14" Index="9" Level="0" Durability="0" Skill="0" Luck="0" Option="0" 	 ExcOp="0" SetOp="0" JoH="0" OEx="0" Socket1="255" Socket2="255" Socket3="255" Socket4="255" Socket5="255" />	<!--Tiger Bow-->
+	<Item Cat="14" Index="10" Level="0" Durability="0" Skill="0" Luck="0" Option="0" 	 ExcOp="0" SetOp="0" JoH="0" OEx="0" Socket1="255" Socket2="255" Socket3="255" Socket4="255" Socket5="255" />	<!--Chaos Nature Bow-->
+	<Item Cat="14" Index="17" Level="1" Durability="0" Skill="0" Luck="0" Option="0" 	 ExcOp="0" SetOp="0" JoH="0" OEx="0" Socket1="255" Socket2="255" Socket3="255" Socket4="255" Socket5="255" />	<!--Saint CrossBow-->
+	<Item Cat="14" Index="18" Level="1" Durability="0" Skill="0" Luck="0" Option="0" 	 ExcOp="0" SetOp="0" JoH="0" OEx="0" Socket1="255" Socket2="255" Socket3="255" Socket4="255" Socket5="255" />	<!--Short Bow-->
+	<Item Cat="14" Index="23" Level="0" Durability="0" Skill="0" Luck="0" Option="0" 	 ExcOp="0" SetOp="0" JoH="0" OEx="0" Socket1="255" Socket2="255" Socket3="255" Socket4="255" Socket5="255" />	<!--Bow-->
+	<Item Cat="14" Index="25" Level="0" Durability="0" Skill="0" Luck="0" Option="0" 	 ExcOp="0" SetOp="0" JoH="0" OEx="0" Socket1="255" Socket2="255" Socket3="255" Socket4="255" Socket5="255" />	<!--Elven Bow-->
+	<Item Cat="14" Index="26" Level="0" Durability="0" Skill="0" Luck="0" Option="0" 	 ExcOp="0" SetOp="0" JoH="0" OEx="0" Socket1="255" Socket2="255" Socket3="255" Socket4="255" Socket5="255" />	<!--Tiger Bow-->
+	<Item Cat="14" Index="68" Level="0" Durability="0" Skill="0" Luck="0" Option="0" 	 ExcOp="0" SetOp="0" JoH="0" OEx="0" Socket1="255" Socket2="255" Socket3="255" Socket4="255" Socket5="255" />	<!--Chaos Nature Bow-->
+	<Item Cat="14" Index="24" Level="0" Durability="0" Skill="0" Luck="0" Option="0" 	 ExcOp="0" SetOp="0" JoH="0" OEx="0" Socket1="255" Socket2="255" Socket3="255" Socket4="255" Socket5="255" />	<!--Saint CrossBow-->
+	<Item Cat="13" Index="21" Level="9" Durability="0" Skill="0" Luck="0" Option="0" 	 ExcOp="0" SetOp="0" JoH="0" OEx="0" Socket1="255" Socket2="255" Socket3="255" Socket4="255" Socket5="255" />	<!--Short Bow-->
+	<Item Cat="13" Index="22" Level="9" Durability="0" Skill="0" Luck="0" Option="0" 	 ExcOp="0" SetOp="0" JoH="0" OEx="0" Socket1="255" Socket2="255" Socket3="255" Socket4="255" Socket5="255" />	<!--Bow-->
+	<Item Cat="13" Index="23" Level="9" Durability="0" Skill="0" Luck="0" Option="0" 	 ExcOp="0" SetOp="0" JoH="0" OEx="0" Socket1="255" Socket2="255" Socket3="255" Socket4="255" Socket5="255" />	<!--Elven Bow-->
+	<Item Cat="13" Index="24" Level="9" Durability="0" Skill="0" Luck="0" Option="0" 	 ExcOp="0" SetOp="0" JoH="0" OEx="0" Socket1="255" Socket2="255" Socket3="255" Socket4="255" Socket5="255" />	<!--Tiger Bow-->
+	<Item Cat="13" Index="27" Level="9" Durability="0" Skill="0" Luck="0" Option="0" 	 ExcOp="0" SetOp="0" JoH="0" OEx="0" Socket1="255" Socket2="255" Socket3="255" Socket4="255" Socket5="255" />	<!--Chaos Nature Bow-->
+	<Item Cat="13" Index="28" Level="9" Durability="0" Skill="0" Luck="0" Option="0" 	 ExcOp="0" SetOp="0" JoH="0" OEx="0" Socket1="255" Socket2="255" Socket3="255" Socket4="255" Socket5="255" />	<!--Saint CrossBow-->
+	<Item Cat="13" Index="26" Level="9" Durability="0" Skill="0" Luck="0" Option="0" 	 ExcOp="0" SetOp="0" JoH="0" OEx="0" Socket1="255" Socket2="255" Socket3="255" Socket4="255" Socket5="255" />	<!--Short Bow-->
+	<Item Cat="13" Index="17" Level="1" Durability="0" Skill="0" Luck="0" Option="0" 	 ExcOp="0" SetOp="0" JoH="0" OEx="0" Socket1="255" Socket2="255" Socket3="255" Socket4="255" Socket5="255" />	<!--Bow-->
+	<Item Cat="13" Index="17" Level="2" Durability="0" Skill="0" Luck="0" Option="0" 	 ExcOp="0" SetOp="0" JoH="0" OEx="0" Socket1="255" Socket2="255" Socket3="255" Socket4="255" Socket5="255" />	<!--Elven Bow-->
+	<Item Cat="13" Index="17" Level="3" Durability="0" Skill="0" Luck="0" Option="0" 	 ExcOp="0" SetOp="0" JoH="0" OEx="0" Socket1="255" Socket2="255" Socket3="255" Socket4="255" Socket5="255" />	<!--Tiger Bow-->
+	<Item Cat="13" Index="17" Level="4" Durability="0" Skill="0" Luck="0" Option="0" 	 ExcOp="0" SetOp="0" JoH="0" OEx="0" Socket1="255" Socket2="255" Socket3="255" Socket4="255" Socket5="255" />	<!--Chaos Nature Bow-->
+	<Item Cat="13" Index="16" Level="1" Durability="0" Skill="0" Luck="0" Option="0" 	 ExcOp="0" SetOp="0" JoH="0" OEx="0" Socket1="255" Socket2="255" Socket3="255" Socket4="255" Socket5="255" />	<!--Saint CrossBow-->
+	<Item Cat="13" Index="16" Level="2" Durability="0" Skill="0" Luck="0" Option="0" 	 ExcOp="0" SetOp="0" JoH="0" OEx="0" Socket1="255" Socket2="255" Socket3="255" Socket4="255" Socket5="255" />	<!--Short Bow-->
+	<Item Cat="13" Index="16" Level="3" Durability="0" Skill="0" Luck="0" Option="0" 	 ExcOp="0" SetOp="0" JoH="0" OEx="0" Socket1="255" Socket2="255" Socket3="255" Socket4="255" Socket5="255" />	<!--Bow-->
+	<Item Cat="13" Index="16" Level="4" Durability="0" Skill="0" Luck="0" Option="0" 	 ExcOp="0" SetOp="0" JoH="0" OEx="0" Socket1="255" Socket2="255" Socket3="255" Socket4="255" Socket5="255" />	<!--Elven Bow-->
+	<Item Cat="14" Index="18" Level="2" Durability="0" Skill="0" Luck="0" Option="0" 	 ExcOp="0" SetOp="0" JoH="0" OEx="0" Socket1="255" Socket2="255" Socket3="255" Socket4="255" Socket5="255" />	<!--Tiger Bow-->
+	<Item Cat="14" Index="18" Level="3" Durability="0" Skill="0" Luck="0" Option="0" 	 ExcOp="0" SetOp="0" JoH="0" OEx="0" Socket1="255" Socket2="255" Socket3="255" Socket4="255" Socket5="255" />	<!--Chaos Nature Bow-->
+	<Item Cat="14" Index="18" Level="4" Durability="0" Skill="0" Luck="0" Option="0" 	 ExcOp="0" SetOp="0" JoH="0" OEx="0" Socket1="255" Socket2="255" Socket3="255" Socket4="255" Socket5="255" />	<!--Saint CrossBow-->
+	
+
+
+</Shop>
