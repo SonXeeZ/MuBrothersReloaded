@@ -1,8 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<Shop>
-    <Item Cat="13" Index="71" Level="0" Durability="0" Skill="1" Luck="1" Option="3" ExcOp="0" SetOp="0" JoH="0" OEx="0" Socket1="255" Socket2="255" Socket3="255" Socket4="255" Socket5="255" ItemName="Sword/Mace/Spear" />
-    <Item Cat="13" Index="72" Level="0" Durability="0" Skill="1" Luck="1" Option="3" ExcOp="0" SetOp="0" JoH="0" OEx="0" Socket1="255" Socket2="255" Socket3="255" Socket4="255" Socket5="255" ItemName="Staff" />
-    <Item Cat="13" Index="73" Level="0" Durability="0" Skill="1" Luck="1" Option="3" ExcOp="0" SetOp="0" JoH="0" OEx="0" Socket1="255" Socket2="255" Socket3="255" Socket4="255" Socket5="255" ItemName="Bow/Crossbow" />
-    <Item Cat="13" Index="74" Level="0" Durability="0" Skill="1" Luck="1" Option="3" ExcOp="0" SetOp="0" JoH="0" OEx="0" Socket1="255" Socket2="255" Socket3="255" Socket4="255" Socket5="255" ItemName="Scepter" />
-    <Item Cat="13" Index="75" Level="0" Durability="0" Skill="1" Luck="1" Option="3" ExcOp="0" SetOp="0" JoH="0" OEx="0" Socket1="255" Socket2="255" Socket3="255" Socket4="255" Socket5="255" ItemName="Stick" />
-</Shop>

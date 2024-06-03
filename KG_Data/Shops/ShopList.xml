@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+ <ShopManager>
+    <Shop MonsterIndex="251" MapNumber="00" PosX="116" PosY="141" Dir="3" AccountLevel="0" FileName="Hanzo_the_Blacksmith(116,141)" Comment="Lorencia(116,141)" />
+ </ShopManager>

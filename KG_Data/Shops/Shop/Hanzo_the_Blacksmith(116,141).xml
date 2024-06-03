@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <Shop>
     <Item Cat="0" Index="2" Level="7" Durability="100" Skill="1" Luck="0" Option="0" ExcOp="0" SetOp="0" JoH="0" OEx="0" Socket1="255" Socket2="255" Socket3="255" Socket4="255" Socket5="255" ItemName="Rapier" />
     <Item Cat="0" Index="3" Level="7" Durability="100" Skill="1" Luck="0" Option="0" ExcOp="0" SetOp="0" JoH="0" OEx="0" Socket1="255" Socket2="255" Socket3="255" Socket4="255" Socket5="255" ItemName="Katana" />
